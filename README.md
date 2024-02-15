@@ -1,2 +1,2 @@
 # -DSA-
-Collection of LeetCode questions to ace the coding interview! 
+Collection of LeetCode/GFG questions to ace the coding interview! 
