@@ -10,15 +10,27 @@ class Solution{
   public:
     vector<int> printClosest(int arr[], int brr[], int n, int m, int x) {
 
-       int l{}, r{ m-1 }, a{}, b{}, xmin{ INT_MAX };
-    while ( l < n && r >= 0 ) {
-        const int s{ arr[ l ] + brr[ r ] }, xcur{ abs( x - s ) };
-        if ( xcur < xmin ) xmin = xcur, a = l, b = r;
-        s < x ? ++l : --r;
+    int l = 0, r = m - 1; // Initialize left and right pointers
+    int a = 0, b = 0; // Initialize variables to store the indices of the closest pair
+    int xmin = INT_MAX; // Initialize minimum difference to maximum possible value
+
+    while (l <n && r >= 0) { // Loop until pointers are within bounds
+        const int s = arr[l] + brr[r]; // Calculate the sum of elements at current indices
+        const int xcur = abs(x - s); // Calculate the absolute difference from the target
+
+        if (xcur < xmin) { // If the current difference is smaller than the minimum difference
+            xmin = xcur; // Update the minimum difference
+            a = l; // Update the index of the element in arr
+            b = r; // Update the index of the element in brr
+        }
+
+        if (s < x) // If sum is less than the target
+            ++l; // Move left pointer to the right
+        else // If sum is greater than or equal to the target
+            --r; // Move right pointer to the left
     }
-    return { arr[ a ], brr[ b ] };
-        
-        
+
+    return {arr[a], brr[b]}; // Return the closest pair
     }
 };
 
