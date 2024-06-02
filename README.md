@@ -34,3 +34,11 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0101-symmetric-tree](https://github.com/Noochila/-DSA-/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Noochila/-DSA-/tree/master/0199-binary-tree-right-side-view) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Noochila/-DSA-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+# Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Noochila/-DSA-/tree/master/0344-reverse-string) |
+# String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Noochila/-DSA-/tree/master/0344-reverse-string) |
