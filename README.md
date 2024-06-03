@@ -5,12 +5,14 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 # Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Noochila/-DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Noochila/-DSA-/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Noochila/-DSA-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 # Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Noochila/-DSA-/tree/master/0101-symmetric-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Noochila/-DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Noochila/-DSA-/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Noochila/-DSA-/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Noochila/-DSA-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -43,6 +45,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Noochila/-DSA-/tree/master/0101-symmetric-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Noochila/-DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Noochila/-DSA-/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Noochila/-DSA-/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Noochila/-DSA-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -73,3 +76,11 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Noochila/-DSA-/tree/master/0222-count-complete-tree-nodes) |
+# Array
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Noochila/-DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Noochila/-DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
