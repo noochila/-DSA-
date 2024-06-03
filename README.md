@@ -52,11 +52,17 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Noochila/-DSA-/tree/master/0344-reverse-string) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Noochila/-DSA-/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Noochila/-DSA-/tree/master/0344-reverse-string) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Noochila/-DSA-/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Binary Search Tree
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/Noochila/-DSA-/tree/master/0783-search-in-a-binary-search-tree) |
+# Greedy
+|  |
+| ------- |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Noochila/-DSA-/tree/master/2572-append-characters-to-string-to-make-subsequence) |
