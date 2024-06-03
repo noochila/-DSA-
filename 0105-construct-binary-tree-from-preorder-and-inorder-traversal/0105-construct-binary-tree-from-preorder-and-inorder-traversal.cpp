@@ -11,39 +11,37 @@
  */
 class Solution {
 public:
-    TreeNode* buildtree(int in[], int pre[], int n) {
-        if (n == 0)
-            return nullptr;
-
-        int rootind = 0;
-        while (rootind < n && in[rootind] != pre[0])
-            rootind++;
-
-        TreeNode* root = new TreeNode(pre[0]);
-
-        TreeNode* leftsubtree = buildtree(in, pre + 1, rootind);
-        TreeNode* rightsubtree = buildtree(in + rootind + 1, pre + rootind + 1, n - rootind - 1);
-
-        root->left = leftsubtree;
-        root->right = rightsubtree;
-
-        return root;
-    }
-
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
-        int n = preorder.size();
-
-        if (n == 0)
+        if(preorder.size() == 0)
             return nullptr;
 
-        int preorder1[n];
-        int inorder1[n];
-
-        for (int i = 0; i < n; i++) {
-            preorder1[i] = preorder[i];
-            inorder1[i] = inorder[i];
+        unordered_map<int, int> inorderIndexMap;
+        for (int i = 0; i < inorder.size(); ++i) {
+            inorderIndexMap[inorder[i]] = i;
         }
 
-        return buildtree(inorder1, preorder1, n);
+        return buildTreeHelper(preorder, 0, preorder.size() - 1, inorder, 0, inorder.size() - 1, inorderIndexMap);
+    }
+
+private:
+    TreeNode* buildTreeHelper(vector<int>& preorder, int preStart, int preEnd,
+                              vector<int>& inorder, int inStart, int inEnd,
+                              unordered_map<int, int>& inorderIndexMap) {
+        if (preStart > preEnd || inStart > inEnd) {
+            return nullptr;
+        }
+
+        int rootVal = preorder[preStart];
+        TreeNode* root = new TreeNode(rootVal);
+
+        int rootIndex = inorderIndexMap[rootVal];
+        int leftSubtreeSize = rootIndex - inStart;
+
+        root->left = buildTreeHelper(preorder, preStart + 1, preStart + leftSubtreeSize,
+                                     inorder, inStart, rootIndex - 1, inorderIndexMap);
+        root->right = buildTreeHelper(preorder, preStart + leftSubtreeSize + 1, preEnd,
+                                      inorder, rootIndex + 1, inEnd, inorderIndexMap);
+
+        return root;
     }
 };
