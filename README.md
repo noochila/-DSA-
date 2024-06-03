@@ -11,6 +11,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | ------- |
 | [0101-symmetric-tree](https://github.com/Noochila/-DSA-/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Noochila/-DSA-/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Noochila/-DSA-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Noochila/-DSA-/tree/master/0783-search-in-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Noochila/-DSA-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 # Depth-First Search
@@ -18,6 +19,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | ------- |
 | [0101-symmetric-tree](https://github.com/Noochila/-DSA-/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Noochila/-DSA-/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Noochila/-DSA-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Noochila/-DSA-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 # Breadth-First Search
 |  |
@@ -34,6 +36,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | ------- |
 | [0101-symmetric-tree](https://github.com/Noochila/-DSA-/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Noochila/-DSA-/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Noochila/-DSA-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Noochila/-DSA-/tree/master/0783-search-in-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Noochila/-DSA-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 # Two Pointers
