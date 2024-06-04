@@ -81,12 +81,14 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Noochila/-DSA-/tree/master/0222-count-complete-tree-nodes) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Noochila/-DSA-/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3436-find-subarray-with-bitwise-and-closest-to-k](https://github.com/Noochila/-DSA-/tree/master/3436-find-subarray-with-bitwise-and-closest-to-k) |
 # Array
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Noochila/-DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0454-4sum-ii](https://github.com/Noochila/-DSA-/tree/master/0454-4sum-ii) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Noochila/-DSA-/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3436-find-subarray-with-bitwise-and-closest-to-k](https://github.com/Noochila/-DSA-/tree/master/3436-find-subarray-with-bitwise-and-closest-to-k) |
 # Divide and Conquer
 |  |
@@ -96,3 +98,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [3436-find-subarray-with-bitwise-and-closest-to-k](https://github.com/Noochila/-DSA-/tree/master/3436-find-subarray-with-bitwise-and-closest-to-k) |
+# Sliding Window
+|  |
+| ------- |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Noochila/-DSA-/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
