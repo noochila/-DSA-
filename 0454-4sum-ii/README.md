@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/4sum-ii/">454. 4Sum II</a></h2><h3>Medium</h3><hr><div><p>Given four integer arrays <code>nums1</code>, <code>nums2</code>, <code>nums3</code>, and <code>nums4</code> all of length <code>n</code>, return the number of tuples <code>(i, j, k, l)</code> such that:</p>
+<h2><a href="https://leetcode.com/problems/4sum-ii">454. 4Sum II</a></h2><h3>Medium</h3><hr><p>Given four integer arrays <code>nums1</code>, <code>nums2</code>, <code>nums3</code>, and <code>nums4</code> all of length <code>n</code>, return the number of tuples <code>(i, j, k, l)</code> such that:</p>
 
 <ul>
 	<li><code>0 &lt;= i, j, k, l &lt; n</code></li>
@@ -8,7 +8,8 @@
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<pre><strong>Input:</strong> nums1 = [1,2], nums2 = [-2,-1], nums3 = [-1,2], nums4 = [0,2]
+<pre>
+<strong>Input:</strong> nums1 = [1,2], nums2 = [-2,-1], nums3 = [-1,2], nums4 = [0,2]
 <strong>Output:</strong> 2
 <strong>Explanation:</strong>
 The two tuples are:
@@ -18,7 +19,8 @@ The two tuples are:
 
 <p><strong class="example">Example 2:</strong></p>
 
-<pre><strong>Input:</strong> nums1 = [0], nums2 = [0], nums3 = [0], nums4 = [0]
+<pre>
+<strong>Input:</strong> nums1 = [0], nums2 = [0], nums3 = [0], nums4 = [0]
 <strong>Output:</strong> 1
 </pre>
 
@@ -33,4 +35,3 @@ The two tuples are:
 	<li><code>1 &lt;= n &lt;= 200</code></li>
 	<li><code>-2<sup>28</sup> &lt;= nums1[i], nums2[i], nums3[i], nums4[i] &lt;= 2<sup>28</sup></code></li>
 </ul>
-</div>
