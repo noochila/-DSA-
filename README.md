@@ -14,6 +14,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 # Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Noochila/-DSA-/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Noochila/-DSA-/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Noochila/-DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Noochila/-DSA-/tree/master/0199-binary-tree-right-side-view) |
@@ -27,6 +28,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 # Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Noochila/-DSA-/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Noochila/-DSA-/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Noochila/-DSA-/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Noochila/-DSA-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -48,6 +50,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 # Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Noochila/-DSA-/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Noochila/-DSA-/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Noochila/-DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Noochila/-DSA-/tree/master/0199-binary-tree-right-side-view) |
@@ -73,6 +76,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 # Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Noochila/-DSA-/tree/master/0098-validate-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Noochila/-DSA-/tree/master/0222-count-complete-tree-nodes) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Noochila/-DSA-/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Noochila/-DSA-/tree/master/0784-insert-into-a-binary-search-tree) |
