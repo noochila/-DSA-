@@ -15,6 +15,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 # Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Noochila/-DSA-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Noochila/-DSA-/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Noochila/-DSA-/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Noochila/-DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -34,6 +35,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 # Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Noochila/-DSA-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Noochila/-DSA-/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Noochila/-DSA-/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Noochila/-DSA-/tree/master/0199-binary-tree-right-side-view) |
@@ -61,6 +63,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 # Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Noochila/-DSA-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Noochila/-DSA-/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Noochila/-DSA-/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Noochila/-DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -143,6 +146,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 # Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Noochila/-DSA-/tree/master/0094-binary-tree-inorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Noochila/-DSA-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 # Monotonic Stack
 |  |
