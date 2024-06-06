@@ -41,28 +41,41 @@ public:
     vector<int> inorderTraversal(TreeNode* root) {
 
         // return inorder(root);
-          vector<int> result;
-        TreeNode* curr = root;
-        TreeNode* pre;
 
-        while (curr != nullptr) {
-            if (curr->left == nullptr) {
-                result.push_back(curr->val);
-                curr = curr->right;
-            } else {
-                pre = curr->left;
-                
-                while (pre->right != nullptr) {
-                    pre = pre->right;
+        vector<int> ans;
+
+
+        TreeNode* curr=root;
+
+        while(curr!=nullptr)
+        {
+            if(curr->left==nullptr)
+            {
+                ans.push_back(curr->val);
+                curr=curr->right;
+            }else
+            {
+                auto temp=curr->left;
+                while(temp->right && temp->right!=curr)
+                temp=temp->right;
+
+
+                if(temp->right==nullptr)
+                {
+                temp->right=curr;
+                curr=curr->left;
+
+                }else
+                {
+                    temp->right=nullptr;
+                    ans.push_back(curr->val);
+                    curr=curr->right;
+
                 }
-                
-                pre->right = curr;
-                TreeNode* temp = curr;
-                curr = curr->left;
-                temp->left = nullptr;
             }
         }
 
-        return result;
+        return ans;
+       
     }
 };
