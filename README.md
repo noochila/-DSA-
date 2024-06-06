@@ -8,6 +8,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Noochila/-DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0409-longest-palindrome](https://github.com/Noochila/-DSA-/tree/master/0409-longest-palindrome) |
 | [0454-4sum-ii](https://github.com/Noochila/-DSA-/tree/master/0454-4sum-ii) |
+| [0876-hand-of-straights](https://github.com/Noochila/-DSA-/tree/master/0876-hand-of-straights) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Noochila/-DSA-/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Noochila/-DSA-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1044-find-common-characters](https://github.com/Noochila/-DSA-/tree/master/1044-find-common-characters) |
@@ -49,6 +50,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 # Sorting
 |  |
 | ------- |
+| [0876-hand-of-straights](https://github.com/Noochila/-DSA-/tree/master/0876-hand-of-straights) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Noochila/-DSA-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 # Binary Tree
 |  |
@@ -92,6 +94,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Noochila/-DSA-/tree/master/0409-longest-palindrome) |
+| [0876-hand-of-straights](https://github.com/Noochila/-DSA-/tree/master/0876-hand-of-straights) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Noochila/-DSA-/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Bit Manipulation
 |  |
@@ -104,6 +107,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Noochila/-DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0454-4sum-ii](https://github.com/Noochila/-DSA-/tree/master/0454-4sum-ii) |
+| [0876-hand-of-straights](https://github.com/Noochila/-DSA-/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/Noochila/-DSA-/tree/master/1044-find-common-characters) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Noochila/-DSA-/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3436-find-subarray-with-bitwise-and-closest-to-k](https://github.com/Noochila/-DSA-/tree/master/3436-find-subarray-with-bitwise-and-closest-to-k) |
