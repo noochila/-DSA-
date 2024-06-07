@@ -61,8 +61,9 @@ public:
         return false;
     BSTIteratorleft l(root);
     BSTIteratorright r(root);
+    int i=l.next(),j=r.next();
 
-    for(int i=l.next(),j=r.next();i<j;)
+    while(i<j)
     {
         int sum=i+j;
         if(sum==k)
