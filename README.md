@@ -18,6 +18,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1016-subarray-sums-divisible-by-k](https://github.com/Noochila/-DSA-/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Noochila/-DSA-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1044-find-common-characters](https://github.com/Noochila/-DSA-/tree/master/1044-find-common-characters) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Noochila/-DSA-/tree/master/1370-count-number-of-nice-subarrays) |
 # Tree
 |  |
 | ------- |
@@ -155,6 +156,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1044-find-common-characters](https://github.com/Noochila/-DSA-/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/Noochila/-DSA-/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Noochila/-DSA-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Noochila/-DSA-/tree/master/1370-count-number-of-nice-subarrays) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Noochila/-DSA-/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3436-find-subarray-with-bitwise-and-closest-to-k](https://github.com/Noochila/-DSA-/tree/master/3436-find-subarray-with-bitwise-and-closest-to-k) |
 # Divide and Conquer
@@ -171,6 +173,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0424-longest-repeating-character-replacement](https://github.com/Noochila/-DSA-/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/Noochila/-DSA-/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Noochila/-DSA-/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Noochila/-DSA-/tree/master/1370-count-number-of-nice-subarrays) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Noochila/-DSA-/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 # Design
 |  |
@@ -204,6 +207,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Noochila/-DSA-/tree/master/0523-continuous-subarray-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Noochila/-DSA-/tree/master/1370-count-number-of-nice-subarrays) |
 # Prefix Sum
 |  |
 | ------- |
