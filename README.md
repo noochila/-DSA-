@@ -211,6 +211,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 # Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Noochila/-DSA-/tree/master/0050-powx-n) |
 | [0523-continuous-subarray-sum](https://github.com/Noochila/-DSA-/tree/master/0523-continuous-subarray-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Noochila/-DSA-/tree/master/1370-count-number-of-nice-subarrays) |
 # Prefix Sum
@@ -225,3 +226,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [1217-relative-sort-array](https://github.com/Noochila/-DSA-/tree/master/1217-relative-sort-array) |
+# Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Noochila/-DSA-/tree/master/0050-powx-n) |
