@@ -21,6 +21,9 @@ public:
               vector<int> x;
   printarr(nums, nums.size(), x, 0);
 
+
+//   sort(nums.begin(),nums.end());
+
   vector<vector<int>> ans(s.begin(),s.end());
   
   return ans;
