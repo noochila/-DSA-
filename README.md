@@ -75,6 +75,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 # Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Noochila/-DSA-/tree/master/0075-sort-colors) |
 | [0876-hand-of-straights](https://github.com/Noochila/-DSA-/tree/master/0876-hand-of-straights) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Noochila/-DSA-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1217-relative-sort-array](https://github.com/Noochila/-DSA-/tree/master/1217-relative-sort-array) |
@@ -105,6 +106,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 # Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Noochila/-DSA-/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/Noochila/-DSA-/tree/master/0344-reverse-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Noochila/-DSA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Noochila/-DSA-/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -156,6 +158,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | ------- |
 | [0039-combination-sum](https://github.com/Noochila/-DSA-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Noochila/-DSA-/tree/master/0040-combination-sum-ii) |
+| [0075-sort-colors](https://github.com/Noochila/-DSA-/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Noochila/-DSA-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Noochila/-DSA-/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Noochila/-DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
