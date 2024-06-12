@@ -5,6 +5,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 # Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Noochila/-DSA-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Noochila/-DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0409-longest-palindrome](https://github.com/Noochila/-DSA-/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Noochila/-DSA-/tree/master/0424-longest-repeating-character-replacement) |
@@ -110,6 +111,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 # String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Noochila/-DSA-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Noochila/-DSA-/tree/master/0022-generate-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Noochila/-DSA-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/Noochila/-DSA-/tree/master/0344-reverse-string) |
@@ -241,6 +243,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 # Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Noochila/-DSA-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Noochila/-DSA-/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Noochila/-DSA-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Noochila/-DSA-/tree/master/0040-combination-sum-ii) |
