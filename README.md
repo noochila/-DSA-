@@ -110,6 +110,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 # String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Noochila/-DSA-/tree/master/0022-generate-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Noochila/-DSA-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/Noochila/-DSA-/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/Noochila/-DSA-/tree/master/0409-longest-palindrome) |
@@ -237,5 +238,10 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 # Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Noochila/-DSA-/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Noochila/-DSA-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Noochila/-DSA-/tree/master/0090-subsets-ii) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Noochila/-DSA-/tree/master/0022-generate-parentheses) |
