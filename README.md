@@ -151,6 +151,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 # Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Noochila/-DSA-/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Noochila/-DSA-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Noochila/-DSA-/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Noochila/-DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -239,6 +240,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Noochila/-DSA-/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/Noochila/-DSA-/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Noochila/-DSA-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Noochila/-DSA-/tree/master/0090-subsets-ii) |
 # Dynamic Programming
