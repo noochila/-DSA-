@@ -8,6 +8,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Noochila/-DSA-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Noochila/-DSA-/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Noochila/-DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0139-word-break](https://github.com/Noochila/-DSA-/tree/master/0139-word-break) |
 | [0409-longest-palindrome](https://github.com/Noochila/-DSA-/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Noochila/-DSA-/tree/master/0424-longest-repeating-character-replacement) |
 | [0454-4sum-ii](https://github.com/Noochila/-DSA-/tree/master/0454-4sum-ii) |
@@ -118,6 +119,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/Noochila/-DSA-/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Noochila/-DSA-/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Noochila/-DSA-/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Noochila/-DSA-/tree/master/0139-word-break) |
 | [0282-expression-add-operators](https://github.com/Noochila/-DSA-/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Noochila/-DSA-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/Noochila/-DSA-/tree/master/0344-reverse-string) |
@@ -168,6 +170,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0079-word-search](https://github.com/Noochila/-DSA-/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Noochila/-DSA-/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Noochila/-DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0139-word-break](https://github.com/Noochila/-DSA-/tree/master/0139-word-break) |
 | [0216-combination-sum-iii](https://github.com/Noochila/-DSA-/tree/master/0216-combination-sum-iii) |
 | [0454-4sum-ii](https://github.com/Noochila/-DSA-/tree/master/0454-4sum-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Noochila/-DSA-/tree/master/0523-continuous-subarray-sum) |
@@ -227,6 +230,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 # Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Noochila/-DSA-/tree/master/0139-word-break) |
 | [0648-replace-words](https://github.com/Noochila/-DSA-/tree/master/0648-replace-words) |
 # Math
 |  |
@@ -271,8 +275,13 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | ------- |
 | [0022-generate-parentheses](https://github.com/Noochila/-DSA-/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Noochila/-DSA-/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Noochila/-DSA-/tree/master/0139-word-break) |
 # Matrix
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Noochila/-DSA-/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Noochila/-DSA-/tree/master/0079-word-search) |
+# Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Noochila/-DSA-/tree/master/0139-word-break) |
