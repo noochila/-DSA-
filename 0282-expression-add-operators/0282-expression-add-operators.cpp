@@ -1,32 +1,39 @@
+#include <vector>
+#include <string>
+
+using namespace std;
+
 class Solution {
 public:
-  void addOperators(vector<string>& result, string nums, string t, long long last, long long curVal, int target) {
-	if (nums.length() == 0) {
-		if (curVal == target)
-			result.push_back(t);
-		return;
-	}
+    vector<string> ans;
 
-	for (int i = 1; i<=nums.length(); i++) {
-		string num = nums.substr(0, i);
-		if(num.length() > 1 && num[0] == '0')
-		    return;
-		
-		string nextNum = nums.substr(i);
+    void solve(int ind, string temp, long long prev, long long curr, int target, string num) {
+        if (ind == num.size()) {
+            if (curr == target) {
+                ans.push_back(temp);
+            }
+            return;
+        }
 
-		if (t.length() > 0) {
-			addOperators(result, nextNum, t + "+" + num, stoll(num), curVal + stoll(num), target);
-			addOperators(result, nextNum, t + "-" + num, -stoll(num), curVal - stoll(num), target);
-			addOperators(result, nextNum, t + "*" + num, last * stoll(num), (curVal - last) + (last * stoll(num)), target);
-		}
-		else 
-			addOperators(result, nextNum, num, stoll(num), stoll(num), target);
-	}
-}
+        for (int i = ind; i < num.size(); i++) {
+            // Avoid numbers with leading zero
+            if (i > ind && num[ind] == '0') break;
 
-vector<string> addOperators(string num, int target) {
-	vector<string> result;
-	addOperators(result, num, "", 0, 0, target);
-	return result;
-}
+            string val = num.substr(ind, i - ind + 1);
+            long long num_val = stoll(val);
+
+            if (ind == 0) {
+                solve(i + 1, temp + val, num_val, num_val, target, num);
+            } else {
+                solve(i + 1, temp + '+' + val, num_val, curr + num_val, target, num);
+                solve(i + 1, temp + '-' + val, -num_val, curr - num_val, target, num);
+                solve(i + 1, temp + '*' + val, prev * num_val, curr - prev + (prev * num_val), target, num);
+            }
+        }
+    }
+
+    vector<string> addOperators(string num, int target) {
+        solve(0, "", 0, 0, target, num);
+        return ans;
+    }
 };
