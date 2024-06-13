@@ -118,6 +118,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/Noochila/-DSA-/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Noochila/-DSA-/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Noochila/-DSA-/tree/master/0131-palindrome-partitioning) |
+| [0282-expression-add-operators](https://github.com/Noochila/-DSA-/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Noochila/-DSA-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/Noochila/-DSA-/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/Noochila/-DSA-/tree/master/0409-longest-palindrome) |
@@ -231,6 +232,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Noochila/-DSA-/tree/master/0050-powx-n) |
+| [0282-expression-add-operators](https://github.com/Noochila/-DSA-/tree/master/0282-expression-add-operators) |
 | [0523-continuous-subarray-sum](https://github.com/Noochila/-DSA-/tree/master/0523-continuous-subarray-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Noochila/-DSA-/tree/master/1370-count-number-of-nice-subarrays) |
 # Prefix Sum
@@ -263,6 +265,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0090-subsets-ii](https://github.com/Noochila/-DSA-/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Noochila/-DSA-/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Noochila/-DSA-/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/Noochila/-DSA-/tree/master/0282-expression-add-operators) |
 # Dynamic Programming
 |  |
 | ------- |
