@@ -6,6 +6,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Noochila/-DSA-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Noochila/-DSA-/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Noochila/-DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0409-longest-palindrome](https://github.com/Noochila/-DSA-/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Noochila/-DSA-/tree/master/0424-longest-repeating-character-replacement) |
@@ -157,6 +158,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 # Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Noochila/-DSA-/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Noochila/-DSA-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Noochila/-DSA-/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Noochila/-DSA-/tree/master/0051-n-queens) |
@@ -252,6 +254,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Noochila/-DSA-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Noochila/-DSA-/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Noochila/-DSA-/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Noochila/-DSA-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Noochila/-DSA-/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Noochila/-DSA-/tree/master/0051-n-queens) |
@@ -268,4 +271,5 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 # Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Noochila/-DSA-/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Noochila/-DSA-/tree/master/0079-word-search) |
