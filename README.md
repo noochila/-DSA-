@@ -79,6 +79,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | ------- |
 | [0075-sort-colors](https://github.com/Noochila/-DSA-/tree/master/0075-sort-colors) |
 | [0876-hand-of-straights](https://github.com/Noochila/-DSA-/tree/master/0876-hand-of-straights) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Noochila/-DSA-/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Noochila/-DSA-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1217-relative-sort-array](https://github.com/Noochila/-DSA-/tree/master/1217-relative-sort-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Noochila/-DSA-/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -151,6 +152,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | ------- |
 | [0409-longest-palindrome](https://github.com/Noochila/-DSA-/tree/master/0409-longest-palindrome) |
 | [0876-hand-of-straights](https://github.com/Noochila/-DSA-/tree/master/0876-hand-of-straights) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Noochila/-DSA-/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Noochila/-DSA-/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Noochila/-DSA-/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Bit Manipulation
@@ -180,6 +182,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0648-replace-words](https://github.com/Noochila/-DSA-/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/Noochila/-DSA-/tree/master/0876-hand-of-straights) |
 | [0966-binary-subarrays-with-sum](https://github.com/Noochila/-DSA-/tree/master/0966-binary-subarrays-with-sum) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Noochila/-DSA-/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Noochila/-DSA-/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/Noochila/-DSA-/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/Noochila/-DSA-/tree/master/1046-max-consecutive-ones-iii) |
@@ -259,6 +262,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 # Counting Sort
 |  |
 | ------- |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Noochila/-DSA-/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1217-relative-sort-array](https://github.com/Noochila/-DSA-/tree/master/1217-relative-sort-array) |
 # Recursion
 |  |
