@@ -210,6 +210,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Noochila/-DSA-/tree/master/0173-binary-search-tree-iterator) |
+| [0232-implement-queue-using-stacks](https://github.com/Noochila/-DSA-/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Noochila/-DSA-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 # Stack
 |  |
@@ -217,6 +218,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0094-binary-tree-inorder-traversal](https://github.com/Noochila/-DSA-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Noochila/-DSA-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/Noochila/-DSA-/tree/master/0173-binary-search-tree-iterator) |
+| [0232-implement-queue-using-stacks](https://github.com/Noochila/-DSA-/tree/master/0232-implement-queue-using-stacks) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Noochila/-DSA-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 # Monotonic Stack
 |  |
@@ -288,3 +290,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Noochila/-DSA-/tree/master/0139-word-break) |
+# Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Noochila/-DSA-/tree/master/0232-implement-queue-using-stacks) |
