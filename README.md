@@ -117,6 +117,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Noochila/-DSA-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Noochila/-DSA-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Noochila/-DSA-/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Noochila/-DSA-/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Noochila/-DSA-/tree/master/0131-palindrome-partitioning) |
@@ -215,6 +216,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 # Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Noochila/-DSA-/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Noochila/-DSA-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Noochila/-DSA-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/Noochila/-DSA-/tree/master/0173-binary-search-tree-iterator) |
