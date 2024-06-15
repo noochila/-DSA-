@@ -12,6 +12,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0409-longest-palindrome](https://github.com/Noochila/-DSA-/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Noochila/-DSA-/tree/master/0424-longest-repeating-character-replacement) |
 | [0454-4sum-ii](https://github.com/Noochila/-DSA-/tree/master/0454-4sum-ii) |
+| [0496-next-greater-element-i](https://github.com/Noochila/-DSA-/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Noochila/-DSA-/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/Noochila/-DSA-/tree/master/0648-replace-words) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Noochila/-DSA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -178,6 +179,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0139-word-break](https://github.com/Noochila/-DSA-/tree/master/0139-word-break) |
 | [0216-combination-sum-iii](https://github.com/Noochila/-DSA-/tree/master/0216-combination-sum-iii) |
 | [0454-4sum-ii](https://github.com/Noochila/-DSA-/tree/master/0454-4sum-ii) |
+| [0496-next-greater-element-i](https://github.com/Noochila/-DSA-/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Noochila/-DSA-/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/Noochila/-DSA-/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/Noochila/-DSA-/tree/master/0876-hand-of-straights) |
@@ -226,10 +228,12 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0155-min-stack](https://github.com/Noochila/-DSA-/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Noochila/-DSA-/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/Noochila/-DSA-/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/Noochila/-DSA-/tree/master/0496-next-greater-element-i) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Noochila/-DSA-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 # Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Noochila/-DSA-/tree/master/0496-next-greater-element-i) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Noochila/-DSA-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 # Linked List
 |  |
