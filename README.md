@@ -180,6 +180,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0216-combination-sum-iii](https://github.com/Noochila/-DSA-/tree/master/0216-combination-sum-iii) |
 | [0454-4sum-ii](https://github.com/Noochila/-DSA-/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/Noochila/-DSA-/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Noochila/-DSA-/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Noochila/-DSA-/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/Noochila/-DSA-/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/Noochila/-DSA-/tree/master/0876-hand-of-straights) |
@@ -229,11 +230,13 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0173-binary-search-tree-iterator](https://github.com/Noochila/-DSA-/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/Noochila/-DSA-/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Noochila/-DSA-/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Noochila/-DSA-/tree/master/0503-next-greater-element-ii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Noochila/-DSA-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 # Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Noochila/-DSA-/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Noochila/-DSA-/tree/master/0503-next-greater-element-ii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Noochila/-DSA-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 # Linked List
 |  |
