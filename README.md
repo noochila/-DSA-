@@ -220,6 +220,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0173-binary-search-tree-iterator](https://github.com/Noochila/-DSA-/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/Noochila/-DSA-/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Noochila/-DSA-/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0937-online-stock-span](https://github.com/Noochila/-DSA-/tree/master/0937-online-stock-span) |
 # Stack
 |  |
 | ------- |
@@ -231,12 +232,14 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0232-implement-queue-using-stacks](https://github.com/Noochila/-DSA-/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Noochila/-DSA-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Noochila/-DSA-/tree/master/0503-next-greater-element-ii) |
+| [0937-online-stock-span](https://github.com/Noochila/-DSA-/tree/master/0937-online-stock-span) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Noochila/-DSA-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 # Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Noochila/-DSA-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Noochila/-DSA-/tree/master/0503-next-greater-element-ii) |
+| [0937-online-stock-span](https://github.com/Noochila/-DSA-/tree/master/0937-online-stock-span) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Noochila/-DSA-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 # Linked List
 |  |
@@ -309,3 +312,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Noochila/-DSA-/tree/master/0232-implement-queue-using-stacks) |
+# Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Noochila/-DSA-/tree/master/0937-online-stock-span) |
