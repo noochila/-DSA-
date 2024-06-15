@@ -79,6 +79,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Noochila/-DSA-/tree/master/0075-sort-colors) |
+| [0502-ipo](https://github.com/Noochila/-DSA-/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/Noochila/-DSA-/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Noochila/-DSA-/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Noochila/-DSA-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -152,6 +153,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Noochila/-DSA-/tree/master/0409-longest-palindrome) |
+| [0502-ipo](https://github.com/Noochila/-DSA-/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/Noochila/-DSA-/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Noochila/-DSA-/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Noochila/-DSA-/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -180,6 +182,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0216-combination-sum-iii](https://github.com/Noochila/-DSA-/tree/master/0216-combination-sum-iii) |
 | [0454-4sum-ii](https://github.com/Noochila/-DSA-/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/Noochila/-DSA-/tree/master/0496-next-greater-element-i) |
+| [0502-ipo](https://github.com/Noochila/-DSA-/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/Noochila/-DSA-/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Noochila/-DSA-/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/Noochila/-DSA-/tree/master/0648-replace-words) |
@@ -316,3 +319,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/Noochila/-DSA-/tree/master/0937-online-stock-span) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [0502-ipo](https://github.com/Noochila/-DSA-/tree/master/0502-ipo) |
