@@ -152,6 +152,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 # Greedy
 |  |
 | ------- |
+| [0330-patching-array](https://github.com/Noochila/-DSA-/tree/master/0330-patching-array) |
 | [0409-longest-palindrome](https://github.com/Noochila/-DSA-/tree/master/0409-longest-palindrome) |
 | [0502-ipo](https://github.com/Noochila/-DSA-/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/Noochila/-DSA-/tree/master/0876-hand-of-straights) |
@@ -181,6 +182,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0139-word-break](https://github.com/Noochila/-DSA-/tree/master/0139-word-break) |
 | [0216-combination-sum-iii](https://github.com/Noochila/-DSA-/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/Noochila/-DSA-/tree/master/0239-sliding-window-maximum) |
+| [0330-patching-array](https://github.com/Noochila/-DSA-/tree/master/0330-patching-array) |
 | [0454-4sum-ii](https://github.com/Noochila/-DSA-/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/Noochila/-DSA-/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/Noochila/-DSA-/tree/master/0502-ipo) |
