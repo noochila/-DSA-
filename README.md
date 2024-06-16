@@ -180,6 +180,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Noochila/-DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0139-word-break](https://github.com/Noochila/-DSA-/tree/master/0139-word-break) |
 | [0216-combination-sum-iii](https://github.com/Noochila/-DSA-/tree/master/0216-combination-sum-iii) |
+| [0239-sliding-window-maximum](https://github.com/Noochila/-DSA-/tree/master/0239-sliding-window-maximum) |
 | [0454-4sum-ii](https://github.com/Noochila/-DSA-/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/Noochila/-DSA-/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/Noochila/-DSA-/tree/master/0502-ipo) |
@@ -210,6 +211,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 # Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Noochila/-DSA-/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Noochila/-DSA-/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/Noochila/-DSA-/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Noochila/-DSA-/tree/master/1046-max-consecutive-ones-iii) |
@@ -315,6 +317,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Noochila/-DSA-/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/Noochila/-DSA-/tree/master/0239-sliding-window-maximum) |
 # Data Stream
 |  |
 | ------- |
@@ -322,4 +325,9 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 # Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Noochila/-DSA-/tree/master/0239-sliding-window-maximum) |
 | [0502-ipo](https://github.com/Noochila/-DSA-/tree/master/0502-ipo) |
+# Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Noochila/-DSA-/tree/master/0239-sliding-window-maximum) |
