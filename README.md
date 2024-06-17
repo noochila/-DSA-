@@ -114,6 +114,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | ------- |
 | [0075-sort-colors](https://github.com/Noochila/-DSA-/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/Noochila/-DSA-/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/Noochila/-DSA-/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Noochila/-DSA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Noochila/-DSA-/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
@@ -143,6 +144,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Noochila/-DSA-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Noochila/-DSA-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Noochila/-DSA-/tree/master/0450-delete-node-in-a-bst) |
+| [0633-sum-of-square-numbers](https://github.com/Noochila/-DSA-/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Noochila/-DSA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Noochila/-DSA-/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Noochila/-DSA-/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -267,6 +269,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0050-powx-n](https://github.com/Noochila/-DSA-/tree/master/0050-powx-n) |
 | [0282-expression-add-operators](https://github.com/Noochila/-DSA-/tree/master/0282-expression-add-operators) |
 | [0523-continuous-subarray-sum](https://github.com/Noochila/-DSA-/tree/master/0523-continuous-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/Noochila/-DSA-/tree/master/0633-sum-of-square-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Noochila/-DSA-/tree/master/1370-count-number-of-nice-subarrays) |
 # Prefix Sum
 |  |
