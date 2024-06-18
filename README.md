@@ -80,6 +80,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | ------- |
 | [0075-sort-colors](https://github.com/Noochila/-DSA-/tree/master/0075-sort-colors) |
 | [0502-ipo](https://github.com/Noochila/-DSA-/tree/master/0502-ipo) |
+| [0853-most-profit-assigning-work](https://github.com/Noochila/-DSA-/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/Noochila/-DSA-/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Noochila/-DSA-/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Noochila/-DSA-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -116,6 +117,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/Noochila/-DSA-/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/Noochila/-DSA-/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Noochila/-DSA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0853-most-profit-assigning-work](https://github.com/Noochila/-DSA-/tree/master/0853-most-profit-assigning-work) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Noochila/-DSA-/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
 |  |
@@ -148,6 +150,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Noochila/-DSA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Noochila/-DSA-/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Noochila/-DSA-/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0853-most-profit-assigning-work](https://github.com/Noochila/-DSA-/tree/master/0853-most-profit-assigning-work) |
 | [1046-max-consecutive-ones-iii](https://github.com/Noochila/-DSA-/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Noochila/-DSA-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [3436-find-subarray-with-bitwise-and-closest-to-k](https://github.com/Noochila/-DSA-/tree/master/3436-find-subarray-with-bitwise-and-closest-to-k) |
@@ -157,6 +160,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0330-patching-array](https://github.com/Noochila/-DSA-/tree/master/0330-patching-array) |
 | [0409-longest-palindrome](https://github.com/Noochila/-DSA-/tree/master/0409-longest-palindrome) |
 | [0502-ipo](https://github.com/Noochila/-DSA-/tree/master/0502-ipo) |
+| [0853-most-profit-assigning-work](https://github.com/Noochila/-DSA-/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/Noochila/-DSA-/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Noochila/-DSA-/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Noochila/-DSA-/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -191,6 +195,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0503-next-greater-element-ii](https://github.com/Noochila/-DSA-/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Noochila/-DSA-/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/Noochila/-DSA-/tree/master/0648-replace-words) |
+| [0853-most-profit-assigning-work](https://github.com/Noochila/-DSA-/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/Noochila/-DSA-/tree/master/0876-hand-of-straights) |
 | [0966-binary-subarrays-with-sum](https://github.com/Noochila/-DSA-/tree/master/0966-binary-subarrays-with-sum) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Noochila/-DSA-/tree/master/0982-minimum-increment-to-make-array-unique) |
