@@ -85,6 +85,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Noochila/-DSA-/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Noochila/-DSA-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1217-relative-sort-array](https://github.com/Noochila/-DSA-/tree/master/1217-relative-sort-array) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Noochila/-DSA-/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Noochila/-DSA-/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Binary Tree
 |  |
@@ -154,6 +155,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1046-max-consecutive-ones-iii](https://github.com/Noochila/-DSA-/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Noochila/-DSA-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Noochila/-DSA-/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Noochila/-DSA-/tree/master/1675-magnetic-force-between-two-balls) |
 | [3436-find-subarray-with-bitwise-and-closest-to-k](https://github.com/Noochila/-DSA-/tree/master/3436-find-subarray-with-bitwise-and-closest-to-k) |
 # Greedy
 |  |
@@ -208,6 +210,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1370-count-number-of-nice-subarrays](https://github.com/Noochila/-DSA-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Noochila/-DSA-/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Noochila/-DSA-/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Noochila/-DSA-/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Noochila/-DSA-/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Noochila/-DSA-/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3436-find-subarray-with-bitwise-and-closest-to-k](https://github.com/Noochila/-DSA-/tree/master/3436-find-subarray-with-bitwise-and-closest-to-k) |
