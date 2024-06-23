@@ -1,35 +1,33 @@
 class Solution {
 public:
     int longestSubarray(vector<int>& nums, int limit) {
-        deque<int> increase;
-        deque<int> decrease;
-        int max_len = 0;
-        int left = 0;
+        multiset<int> st;
+       int n=nums.size();
 
-        for (int right = 0; right < nums.size(); ++right) {
-            while (!increase.empty() && nums[right] < increase.back()) {
-                increase.pop_back();
-            }
-            increase.push_back(nums[right]);
+      int i=0;
+      int j=0;
+      int ans=-1;
 
-            while (!decrease.empty() && nums[right] > decrease.back()) {
-                decrease.pop_back();
-            }
-            decrease.push_back(nums[right]);
+      while(j<n)
+    {
 
-            while (decrease.front() - increase.front() > limit) {
-                if (nums[left] == decrease.front()) {
-                    decrease.pop_front();
-                }
-                if (nums[left] == increase.front()) {
-                    increase.pop_front();
-                }
-                ++left;
-            }
+         st.insert(nums[j]);
 
-            max_len = std::max(max_len, right - left + 1);
-        }
 
-        return max_len;
+         while(*st.rbegin()-*st.begin()>limit)
+         {
+        
+            st.erase(st.find(nums[i]));
+            i++;
+
+         }
+
+         ans=max(ans,j-i+1);
+    
+         j++;
+
+    }
+    return ans;
+        
     }
 };
