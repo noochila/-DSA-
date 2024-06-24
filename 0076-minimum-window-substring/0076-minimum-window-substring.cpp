@@ -12,7 +12,7 @@ public:
 
         int n = s.size();
         int count = mp.size();
-        int len = INT_MAX;
+        int len = 1e9;
         int start = 0;
         while (j < n) {
             if (mp.find(s[j]) != mp.end()) {
@@ -39,6 +39,6 @@ public:
             j++;
         }
 
-        return len == INT_MAX ? "" : s.substr(start, len );
+        return len == 1e9 ? "" : s.substr(start, len );
     }
 };
