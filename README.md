@@ -25,6 +25,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1044-find-common-characters](https://github.com/Noochila/-DSA-/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/Noochila/-DSA-/tree/master/1217-relative-sort-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Noochila/-DSA-/tree/master/1370-count-number-of-nice-subarrays) |
+| [2685-first-completely-painted-row-or-column](https://github.com/Noochila/-DSA-/tree/master/2685-first-completely-painted-row-or-column) |
 # Tree
 |  |
 | ------- |
@@ -220,6 +221,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Noochila/-DSA-/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Noochila/-DSA-/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Noochila/-DSA-/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2685-first-completely-painted-row-or-column](https://github.com/Noochila/-DSA-/tree/master/2685-first-completely-painted-row-or-column) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Noochila/-DSA-/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Noochila/-DSA-/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Noochila/-DSA-/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -337,6 +339,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | ------- |
 | [0037-sudoku-solver](https://github.com/Noochila/-DSA-/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Noochila/-DSA-/tree/master/0079-word-search) |
+| [2685-first-completely-painted-row-or-column](https://github.com/Noochila/-DSA-/tree/master/2685-first-completely-painted-row-or-column) |
 # Memoization
 |  |
 | ------- |
