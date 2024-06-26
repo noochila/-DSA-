@@ -51,6 +51,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Noochila/-DSA-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Noochila/-DSA-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Noochila/-DSA-/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Noochila/-DSA-/tree/master/1285-balance-a-binary-search-tree) |
 # Depth-First Search
 |  |
 | ------- |
@@ -69,6 +70,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Noochila/-DSA-/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Noochila/-DSA-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Noochila/-DSA-/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Noochila/-DSA-/tree/master/1285-balance-a-binary-search-tree) |
 # Breadth-First Search
 |  |
 | ------- |
@@ -116,6 +118,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Noochila/-DSA-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Noochila/-DSA-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Noochila/-DSA-/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Noochila/-DSA-/tree/master/1285-balance-a-binary-search-tree) |
 # Two Pointers
 |  |
 | ------- |
@@ -161,6 +164,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1046-max-consecutive-ones-iii](https://github.com/Noochila/-DSA-/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Noochila/-DSA-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Noochila/-DSA-/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Noochila/-DSA-/tree/master/1285-balance-a-binary-search-tree) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Noochila/-DSA-/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Noochila/-DSA-/tree/master/1675-magnetic-force-between-two-balls) |
 | [3436-find-subarray-with-bitwise-and-closest-to-k](https://github.com/Noochila/-DSA-/tree/master/3436-find-subarray-with-bitwise-and-closest-to-k) |
@@ -173,6 +177,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0853-most-profit-assigning-work](https://github.com/Noochila/-DSA-/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/Noochila/-DSA-/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Noochila/-DSA-/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1285-balance-a-binary-search-tree](https://github.com/Noochila/-DSA-/tree/master/1285-balance-a-binary-search-tree) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Noochila/-DSA-/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Noochila/-DSA-/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Bit Manipulation
@@ -230,6 +235,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Noochila/-DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [1285-balance-a-binary-search-tree](https://github.com/Noochila/-DSA-/tree/master/1285-balance-a-binary-search-tree) |
 # Segment Tree
 |  |
 | ------- |
