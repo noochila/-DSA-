@@ -385,16 +385,23 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/Noochila/-DSA-/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
+| [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/Noochila/-DSA-/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 ## String
 |  |
 | ------- |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/Noochila/-DSA-/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
+| [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/Noochila/-DSA-/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/Noochila/-DSA-/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
+| [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/Noochila/-DSA-/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 ## Backtracking
 |  |
 | ------- |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/Noochila/-DSA-/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
+## Counting
+|  |
+| ------- |
+| [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/Noochila/-DSA-/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 <!---LeetCode Topics End-->
