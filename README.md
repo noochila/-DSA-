@@ -394,6 +394,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0413-arithmetic-slices](https://github.com/Noochila/-DSA-/tree/master/0413-arithmetic-slices) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Noochila/-DSA-/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/Noochila/-DSA-/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/Noochila/-DSA-/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
@@ -408,5 +409,6 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0413-arithmetic-slices](https://github.com/Noochila/-DSA-/tree/master/0413-arithmetic-slices) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Noochila/-DSA-/tree/master/0446-arithmetic-slices-ii-subsequence) |
 <!---LeetCode Topics End-->
