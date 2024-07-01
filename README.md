@@ -413,6 +413,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0084-largest-rectangle-in-histogram](https://github.com/Noochila/-DSA-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0413-arithmetic-slices](https://github.com/Noochila/-DSA-/tree/master/0413-arithmetic-slices) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Noochila/-DSA-/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0735-asteroid-collision](https://github.com/Noochila/-DSA-/tree/master/0735-asteroid-collision) |
 | [0948-sort-an-array](https://github.com/Noochila/-DSA-/tree/master/0948-sort-an-array) |
 ## Divide and Conquer
 |  |
@@ -461,6 +462,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Noochila/-DSA-/tree/master/0084-largest-rectangle-in-histogram) |
+| [0735-asteroid-collision](https://github.com/Noochila/-DSA-/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/Noochila/-DSA-/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
@@ -469,5 +471,6 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Noochila/-DSA-/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/Noochila/-DSA-/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
