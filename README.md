@@ -465,6 +465,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Noochila/-DSA-/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Noochila/-DSA-/tree/master/0084-largest-rectangle-in-histogram) |
+| [0155-min-stack](https://github.com/Noochila/-DSA-/tree/master/0155-min-stack) |
 | [0735-asteroid-collision](https://github.com/Noochila/-DSA-/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/Noochila/-DSA-/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
@@ -476,4 +477,8 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | ------- |
 | [0735-asteroid-collision](https://github.com/Noochila/-DSA-/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/Noochila/-DSA-/tree/master/2470-removing-stars-from-a-string) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Noochila/-DSA-/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
