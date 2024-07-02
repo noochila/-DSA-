@@ -384,6 +384,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Noochila/-DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0621-task-scheduler](https://github.com/Noochila/-DSA-/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/Noochila/-DSA-/tree/master/0876-hand-of-straights) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/Noochila/-DSA-/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
@@ -417,6 +418,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Noochila/-DSA-/tree/master/0084-largest-rectangle-in-histogram) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Noochila/-DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0413-arithmetic-slices](https://github.com/Noochila/-DSA-/tree/master/0413-arithmetic-slices) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Noochila/-DSA-/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0621-task-scheduler](https://github.com/Noochila/-DSA-/tree/master/0621-task-scheduler) |
@@ -431,6 +433,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Noochila/-DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0621-task-scheduler](https://github.com/Noochila/-DSA-/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/Noochila/-DSA-/tree/master/0876-hand-of-straights) |
 | [0948-sort-an-array](https://github.com/Noochila/-DSA-/tree/master/0948-sort-an-array) |
@@ -498,4 +501,12 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0316-remove-duplicate-letters](https://github.com/Noochila/-DSA-/tree/master/0316-remove-duplicate-letters) |
 | [0621-task-scheduler](https://github.com/Noochila/-DSA-/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/Noochila/-DSA-/tree/master/0876-hand-of-straights) |
+## Two Pointers
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Noochila/-DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Noochila/-DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
