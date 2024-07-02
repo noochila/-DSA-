@@ -384,6 +384,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/Noochila/-DSA-/tree/master/0621-task-scheduler) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/Noochila/-DSA-/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/Noochila/-DSA-/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 ## String
@@ -409,6 +410,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/Noochila/-DSA-/tree/master/0621-task-scheduler) |
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/Noochila/-DSA-/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 ## Array
 |  |
@@ -416,6 +418,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0084-largest-rectangle-in-histogram](https://github.com/Noochila/-DSA-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0413-arithmetic-slices](https://github.com/Noochila/-DSA-/tree/master/0413-arithmetic-slices) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Noochila/-DSA-/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0621-task-scheduler](https://github.com/Noochila/-DSA-/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/Noochila/-DSA-/tree/master/0735-asteroid-collision) |
 | [0948-sort-an-array](https://github.com/Noochila/-DSA-/tree/master/0948-sort-an-array) |
 ## Divide and Conquer
@@ -426,11 +429,13 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/Noochila/-DSA-/tree/master/0621-task-scheduler) |
 | [0948-sort-an-array](https://github.com/Noochila/-DSA-/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Noochila/-DSA-/tree/master/0023-merge-k-sorted-lists) |
+| [0621-task-scheduler](https://github.com/Noochila/-DSA-/tree/master/0621-task-scheduler) |
 | [0948-sort-an-array](https://github.com/Noochila/-DSA-/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -488,4 +493,5 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Noochila/-DSA-/tree/master/0316-remove-duplicate-letters) |
+| [0621-task-scheduler](https://github.com/Noochila/-DSA-/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
