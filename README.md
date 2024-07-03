@@ -425,6 +425,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/Noochila/-DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0413-arithmetic-slices](https://github.com/Noochila/-DSA-/tree/master/0413-arithmetic-slices) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Noochila/-DSA-/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Noochila/-DSA-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0621-task-scheduler](https://github.com/Noochila/-DSA-/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/Noochila/-DSA-/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/Noochila/-DSA-/tree/master/0792-binary-search) |
@@ -518,5 +519,6 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Noochila/-DSA-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Noochila/-DSA-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Noochila/-DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Noochila/-DSA-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Noochila/-DSA-/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
