@@ -423,6 +423,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Noochila/-DSA-/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0621-task-scheduler](https://github.com/Noochila/-DSA-/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/Noochila/-DSA-/tree/master/0735-asteroid-collision) |
+| [0792-binary-search](https://github.com/Noochila/-DSA-/tree/master/0792-binary-search) |
 | [0876-hand-of-straights](https://github.com/Noochila/-DSA-/tree/master/0876-hand-of-straights) |
 | [0948-sort-an-array](https://github.com/Noochila/-DSA-/tree/master/0948-sort-an-array) |
 ## Divide and Conquer
@@ -509,4 +510,5 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Noochila/-DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0792-binary-search](https://github.com/Noochila/-DSA-/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
