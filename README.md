@@ -485,6 +485,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Noochila/-DSA-/tree/master/0023-merge-k-sorted-lists) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Noochila/-DSA-/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Stack
 |  |
 | ------- |
@@ -503,6 +504,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Noochila/-DSA-/tree/master/0735-asteroid-collision) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Noochila/-DSA-/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2470-removing-stars-from-a-string](https://github.com/Noochila/-DSA-/tree/master/2470-removing-stars-from-a-string) |
 ## Design
 |  |
