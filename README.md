@@ -403,6 +403,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Noochila/-DSA-/tree/master/0032-longest-valid-parentheses) |
+| [0064-minimum-path-sum](https://github.com/Noochila/-DSA-/tree/master/0064-minimum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/Noochila/-DSA-/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Noochila/-DSA-/tree/master/0413-arithmetic-slices) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Noochila/-DSA-/tree/master/0446-arithmetic-slices-ii-subsequence) |
@@ -425,6 +426,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/Noochila/-DSA-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Noochila/-DSA-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Noochila/-DSA-/tree/master/0041-first-missing-positive) |
+| [0064-minimum-path-sum](https://github.com/Noochila/-DSA-/tree/master/0064-minimum-path-sum) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Noochila/-DSA-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Noochila/-DSA-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Noochila/-DSA-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -565,4 +567,8 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [2645-pass-the-pillow](https://github.com/Noochila/-DSA-/tree/master/2645-pass-the-pillow) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/Noochila/-DSA-/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
