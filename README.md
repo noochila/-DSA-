@@ -488,10 +488,12 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Noochila/-DSA-/tree/master/0547-number-of-provinces) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Noochila/-DSA-/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Noochila/-DSA-/tree/master/0547-number-of-provinces) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Noochila/-DSA-/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 ## Linked List
 |  |
@@ -584,4 +586,12 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Noochila/-DSA-/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Noochila/-DSA-/tree/master/0547-number-of-provinces) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Noochila/-DSA-/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
