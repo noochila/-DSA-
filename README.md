@@ -501,6 +501,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 ## Graph
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/Noochila/-DSA-/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Noochila/-DSA-/tree/master/0547-number-of-provinces) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Noochila/-DSA-/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 ## Linked List
@@ -603,13 +604,19 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/Noochila/-DSA-/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Noochila/-DSA-/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Noochila/-DSA-/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/Noochila/-DSA-/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/Noochila/-DSA-/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Noochila/-DSA-/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Noochila/-DSA-/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Noochila/-DSA-/tree/master/1036-rotting-oranges) |
+## Topological Sort
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/Noochila/-DSA-/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
