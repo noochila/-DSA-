@@ -447,6 +447,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0733-flood-fill](https://github.com/Noochila/-DSA-/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Noochila/-DSA-/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/Noochila/-DSA-/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/Noochila/-DSA-/tree/master/0794-swim-in-rising-water) |
 | [0876-hand-of-straights](https://github.com/Noochila/-DSA-/tree/master/0876-hand-of-straights) |
 | [0907-koko-eating-bananas](https://github.com/Noochila/-DSA-/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/Noochila/-DSA-/tree/master/0948-sort-an-array) |
@@ -478,6 +479,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Noochila/-DSA-/tree/master/0023-merge-k-sorted-lists) |
 | [0621-task-scheduler](https://github.com/Noochila/-DSA-/tree/master/0621-task-scheduler) |
+| [0794-swim-in-rising-water](https://github.com/Noochila/-DSA-/tree/master/0794-swim-in-rising-water) |
 | [0948-sort-an-array](https://github.com/Noochila/-DSA-/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -500,6 +502,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Noochila/-DSA-/tree/master/0547-number-of-provinces) |
+| [0794-swim-in-rising-water](https://github.com/Noochila/-DSA-/tree/master/0794-swim-in-rising-water) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Noochila/-DSA-/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Noochila/-DSA-/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 ## Graph
@@ -574,6 +577,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0410-split-array-largest-sum](https://github.com/Noochila/-DSA-/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Noochila/-DSA-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Noochila/-DSA-/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/Noochila/-DSA-/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/Noochila/-DSA-/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Noochila/-DSA-/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Noochila/-DSA-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -601,6 +605,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0064-minimum-path-sum](https://github.com/Noochila/-DSA-/tree/master/0064-minimum-path-sum) |
 | [0542-01-matrix](https://github.com/Noochila/-DSA-/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Noochila/-DSA-/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/Noochila/-DSA-/tree/master/0794-swim-in-rising-water) |
 | [1036-rotting-oranges](https://github.com/Noochila/-DSA-/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Noochila/-DSA-/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Recursion
@@ -617,6 +622,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0210-course-schedule-ii](https://github.com/Noochila/-DSA-/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Noochila/-DSA-/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Noochila/-DSA-/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/Noochila/-DSA-/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/Noochila/-DSA-/tree/master/0820-find-eventual-safe-states) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Noochila/-DSA-/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Breadth-First Search
@@ -626,6 +632,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0542-01-matrix](https://github.com/Noochila/-DSA-/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Noochila/-DSA-/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Noochila/-DSA-/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/Noochila/-DSA-/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/Noochila/-DSA-/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/Noochila/-DSA-/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Noochila/-DSA-/tree/master/1171-shortest-path-in-binary-matrix) |
