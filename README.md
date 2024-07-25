@@ -535,6 +535,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Noochila/-DSA-/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Noochila/-DSA-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/Noochila/-DSA-/tree/master/0023-merge-k-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Noochila/-DSA-/tree/master/0206-reverse-linked-list) |
@@ -630,6 +631,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Noochila/-DSA-/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/Noochila/-DSA-/tree/master/0029-divide-two-integers) |
 | [1642-water-bottles](https://github.com/Noochila/-DSA-/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Noochila/-DSA-/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -648,6 +650,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Noochila/-DSA-/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Noochila/-DSA-/tree/master/0206-reverse-linked-list) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Noochila/-DSA-/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
