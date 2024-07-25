@@ -545,6 +545,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0142-linked-list-cycle-ii](https://github.com/Noochila/-DSA-/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Noochila/-DSA-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Noochila/-DSA-/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Noochila/-DSA-/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Noochila/-DSA-/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Noochila/-DSA-/tree/master/0908-middle-of-the-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Noochila/-DSA-/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -555,6 +556,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0032-longest-valid-parentheses](https://github.com/Noochila/-DSA-/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Noochila/-DSA-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/Noochila/-DSA-/tree/master/0155-min-stack) |
+| [0234-palindrome-linked-list](https://github.com/Noochila/-DSA-/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Noochila/-DSA-/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Noochila/-DSA-/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/Noochila/-DSA-/tree/master/0735-asteroid-collision) |
@@ -604,6 +606,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/Noochila/-DSA-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Noochila/-DSA-/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Noochila/-DSA-/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/Noochila/-DSA-/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Noochila/-DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Noochila/-DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Noochila/-DSA-/tree/master/0908-middle-of-the-linked-list) |
@@ -661,6 +664,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/Noochila/-DSA-/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Noochila/-DSA-/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Noochila/-DSA-/tree/master/0234-palindrome-linked-list) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Noochila/-DSA-/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
