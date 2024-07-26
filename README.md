@@ -484,10 +484,12 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Noochila/-DSA-/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Noochila/-DSA-/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/Noochila/-DSA-/tree/master/0948-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Noochila/-DSA-/tree/master/0148-sort-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Noochila/-DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0621-task-scheduler](https://github.com/Noochila/-DSA-/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/Noochila/-DSA-/tree/master/0876-hand-of-straights) |
@@ -507,6 +509,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Noochila/-DSA-/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Noochila/-DSA-/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/Noochila/-DSA-/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -546,6 +549,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0061-rotate-list](https://github.com/Noochila/-DSA-/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Noochila/-DSA-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Noochila/-DSA-/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Noochila/-DSA-/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Noochila/-DSA-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Noochila/-DSA-/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Noochila/-DSA-/tree/master/0234-palindrome-linked-list) |
@@ -612,6 +616,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0061-rotate-list](https://github.com/Noochila/-DSA-/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Noochila/-DSA-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Noochila/-DSA-/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Noochila/-DSA-/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Noochila/-DSA-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Noochila/-DSA-/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Noochila/-DSA-/tree/master/0287-find-the-duplicate-number) |
