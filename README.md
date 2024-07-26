@@ -468,6 +468,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1333-sort-the-jumbled-numbers](https://github.com/Noochila/-DSA-/tree/master/1333-sort-the-jumbled-numbers) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Noochila/-DSA-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Noochila/-DSA-/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1582-design-browser-history](https://github.com/Noochila/-DSA-/tree/master/1582-design-browser-history) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Noochila/-DSA-/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Noochila/-DSA-/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/Noochila/-DSA-/tree/master/1720-crawler-log-folder) |
@@ -549,6 +550,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/Noochila/-DSA-/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Noochila/-DSA-/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Noochila/-DSA-/tree/master/0908-middle-of-the-linked-list) |
+| [1582-design-browser-history](https://github.com/Noochila/-DSA-/tree/master/1582-design-browser-history) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Noochila/-DSA-/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Noochila/-DSA-/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Stack
@@ -562,6 +564,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0402-remove-k-digits](https://github.com/Noochila/-DSA-/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/Noochila/-DSA-/tree/master/0735-asteroid-collision) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Noochila/-DSA-/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1582-design-browser-history](https://github.com/Noochila/-DSA-/tree/master/1582-design-browser-history) |
 | [1720-crawler-log-folder](https://github.com/Noochila/-DSA-/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Noochila/-DSA-/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2227-sum-of-subarray-ranges](https://github.com/Noochila/-DSA-/tree/master/2227-sum-of-subarray-ranges) |
@@ -589,6 +592,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Noochila/-DSA-/tree/master/0155-min-stack) |
+| [1582-design-browser-history](https://github.com/Noochila/-DSA-/tree/master/1582-design-browser-history) |
 ## Greedy
 |  |
 | ------- |
@@ -717,4 +721,12 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1207-delete-nodes-and-return-forest](https://github.com/Noochila/-DSA-/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Noochila/-DSA-/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Noochila/-DSA-/tree/master/2306-create-binary-tree-from-descriptions) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/Noochila/-DSA-/tree/master/1582-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/Noochila/-DSA-/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
