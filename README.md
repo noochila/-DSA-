@@ -411,6 +411,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [2470-removing-stars-from-a-string](https://github.com/Noochila/-DSA-/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/Noochila/-DSA-/tree/master/2502-sort-the-people) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/Noochila/-DSA-/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/Noochila/-DSA-/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/Noochila/-DSA-/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 ## Dynamic Programming
 |  |
@@ -478,6 +479,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [2306-create-binary-tree-from-descriptions](https://github.com/Noochila/-DSA-/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/Noochila/-DSA-/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/Noochila/-DSA-/tree/master/2846-robot-collisions) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/Noochila/-DSA-/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Noochila/-DSA-/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3464-maximize-total-cost-of-alternating-subarrays](https://github.com/Noochila/-DSA-/tree/master/3464-maximize-total-cost-of-alternating-subarrays) |
 ## Divide and Conquer
@@ -539,6 +541,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Noochila/-DSA-/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Noochila/-DSA-/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Noochila/-DSA-/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/Noochila/-DSA-/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Linked List
 |  |
 | ------- |
@@ -716,6 +719,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Noochila/-DSA-/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/Noochila/-DSA-/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Tree
 |  |
 | ------- |
