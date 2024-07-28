@@ -392,6 +392,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/Noochila/-DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0621-task-scheduler](https://github.com/Noochila/-DSA-/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/Noochila/-DSA-/tree/master/0876-hand-of-straights) |
+| [0926-find-and-replace-pattern](https://github.com/Noochila/-DSA-/tree/master/0926-find-and-replace-pattern) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Noochila/-DSA-/tree/master/1207-delete-nodes-and-return-forest) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Noochila/-DSA-/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/Noochila/-DSA-/tree/master/2502-sort-the-people) |
@@ -405,6 +406,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0127-word-ladder](https://github.com/Noochila/-DSA-/tree/master/0127-word-ladder) |
 | [0316-remove-duplicate-letters](https://github.com/Noochila/-DSA-/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Noochila/-DSA-/tree/master/0402-remove-k-digits) |
+| [0926-find-and-replace-pattern](https://github.com/Noochila/-DSA-/tree/master/0926-find-and-replace-pattern) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Noochila/-DSA-/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Noochila/-DSA-/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Noochila/-DSA-/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -461,6 +463,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0794-swim-in-rising-water](https://github.com/Noochila/-DSA-/tree/master/0794-swim-in-rising-water) |
 | [0876-hand-of-straights](https://github.com/Noochila/-DSA-/tree/master/0876-hand-of-straights) |
 | [0907-koko-eating-bananas](https://github.com/Noochila/-DSA-/tree/master/0907-koko-eating-bananas) |
+| [0926-find-and-replace-pattern](https://github.com/Noochila/-DSA-/tree/master/0926-find-and-replace-pattern) |
 | [0948-sort-an-array](https://github.com/Noochila/-DSA-/tree/master/0948-sort-an-array) |
 | [1036-rotting-oranges](https://github.com/Noochila/-DSA-/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Noochila/-DSA-/tree/master/1056-capacity-to-ship-packages-within-d-days) |
