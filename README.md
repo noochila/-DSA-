@@ -435,6 +435,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0516-longest-palindromic-subsequence](https://github.com/Noochila/-DSA-/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/Noochila/-DSA-/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Noochila/-DSA-/tree/master/0583-delete-operation-for-two-strings) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Noochila/-DSA-/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Noochila/-DSA-/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1250-longest-common-subsequence](https://github.com/Noochila/-DSA-/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Noochila/-DSA-/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -475,6 +476,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0540-single-element-in-a-sorted-array](https://github.com/Noochila/-DSA-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Noochila/-DSA-/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/Noochila/-DSA-/tree/master/0621-task-scheduler) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Noochila/-DSA-/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/Noochila/-DSA-/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Noochila/-DSA-/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/Noochila/-DSA-/tree/master/0733-flood-fill) |
@@ -769,4 +771,12 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [1582-design-browser-history](https://github.com/Noochila/-DSA-/tree/master/1582-design-browser-history) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Noochila/-DSA-/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Noochila/-DSA-/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
