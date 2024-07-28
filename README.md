@@ -573,6 +573,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Noochila/-DSA-/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Noochila/-DSA-/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Noochila/-DSA-/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/Noochila/-DSA-/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Noochila/-DSA-/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Linked List
 |  |
@@ -747,6 +748,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1036-rotting-oranges](https://github.com/Noochila/-DSA-/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Noochila/-DSA-/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Noochila/-DSA-/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/Noochila/-DSA-/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Topological Sort
 |  |
 | ------- |
@@ -756,6 +758,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Noochila/-DSA-/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/Noochila/-DSA-/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Noochila/-DSA-/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Tree
 |  |
