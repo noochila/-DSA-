@@ -404,6 +404,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Noochila/-DSA-/tree/master/0032-longest-valid-parentheses) |
+| [0115-distinct-subsequences](https://github.com/Noochila/-DSA-/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Noochila/-DSA-/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/Noochila/-DSA-/tree/master/0132-palindrome-partitioning-ii) |
 | [0316-remove-duplicate-letters](https://github.com/Noochila/-DSA-/tree/master/0316-remove-duplicate-letters) |
@@ -428,6 +429,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Noochila/-DSA-/tree/master/0032-longest-valid-parentheses) |
 | [0064-minimum-path-sum](https://github.com/Noochila/-DSA-/tree/master/0064-minimum-path-sum) |
+| [0115-distinct-subsequences](https://github.com/Noochila/-DSA-/tree/master/0115-distinct-subsequences) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Noochila/-DSA-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Noochila/-DSA-/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0132-palindrome-partitioning-ii](https://github.com/Noochila/-DSA-/tree/master/0132-palindrome-partitioning-ii) |
