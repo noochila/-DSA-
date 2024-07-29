@@ -412,6 +412,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0583-delete-operation-for-two-strings](https://github.com/Noochila/-DSA-/tree/master/0583-delete-operation-for-two-strings) |
 | [0926-find-and-replace-pattern](https://github.com/Noochila/-DSA-/tree/master/0926-find-and-replace-pattern) |
 | [1129-longest-string-chain](https://github.com/Noochila/-DSA-/tree/master/1129-longest-string-chain) |
+| [1170-shortest-common-supersequence](https://github.com/Noochila/-DSA-/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Noochila/-DSA-/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Noochila/-DSA-/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Noochila/-DSA-/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -444,6 +445,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Noochila/-DSA-/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Noochila/-DSA-/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/Noochila/-DSA-/tree/master/1129-longest-string-chain) |
+| [1170-shortest-common-supersequence](https://github.com/Noochila/-DSA-/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Noochila/-DSA-/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Noochila/-DSA-/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Noochila/-DSA-/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
