@@ -2,12 +2,16 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+
 // } Driver Code Ends
-//User function template for C++
-class Solution{
-public:
-    int rowWithMax1s(vector<vector<int>> arr, int n, int m) {
-        int max1s = 0;
+// User function template for C++
+class Solution {
+  public:
+    int rowWithMax1s(vector<vector<int> > &arr) {
+        // code here
+         int max1s = 0;
+         int n=arr.size();
+         int m=arr[0].size();
         int rowIndex = -1;
 
         for (int i = 0; i < n; i++) {
@@ -22,8 +26,6 @@ public:
 
         return rowIndex;
     }
-
-
 };
 
 //{ Driver Code Starts.
@@ -33,14 +35,14 @@ int main() {
     while (t--) {
         int n, m;
         cin >> n >> m;
-        vector< vector<int> > arr(n,vector<int>(m));
+        vector<vector<int> > arr(n, vector<int>(m));
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
-                cin>>arr[i][j];
+                cin >> arr[i][j];
             }
         }
         Solution ob;
-        auto ans = ob.rowWithMax1s(arr, n, m);
+        auto ans = ob.rowWithMax1s(arr);
         cout << ans << "\n";
     }
     return 0;
