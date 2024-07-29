@@ -404,6 +404,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Noochila/-DSA-/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Noochila/-DSA-/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/Noochila/-DSA-/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Noochila/-DSA-/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/Noochila/-DSA-/tree/master/0132-palindrome-partitioning-ii) |
@@ -428,6 +429,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Noochila/-DSA-/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Noochila/-DSA-/tree/master/0044-wildcard-matching) |
 | [0064-minimum-path-sum](https://github.com/Noochila/-DSA-/tree/master/0064-minimum-path-sum) |
 | [0115-distinct-subsequences](https://github.com/Noochila/-DSA-/tree/master/0115-distinct-subsequences) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Noochila/-DSA-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -650,6 +652,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Noochila/-DSA-/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Noochila/-DSA-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/Noochila/-DSA-/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Noochila/-DSA-/tree/master/0402-remove-k-digits) |
@@ -730,6 +733,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/Noochila/-DSA-/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Noochila/-DSA-/tree/master/0021-merge-two-sorted-lists) |
+| [0044-wildcard-matching](https://github.com/Noochila/-DSA-/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/Noochila/-DSA-/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Noochila/-DSA-/tree/master/0234-palindrome-linked-list) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Noochila/-DSA-/tree/master/1951-find-the-winner-of-the-circular-game) |
