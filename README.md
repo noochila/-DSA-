@@ -390,6 +390,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/Noochila/-DSA-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Noochila/-DSA-/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Noochila/-DSA-/tree/master/0160-intersection-of-two-linked-lists) |
+| [0229-majority-element-ii](https://github.com/Noochila/-DSA-/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Noochila/-DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Noochila/-DSA-/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Noochila/-DSA-/tree/master/0621-task-scheduler) |
@@ -472,6 +473,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Noochila/-DSA-/tree/master/0229-majority-element-ii) |
 | [0621-task-scheduler](https://github.com/Noochila/-DSA-/tree/master/0621-task-scheduler) |
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/Noochila/-DSA-/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 ## Array
@@ -492,6 +494,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Noochila/-DSA-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Noochila/-DSA-/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/Noochila/-DSA-/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/Noochila/-DSA-/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Noochila/-DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Noochila/-DSA-/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Noochila/-DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -553,6 +556,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Noochila/-DSA-/tree/master/0148-sort-list) |
+| [0229-majority-element-ii](https://github.com/Noochila/-DSA-/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Noochila/-DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Noochila/-DSA-/tree/master/0368-largest-divisible-subset) |
 | [0621-task-scheduler](https://github.com/Noochila/-DSA-/tree/master/0621-task-scheduler) |
