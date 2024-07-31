@@ -390,6 +390,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0142-linked-list-cycle-ii](https://github.com/Noochila/-DSA-/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Noochila/-DSA-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Noochila/-DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/Noochila/-DSA-/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Noochila/-DSA-/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/Noochila/-DSA-/tree/master/0876-hand-of-straights) |
 | [0926-find-and-replace-pattern](https://github.com/Noochila/-DSA-/tree/master/0926-find-and-replace-pattern) |
@@ -497,6 +498,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0518-coin-change-ii](https://github.com/Noochila/-DSA-/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Noochila/-DSA-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Noochila/-DSA-/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/Noochila/-DSA-/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Noochila/-DSA-/tree/master/0621-task-scheduler) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Noochila/-DSA-/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/Noochila/-DSA-/tree/master/0713-subarray-product-less-than-k) |
@@ -715,6 +717,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Noochila/-DSA-/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Noochila/-DSA-/tree/master/0560-subarray-sum-equals-k) |
 ## Bit Manipulation
 |  |
 | ------- |
