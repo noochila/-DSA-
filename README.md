@@ -455,6 +455,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1121-partition-array-for-maximum-sum](https://github.com/Noochila/-DSA-/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/Noochila/-DSA-/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/Noochila/-DSA-/tree/master/1170-shortest-common-supersequence) |
+| [1196-filling-bookcase-shelves](https://github.com/Noochila/-DSA-/tree/master/1196-filling-bookcase-shelves) |
 | [1250-longest-common-subsequence](https://github.com/Noochila/-DSA-/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Noochila/-DSA-/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Noochila/-DSA-/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -528,6 +529,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1121-partition-array-for-maximum-sum](https://github.com/Noochila/-DSA-/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/Noochila/-DSA-/tree/master/1129-longest-string-chain) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Noochila/-DSA-/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1196-filling-bookcase-shelves](https://github.com/Noochila/-DSA-/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Noochila/-DSA-/tree/master/1207-delete-nodes-and-return-forest) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Noochila/-DSA-/tree/master/1333-sort-the-jumbled-numbers) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Noochila/-DSA-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
