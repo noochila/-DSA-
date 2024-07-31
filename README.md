@@ -435,6 +435,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0044-wildcard-matching](https://github.com/Noochila/-DSA-/tree/master/0044-wildcard-matching) |
 | [0064-minimum-path-sum](https://github.com/Noochila/-DSA-/tree/master/0064-minimum-path-sum) |
 | [0115-distinct-subsequences](https://github.com/Noochila/-DSA-/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/Noochila/-DSA-/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Noochila/-DSA-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Noochila/-DSA-/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0132-palindrome-partitioning-ii](https://github.com/Noochila/-DSA-/tree/master/0132-palindrome-partitioning-ii) |
@@ -485,6 +486,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/Noochila/-DSA-/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Noochila/-DSA-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Noochila/-DSA-/tree/master/0084-largest-rectangle-in-histogram) |
+| [0118-pascals-triangle](https://github.com/Noochila/-DSA-/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Noochila/-DSA-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Noochila/-DSA-/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Noochila/-DSA-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
