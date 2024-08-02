@@ -546,6 +546,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Noochila/-DSA-/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Noochila/-DSA-/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2227-sum-of-subarray-ranges](https://github.com/Noochila/-DSA-/tree/master/2227-sum-of-subarray-ranges) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Noochila/-DSA-/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Noochila/-DSA-/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/Noochila/-DSA-/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Noochila/-DSA-/tree/master/2727-number-of-senior-citizens) |
@@ -754,6 +755,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Noochila/-DSA-/tree/master/0713-subarray-product-less-than-k) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Noochila/-DSA-/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Math
 |  |
 | ------- |
