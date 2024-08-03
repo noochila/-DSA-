@@ -1,20 +1,23 @@
 //{ Driver Code Starts
-//Initial template for C++
+// Initial template for C++
 
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
 
-// } Driver Code Ends
-//User function template for C++
 
-class Solution 
-{
-    public:
-    //Function to find if there is a celebrity in the party or not.
-       int celebrity(vector<vector<int>>& M, int n) 
-    {
-        int low = 0;
+// } Driver Code Ends
+// User function template for C++
+
+class Solution {
+  public:
+    // Function to find if there is a celebrity in the party or not.
+    int celebrity(vector<vector<int> >& M) {
+        // code here
+         int low = 0;
+         int n=M.size();
+         
         int high = n - 1;
+        
 
         // Step 1: Find the candidate
         while (low < high) 
@@ -57,25 +60,20 @@ class Solution
 
 //{ Driver Code Starts.
 
-int main()
-{
+int main() {
     int t;
-    cin>>t;
-    while(t--)
-    {
+    cin >> t;
+    while (t--) {
         int n;
-        cin>>n;
-        vector<vector<int> > M( n , vector<int> (n, 0));
-        for(int i=0;i<n;i++)
-        {
-            for(int j=0;j<n;j++)
-            {
-                cin>>M[i][j];
+        cin >> n;
+        vector<vector<int> > M(n, vector<int>(n, 0));
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                cin >> M[i][j];
             }
         }
         Solution ob;
-        cout<<ob.celebrity(M,n)<<endl;
-
+        cout << ob.celebrity(M) << endl;
     }
 }
 
