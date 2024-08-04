@@ -540,6 +540,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1511-count-number-of-teams](https://github.com/Noochila/-DSA-/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Noochila/-DSA-/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1582-design-browser-history](https://github.com/Noochila/-DSA-/tree/master/1582-design-browser-history) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Noochila/-DSA-/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Noochila/-DSA-/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1646-kth-missing-positive-number](https://github.com/Noochila/-DSA-/tree/master/1646-kth-missing-positive-number) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Noochila/-DSA-/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -582,6 +583,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1333-sort-the-jumbled-numbers](https://github.com/Noochila/-DSA-/tree/master/1333-sort-the-jumbled-numbers) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/Noochila/-DSA-/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Noochila/-DSA-/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Noochila/-DSA-/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Noochila/-DSA-/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Noochila/-DSA-/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2502-sort-the-people](https://github.com/Noochila/-DSA-/tree/master/2502-sort-the-people) |
@@ -724,6 +726,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/Noochila/-DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Noochila/-DSA-/tree/master/0908-middle-of-the-linked-list) |
 | [1129-longest-string-chain](https://github.com/Noochila/-DSA-/tree/master/1129-longest-string-chain) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Noochila/-DSA-/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Noochila/-DSA-/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Binary Search
 |  |
@@ -743,6 +746,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0907-koko-eating-bananas](https://github.com/Noochila/-DSA-/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Noochila/-DSA-/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Noochila/-DSA-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Noochila/-DSA-/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1646-kth-missing-positive-number](https://github.com/Noochila/-DSA-/tree/master/1646-kth-missing-positive-number) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Noochila/-DSA-/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Prefix Sum
