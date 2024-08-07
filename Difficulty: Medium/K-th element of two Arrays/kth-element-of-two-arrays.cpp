@@ -6,18 +6,15 @@ using namespace std;
 // } Driver Code Ends
 class Solution {
   public:
-
-    int kthElement(vector<int>& a, vector<int>& b, int k) {
+    int kthElement(int k, vector<int>& a, vector<int>& b) {
         // code here
-        
-        
-        
+            
        int n1 = a.size();
     int n2 = b.size();
 
     // Ensure the first array is the smaller one
     if (n1 > n2) {
-        return kthElement(b, a, k);
+        return kthElement(k,b, a);
     }
 
     int low = max(0, k - n2);
@@ -73,7 +70,7 @@ int main() {
         }
 
         Solution ob;
-        cout << ob.kthElement(arr1, arr2, k) << endl;
+        cout << ob.kthElement(k, arr1, arr2) << endl;
     }
     return 0;
 }
