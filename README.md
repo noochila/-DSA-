@@ -394,6 +394,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/Noochila/-DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Noochila/-DSA-/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Noochila/-DSA-/tree/master/0621-task-scheduler) |
+| [0870-magic-squares-in-grid](https://github.com/Noochila/-DSA-/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/Noochila/-DSA-/tree/master/0876-hand-of-straights) |
 | [0926-find-and-replace-pattern](https://github.com/Noochila/-DSA-/tree/master/0926-find-and-replace-pattern) |
 | [1129-longest-string-chain](https://github.com/Noochila/-DSA-/tree/master/1129-longest-string-chain) |
@@ -530,6 +531,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0790-global-and-local-inversions](https://github.com/Noochila/-DSA-/tree/master/0790-global-and-local-inversions) |
 | [0792-binary-search](https://github.com/Noochila/-DSA-/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Noochila/-DSA-/tree/master/0794-swim-in-rising-water) |
+| [0870-magic-squares-in-grid](https://github.com/Noochila/-DSA-/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/Noochila/-DSA-/tree/master/0876-hand-of-straights) |
 | [0907-koko-eating-bananas](https://github.com/Noochila/-DSA-/tree/master/0907-koko-eating-bananas) |
 | [0921-spiral-matrix-iii](https://github.com/Noochila/-DSA-/tree/master/0921-spiral-matrix-iii) |
@@ -787,6 +789,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0273-integer-to-english-words](https://github.com/Noochila/-DSA-/tree/master/0273-integer-to-english-words) |
 | [0368-largest-divisible-subset](https://github.com/Noochila/-DSA-/tree/master/0368-largest-divisible-subset) |
 | [0790-global-and-local-inversions](https://github.com/Noochila/-DSA-/tree/master/0790-global-and-local-inversions) |
+| [0870-magic-squares-in-grid](https://github.com/Noochila/-DSA-/tree/master/0870-magic-squares-in-grid) |
 | [1642-water-bottles](https://github.com/Noochila/-DSA-/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Noochila/-DSA-/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/Noochila/-DSA-/tree/master/2645-pass-the-pillow) |
@@ -798,6 +801,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0542-01-matrix](https://github.com/Noochila/-DSA-/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Noochila/-DSA-/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/Noochila/-DSA-/tree/master/0794-swim-in-rising-water) |
+| [0870-magic-squares-in-grid](https://github.com/Noochila/-DSA-/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Noochila/-DSA-/tree/master/0921-spiral-matrix-iii) |
 | [1036-rotting-oranges](https://github.com/Noochila/-DSA-/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Noochila/-DSA-/tree/master/1171-shortest-path-in-binary-matrix) |
