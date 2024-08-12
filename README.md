@@ -923,6 +923,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Noochila/-DSA-/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Noochila/-DSA-/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/Noochila/-DSA-/tree/master/1801-average-time-of-process-per-machine) |
+| [1877-find-followers-count](https://github.com/Noochila/-DSA-/tree/master/1877-find-followers-count) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Noochila/-DSA-/tree/master/1908-recyclable-and-low-fat-products) |
 ## Strongly Connected Component
 |  |
