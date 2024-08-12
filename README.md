@@ -914,6 +914,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0577-employee-bonus](https://github.com/Noochila/-DSA-/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/Noochila/-DSA-/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Noochila/-DSA-/tree/master/0595-big-countries) |
+| [0619-biggest-single-number](https://github.com/Noochila/-DSA-/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/Noochila/-DSA-/tree/master/0620-not-boring-movies) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/Noochila/-DSA-/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1338-queries-quality-and-percentage](https://github.com/Noochila/-DSA-/tree/master/1338-queries-quality-and-percentage) |
