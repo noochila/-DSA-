@@ -472,6 +472,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1511-count-number-of-teams](https://github.com/Noochila/-DSA-/tree/master/1511-count-number-of-teams) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Noochila/-DSA-/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Noochila/-DSA-/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/Noochila/-DSA-/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Noochila/-DSA-/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/Noochila/-DSA-/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/Noochila/-DSA-/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
@@ -565,6 +566,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1720-crawler-log-folder](https://github.com/Noochila/-DSA-/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/Noochila/-DSA-/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Noochila/-DSA-/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/Noochila/-DSA-/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Noochila/-DSA-/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Noochila/-DSA-/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/Noochila/-DSA-/tree/master/2227-sum-of-subarray-ranges) |
