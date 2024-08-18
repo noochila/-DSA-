@@ -391,6 +391,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0142-linked-list-cycle-ii](https://github.com/Noochila/-DSA-/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Noochila/-DSA-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0229-majority-element-ii](https://github.com/Noochila/-DSA-/tree/master/0229-majority-element-ii) |
+| [0264-ugly-number-ii](https://github.com/Noochila/-DSA-/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Noochila/-DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Noochila/-DSA-/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Noochila/-DSA-/tree/master/0621-task-scheduler) |
@@ -451,6 +452,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Noochila/-DSA-/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0132-palindrome-partitioning-ii](https://github.com/Noochila/-DSA-/tree/master/0132-palindrome-partitioning-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Noochila/-DSA-/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0264-ugly-number-ii](https://github.com/Noochila/-DSA-/tree/master/0264-ugly-number-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Noochila/-DSA-/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0368-largest-divisible-subset](https://github.com/Noochila/-DSA-/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/Noochila/-DSA-/tree/master/0410-split-array-largest-sum) |
@@ -613,6 +615,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Noochila/-DSA-/tree/master/0023-merge-k-sorted-lists) |
+| [0264-ugly-number-ii](https://github.com/Noochila/-DSA-/tree/master/0264-ugly-number-ii) |
 | [0621-task-scheduler](https://github.com/Noochila/-DSA-/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Noochila/-DSA-/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0794-swim-in-rising-water](https://github.com/Noochila/-DSA-/tree/master/0794-swim-in-rising-water) |
@@ -800,6 +803,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/Noochila/-DSA-/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/Noochila/-DSA-/tree/master/0029-divide-two-integers) |
 | [0189-rotate-array](https://github.com/Noochila/-DSA-/tree/master/0189-rotate-array) |
+| [0264-ugly-number-ii](https://github.com/Noochila/-DSA-/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Noochila/-DSA-/tree/master/0273-integer-to-english-words) |
 | [0368-largest-divisible-subset](https://github.com/Noochila/-DSA-/tree/master/0368-largest-divisible-subset) |
 | [0790-global-and-local-inversions](https://github.com/Noochila/-DSA-/tree/master/0790-global-and-local-inversions) |
