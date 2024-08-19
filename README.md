@@ -462,6 +462,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0518-coin-change-ii](https://github.com/Noochila/-DSA-/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Noochila/-DSA-/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Noochila/-DSA-/tree/master/0583-delete-operation-for-two-strings) |
+| [0650-2-keys-keyboard](https://github.com/Noochila/-DSA-/tree/master/0650-2-keys-keyboard) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Noochila/-DSA-/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Noochila/-DSA-/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Noochila/-DSA-/tree/master/1121-partition-array-for-maximum-sum) |
@@ -806,6 +807,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0264-ugly-number-ii](https://github.com/Noochila/-DSA-/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Noochila/-DSA-/tree/master/0273-integer-to-english-words) |
 | [0368-largest-divisible-subset](https://github.com/Noochila/-DSA-/tree/master/0368-largest-divisible-subset) |
+| [0650-2-keys-keyboard](https://github.com/Noochila/-DSA-/tree/master/0650-2-keys-keyboard) |
 | [0790-global-and-local-inversions](https://github.com/Noochila/-DSA-/tree/master/0790-global-and-local-inversions) |
 | [0870-magic-squares-in-grid](https://github.com/Noochila/-DSA-/tree/master/0870-magic-squares-in-grid) |
 | [1642-water-bottles](https://github.com/Noochila/-DSA-/tree/master/1642-water-bottles) |
