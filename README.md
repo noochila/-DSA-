@@ -422,6 +422,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0402-remove-k-digits](https://github.com/Noochila/-DSA-/tree/master/0402-remove-k-digits) |
 | [0516-longest-palindromic-subsequence](https://github.com/Noochila/-DSA-/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Noochila/-DSA-/tree/master/0583-delete-operation-for-two-strings) |
+| [0664-strange-printer](https://github.com/Noochila/-DSA-/tree/master/0664-strange-printer) |
 | [0926-find-and-replace-pattern](https://github.com/Noochila/-DSA-/tree/master/0926-find-and-replace-pattern) |
 | [1129-longest-string-chain](https://github.com/Noochila/-DSA-/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/Noochila/-DSA-/tree/master/1170-shortest-common-supersequence) |
@@ -463,6 +464,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0542-01-matrix](https://github.com/Noochila/-DSA-/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Noochila/-DSA-/tree/master/0583-delete-operation-for-two-strings) |
 | [0650-2-keys-keyboard](https://github.com/Noochila/-DSA-/tree/master/0650-2-keys-keyboard) |
+| [0664-strange-printer](https://github.com/Noochila/-DSA-/tree/master/0664-strange-printer) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Noochila/-DSA-/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Noochila/-DSA-/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Noochila/-DSA-/tree/master/1121-partition-array-for-maximum-sum) |
