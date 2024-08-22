@@ -796,6 +796,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | ------- |
 | [0029-divide-two-integers](https://github.com/Noochila/-DSA-/tree/master/0029-divide-two-integers) |
 | [0287-find-the-duplicate-number](https://github.com/Noochila/-DSA-/tree/master/0287-find-the-duplicate-number) |
+| [0476-number-complement](https://github.com/Noochila/-DSA-/tree/master/0476-number-complement) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Noochila/-DSA-/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Noochila/-DSA-/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Sliding Window
