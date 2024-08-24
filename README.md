@@ -446,6 +446,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Noochila/-DSA-/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Noochila/-DSA-/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Noochila/-DSA-/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/Noochila/-DSA-/tree/master/0064-minimum-path-sum) |
 | [0115-distinct-subsequences](https://github.com/Noochila/-DSA-/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Noochila/-DSA-/tree/master/0118-pascals-triangle) |
@@ -508,6 +509,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Noochila/-DSA-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/Noochila/-DSA-/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Noochila/-DSA-/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/Noochila/-DSA-/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/Noochila/-DSA-/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Noochila/-DSA-/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Noochila/-DSA-/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -729,6 +731,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Noochila/-DSA-/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Noochila/-DSA-/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Noochila/-DSA-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/Noochila/-DSA-/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Noochila/-DSA-/tree/master/0402-remove-k-digits) |
