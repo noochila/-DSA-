@@ -421,6 +421,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0316-remove-duplicate-letters](https://github.com/Noochila/-DSA-/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Noochila/-DSA-/tree/master/0402-remove-k-digits) |
 | [0516-longest-palindromic-subsequence](https://github.com/Noochila/-DSA-/tree/master/0516-longest-palindromic-subsequence) |
+| [0564-find-the-closest-palindrome](https://github.com/Noochila/-DSA-/tree/master/0564-find-the-closest-palindrome) |
 | [0583-delete-operation-for-two-strings](https://github.com/Noochila/-DSA-/tree/master/0583-delete-operation-for-two-strings) |
 | [0664-strange-printer](https://github.com/Noochila/-DSA-/tree/master/0664-strange-printer) |
 | [0926-find-and-replace-pattern](https://github.com/Noochila/-DSA-/tree/master/0926-find-and-replace-pattern) |
@@ -816,6 +817,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0264-ugly-number-ii](https://github.com/Noochila/-DSA-/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Noochila/-DSA-/tree/master/0273-integer-to-english-words) |
 | [0368-largest-divisible-subset](https://github.com/Noochila/-DSA-/tree/master/0368-largest-divisible-subset) |
+| [0564-find-the-closest-palindrome](https://github.com/Noochila/-DSA-/tree/master/0564-find-the-closest-palindrome) |
 | [0650-2-keys-keyboard](https://github.com/Noochila/-DSA-/tree/master/0650-2-keys-keyboard) |
 | [0790-global-and-local-inversions](https://github.com/Noochila/-DSA-/tree/master/0790-global-and-local-inversions) |
 | [0870-magic-squares-in-grid](https://github.com/Noochila/-DSA-/tree/master/0870-magic-squares-in-grid) |
