@@ -818,6 +818,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/Noochila/-DSA-/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/Noochila/-DSA-/tree/master/0029-divide-two-integers) |
+| [0060-permutation-sequence](https://github.com/Noochila/-DSA-/tree/master/0060-permutation-sequence) |
 | [0189-rotate-array](https://github.com/Noochila/-DSA-/tree/master/0189-rotate-array) |
 | [0264-ugly-number-ii](https://github.com/Noochila/-DSA-/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Noochila/-DSA-/tree/master/0273-integer-to-english-words) |
@@ -852,6 +853,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/Noochila/-DSA-/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Noochila/-DSA-/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/Noochila/-DSA-/tree/master/0044-wildcard-matching) |
+| [0060-permutation-sequence](https://github.com/Noochila/-DSA-/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/Noochila/-DSA-/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Noochila/-DSA-/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/Noochila/-DSA-/tree/master/0273-integer-to-english-words) |
