@@ -397,6 +397,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0621-task-scheduler](https://github.com/Noochila/-DSA-/tree/master/0621-task-scheduler) |
 | [0870-magic-squares-in-grid](https://github.com/Noochila/-DSA-/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/Noochila/-DSA-/tree/master/0876-hand-of-straights) |
+| [0906-walking-robot-simulation](https://github.com/Noochila/-DSA-/tree/master/0906-walking-robot-simulation) |
 | [0926-find-and-replace-pattern](https://github.com/Noochila/-DSA-/tree/master/0926-find-and-replace-pattern) |
 | [0999-regions-cut-by-slashes](https://github.com/Noochila/-DSA-/tree/master/0999-regions-cut-by-slashes) |
 | [1129-longest-string-chain](https://github.com/Noochila/-DSA-/tree/master/1129-longest-string-chain) |
@@ -549,6 +550,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0870-magic-squares-in-grid](https://github.com/Noochila/-DSA-/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/Noochila/-DSA-/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/Noochila/-DSA-/tree/master/0890-lemonade-change) |
+| [0906-walking-robot-simulation](https://github.com/Noochila/-DSA-/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/Noochila/-DSA-/tree/master/0907-koko-eating-bananas) |
 | [0921-spiral-matrix-iii](https://github.com/Noochila/-DSA-/tree/master/0921-spiral-matrix-iii) |
 | [0926-find-and-replace-pattern](https://github.com/Noochila/-DSA-/tree/master/0926-find-and-replace-pattern) |
@@ -725,6 +727,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Noochila/-DSA-/tree/master/0735-asteroid-collision) |
+| [0906-walking-robot-simulation](https://github.com/Noochila/-DSA-/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/Noochila/-DSA-/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/Noochila/-DSA-/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/Noochila/-DSA-/tree/master/1803-average-waiting-time) |
