@@ -512,6 +512,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0040-combination-sum-ii](https://github.com/Noochila/-DSA-/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Noochila/-DSA-/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/Noochila/-DSA-/tree/master/0045-jump-game-ii) |
+| [0057-insert-interval](https://github.com/Noochila/-DSA-/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/Noochila/-DSA-/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Noochila/-DSA-/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Noochila/-DSA-/tree/master/0081-search-in-rotated-sorted-array-ii) |
