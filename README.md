@@ -598,6 +598,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [2306-create-binary-tree-from-descriptions](https://github.com/Noochila/-DSA-/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2411-spiral-matrix-iv](https://github.com/Noochila/-DSA-/tree/master/2411-spiral-matrix-iv) |
 | [2502-sort-the-people](https://github.com/Noochila/-DSA-/tree/master/2502-sort-the-people) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Noochila/-DSA-/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2727-number-of-senior-citizens](https://github.com/Noochila/-DSA-/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/Noochila/-DSA-/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Noochila/-DSA-/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -836,6 +837,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1786-count-the-number-of-consistent-strings](https://github.com/Noochila/-DSA-/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Noochila/-DSA-/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Noochila/-DSA-/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Noochila/-DSA-/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1021,4 +1023,8 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/Noochila/-DSA-/tree/master/1240-stone-game-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Noochila/-DSA-/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
