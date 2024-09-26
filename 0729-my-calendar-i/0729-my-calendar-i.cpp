@@ -1,22 +1,26 @@
+#include <set>
+using namespace std;
+
 class MyCalendar {
 public:
-    vector<pair<int, int>> v;
+    set<pair<int, int>> v;
     MyCalendar() {}
 
     bool book(int start, int end) {
+     
+        auto it = v.lower_bound({start, end});
 
-        if (v.size() == 0) {
-            v.push_back({start, end});
-            return true;
-        }
+       
+        if (it != v.end() && it->first < end) 
+            return false;
 
-        for (auto it : v) {
-
-            if (start < it.second  && end>it.first)
+        if (it != v.begin()) {
+            auto prevt = prev(it);
+            if (prevt->second > start)
                 return false;
         }
 
-        v.push_back({start, end});
+        v.insert({start, end});
         return true;
     }
 };
