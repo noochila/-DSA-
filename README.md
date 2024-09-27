@@ -605,6 +605,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1720-crawler-log-folder](https://github.com/Noochila/-DSA-/tree/master/1720-crawler-log-folder) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Noochila/-DSA-/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/Noochila/-DSA-/tree/master/1803-average-waiting-time) |
+| [1826-maximum-xor-with-an-element-from-array](https://github.com/Noochila/-DSA-/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Noochila/-DSA-/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Noochila/-DSA-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/Noochila/-DSA-/tree/master/2035-count-sub-islands) |
@@ -865,6 +866,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1435-xor-queries-of-a-subarray](https://github.com/Noochila/-DSA-/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Noochila/-DSA-/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Noochila/-DSA-/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1826-maximum-xor-with-an-element-from-array](https://github.com/Noochila/-DSA-/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Noochila/-DSA-/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Noochila/-DSA-/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Noochila/-DSA-/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -1086,5 +1088,6 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0386-lexicographical-numbers](https://github.com/Noochila/-DSA-/tree/master/0386-lexicographical-numbers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Noochila/-DSA-/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Noochila/-DSA-/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [1826-maximum-xor-with-an-element-from-array](https://github.com/Noochila/-DSA-/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2755-extra-characters-in-a-string](https://github.com/Noochila/-DSA-/tree/master/2755-extra-characters-in-a-string) |
 <!---LeetCode Topics End-->
