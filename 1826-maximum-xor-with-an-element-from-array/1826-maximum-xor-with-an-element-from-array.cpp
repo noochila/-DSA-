@@ -66,7 +66,7 @@ public:
             }
 
            if (it == nums.begin()) {
-                // No numbers less than or equal to mi, return -1 for this query
+              
                 ans[modifiedQueries[i].second.second] = -1;
             } else {
                 ans[modifiedQueries[i].second.second] = trie->getMax(modifiedQueries[i].second.first);
