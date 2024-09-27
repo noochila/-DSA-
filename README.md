@@ -394,6 +394,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/Noochila/-DSA-/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/Noochila/-DSA-/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Noochila/-DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Noochila/-DSA-/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Noochila/-DSA-/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Noochila/-DSA-/tree/master/0621-task-scheduler) |
 | [0870-magic-squares-in-grid](https://github.com/Noochila/-DSA-/tree/master/0870-magic-squares-in-grid) |
@@ -551,6 +552,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0368-largest-divisible-subset](https://github.com/Noochila/-DSA-/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/Noochila/-DSA-/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Noochila/-DSA-/tree/master/0413-arithmetic-slices) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Noochila/-DSA-/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Noochila/-DSA-/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0493-reverse-pairs](https://github.com/Noochila/-DSA-/tree/master/0493-reverse-pairs) |
 | [0518-coin-change-ii](https://github.com/Noochila/-DSA-/tree/master/0518-coin-change-ii) |
@@ -858,6 +860,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | ------- |
 | [0029-divide-two-integers](https://github.com/Noochila/-DSA-/tree/master/0029-divide-two-integers) |
 | [0287-find-the-duplicate-number](https://github.com/Noochila/-DSA-/tree/master/0287-find-the-duplicate-number) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Noochila/-DSA-/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0476-number-complement](https://github.com/Noochila/-DSA-/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Noochila/-DSA-/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Noochila/-DSA-/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -1081,6 +1084,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Noochila/-DSA-/tree/master/0208-implement-trie-prefix-tree) |
 | [0386-lexicographical-numbers](https://github.com/Noochila/-DSA-/tree/master/0386-lexicographical-numbers) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Noochila/-DSA-/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Noochila/-DSA-/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2755-extra-characters-in-a-string](https://github.com/Noochila/-DSA-/tree/master/2755-extra-characters-in-a-string) |
 <!---LeetCode Topics End-->
