@@ -417,6 +417,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Noochila/-DSA-/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/Noochila/-DSA-/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 | [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Noochila/-DSA-/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
+| [3541-report-spam-message](https://github.com/Noochila/-DSA-/tree/master/3541-report-spam-message) |
 ## String
 |  |
 | ------- |
@@ -461,6 +462,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Noochila/-DSA-/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Noochila/-DSA-/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/Noochila/-DSA-/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
+| [3541-report-spam-message](https://github.com/Noochila/-DSA-/tree/master/3541-report-spam-message) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -633,6 +635,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Noochila/-DSA-/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Noochila/-DSA-/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3464-maximize-total-cost-of-alternating-subarrays](https://github.com/Noochila/-DSA-/tree/master/3464-maximize-total-cost-of-alternating-subarrays) |
+| [3541-report-spam-message](https://github.com/Noochila/-DSA-/tree/master/3541-report-spam-message) |
 ## Divide and Conquer
 |  |
 | ------- |
