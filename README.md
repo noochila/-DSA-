@@ -582,6 +582,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0790-global-and-local-inversions](https://github.com/Noochila/-DSA-/tree/master/0790-global-and-local-inversions) |
 | [0792-binary-search](https://github.com/Noochila/-DSA-/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Noochila/-DSA-/tree/master/0794-swim-in-rising-water) |
+| [0859-design-circular-deque](https://github.com/Noochila/-DSA-/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/Noochila/-DSA-/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/Noochila/-DSA-/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/Noochila/-DSA-/tree/master/0890-lemonade-change) |
@@ -741,6 +742,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/Noochila/-DSA-/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Noochila/-DSA-/tree/master/0328-odd-even-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Noochila/-DSA-/tree/master/0725-split-linked-list-in-parts) |
+| [0859-design-circular-deque](https://github.com/Noochila/-DSA-/tree/master/0859-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/Noochila/-DSA-/tree/master/0908-middle-of-the-linked-list) |
 | [1582-design-browser-history](https://github.com/Noochila/-DSA-/tree/master/1582-design-browser-history) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Noochila/-DSA-/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -798,6 +800,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0729-my-calendar-i](https://github.com/Noochila/-DSA-/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Noochila/-DSA-/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Noochila/-DSA-/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0859-design-circular-deque](https://github.com/Noochila/-DSA-/tree/master/0859-design-circular-deque) |
 | [1582-design-browser-history](https://github.com/Noochila/-DSA-/tree/master/1582-design-browser-history) |
 ## Greedy
 |  |
@@ -953,6 +956,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 ## Queue
 |  |
 | ------- |
+| [0859-design-circular-deque](https://github.com/Noochila/-DSA-/tree/master/0859-design-circular-deque) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Noochila/-DSA-/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Depth-First Search
 |  |
