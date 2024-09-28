@@ -418,6 +418,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/Noochila/-DSA-/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 | [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Noochila/-DSA-/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3541-report-spam-message](https://github.com/Noochila/-DSA-/tree/master/3541-report-spam-message) |
+| [3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/Noochila/-DSA-/tree/master/3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/Noochila/-DSA-/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 ## String
 |  |
@@ -464,6 +465,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Noochila/-DSA-/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/Noochila/-DSA-/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 | [3541-report-spam-message](https://github.com/Noochila/-DSA-/tree/master/3541-report-spam-message) |
+| [3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/Noochila/-DSA-/tree/master/3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/Noochila/-DSA-/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 ## Dynamic Programming
 |  |
@@ -892,6 +894,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Noochila/-DSA-/tree/master/0713-subarray-product-less-than-k) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Noochila/-DSA-/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/Noochila/-DSA-/tree/master/3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/Noochila/-DSA-/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 ## Math
 |  |
