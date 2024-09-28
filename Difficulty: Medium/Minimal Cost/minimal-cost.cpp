@@ -6,21 +6,23 @@ using namespace std;
 // } Driver Code Ends
 class Solution {
   public:
-    int minimizeCost(vector<int>& arr, int& k) {
+    int minimizeCost(int k, vector<int>& arr) {
         // Code here
-        int n=arr.size();
-        vector<int> dp(n,1e9);
         
+        vector<int> dp(arr.size()+1,1e9);
         dp[0]=0;
-        for(int i=0;i<n;i++)
+        
+        for(int i=0;i<arr.size();i++)
         {
-            for(int j=1;j<=k;j++)
-            {
-                if(i-j>=0)
-                dp[i]=min(dp[i],abs(arr[i-j]-arr[i])+dp[i-j]);
-            }
+           for(int j=1;j<=k;j++)
+           {
+               if(i-j>=0)
+               dp[i]=min(dp[i],abs(arr[i]-arr[i-j])+dp[i-j]);
+           }
+        //   cout<<dp[i]<<" ";
         }
-        return dp[n-1];
+        
+        return dp[arr.size()-1];
     }
 };
 
@@ -43,7 +45,7 @@ int main() {
             arr.push_back(number);
         }
         Solution obj;
-        int res = obj.minimizeCost(arr, k);
+        int res = obj.minimizeCost(k, arr);
         cout << res << endl;
         // string tl;
         // getline(cin, tl);
