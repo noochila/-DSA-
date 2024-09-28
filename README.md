@@ -635,6 +635,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Noochila/-DSA-/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Noochila/-DSA-/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3464-maximize-total-cost-of-alternating-subarrays](https://github.com/Noochila/-DSA-/tree/master/3464-maximize-total-cost-of-alternating-subarrays) |
+| [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Noochila/-DSA-/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3541-report-spam-message](https://github.com/Noochila/-DSA-/tree/master/3541-report-spam-message) |
 ## Divide and Conquer
 |  |
@@ -859,6 +860,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1646-kth-missing-positive-number](https://github.com/Noochila/-DSA-/tree/master/1646-kth-missing-positive-number) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Noochila/-DSA-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Noochila/-DSA-/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Noochila/-DSA-/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -909,6 +911,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Noochila/-DSA-/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/Noochila/-DSA-/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/Noochila/-DSA-/tree/master/2645-pass-the-pillow) |
+| [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Noochila/-DSA-/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Matrix
 |  |
 | ------- |
