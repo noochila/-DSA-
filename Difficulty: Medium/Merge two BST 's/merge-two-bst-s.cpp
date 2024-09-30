@@ -96,7 +96,8 @@ class Solution {
   public:
     // Function to return a list of integers denoting the node
     // values of both the BST in a sorted order.
-    void fun(Node*root,multiset<int>&s)
+    
+     void fun(Node*root,multiset<int>&s)
     {
         if(root==NULL)
         {
@@ -107,10 +108,10 @@ class Solution {
         fun(root->right,s);
         
     }
-    
     vector<int> merge(Node *root1, Node *root2) {
         // Your code here
-        vector<int>v;
+        
+         vector<int>v;
         multiset<int>s;
         fun(root1,s);
         fun(root2,s);
@@ -119,6 +120,8 @@ class Solution {
             v.push_back(*i);
         }
         return v;
+        
+        
     }
 };
 
