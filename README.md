@@ -473,6 +473,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [3541-report-spam-message](https://github.com/Noochila/-DSA-/tree/master/3541-report-spam-message) |
 | [3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/Noochila/-DSA-/tree/master/3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/Noochila/-DSA-/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Noochila/-DSA-/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -519,6 +520,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/Noochila/-DSA-/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 | [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Noochila/-DSA-/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3464-maximize-total-cost-of-alternating-subarrays](https://github.com/Noochila/-DSA-/tree/master/3464-maximize-total-cost-of-alternating-subarrays) |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Noochila/-DSA-/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 ## Backtracking
 |  |
 | ------- |
@@ -838,6 +840,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Noochila/-DSA-/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Noochila/-DSA-/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Noochila/-DSA-/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Noochila/-DSA-/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -861,6 +864,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Noochila/-DSA-/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Noochila/-DSA-/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Noochila/-DSA-/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Noochila/-DSA-/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search
 |  |
 | ------- |
