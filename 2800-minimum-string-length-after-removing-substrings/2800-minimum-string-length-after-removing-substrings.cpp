@@ -11,12 +11,9 @@ public:
                 s.erase(s.find("CD"), 2);
             }
 
-            if (s.find("s") != string::npos) {
-                s.erase(s.find("s"), 1);
-            }
+        
 
-            if (s.find("AB") == string::npos && s.find("CD") == string::npos &&
-                s.find("s") == string::npos)
+            if (s.find("AB") == string::npos && s.find("CD") == string::npos )
                 break;
         }
 
