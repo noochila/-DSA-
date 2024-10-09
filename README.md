@@ -447,6 +447,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/Noochila/-DSA-/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/Noochila/-DSA-/tree/master/0583-delete-operation-for-two-strings) |
 | [0664-strange-printer](https://github.com/Noochila/-DSA-/tree/master/0664-strange-printer) |
+| [0678-valid-parenthesis-string](https://github.com/Noochila/-DSA-/tree/master/0678-valid-parenthesis-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Noochila/-DSA-/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0926-find-and-replace-pattern](https://github.com/Noochila/-DSA-/tree/master/0926-find-and-replace-pattern) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Noochila/-DSA-/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -506,6 +507,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0650-2-keys-keyboard](https://github.com/Noochila/-DSA-/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/Noochila/-DSA-/tree/master/0664-strange-printer) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Noochila/-DSA-/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/Noochila/-DSA-/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Noochila/-DSA-/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Noochila/-DSA-/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/Noochila/-DSA-/tree/master/1129-longest-string-chain) |
@@ -782,6 +784,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/Noochila/-DSA-/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Noochila/-DSA-/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Noochila/-DSA-/tree/master/0402-remove-k-digits) |
+| [0678-valid-parenthesis-string](https://github.com/Noochila/-DSA-/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Noochila/-DSA-/tree/master/0735-asteroid-collision) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Noochila/-DSA-/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Noochila/-DSA-/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -845,6 +848,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0410-split-array-largest-sum](https://github.com/Noochila/-DSA-/tree/master/0410-split-array-largest-sum) |
 | [0621-task-scheduler](https://github.com/Noochila/-DSA-/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/Noochila/-DSA-/tree/master/0624-maximum-distance-in-arrays) |
+| [0678-valid-parenthesis-string](https://github.com/Noochila/-DSA-/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Noochila/-DSA-/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0876-hand-of-straights](https://github.com/Noochila/-DSA-/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/Noochila/-DSA-/tree/master/0890-lemonade-change) |
