@@ -38,24 +38,30 @@ public:
 
         // return st.empty(); // If stack is empty, all '(' are matched
 
-        int open = 0;
-        int close = 0;
-        int n = s.size();
 
-        for (int i = 0; i < n/2; i++) {
-            if (s[i] == '(' || s[i] == '*')
-                open++;
-            else
-                open--;
-            if (s[n - i - 1] == ')' || s[n - i - 1] == '*')
-                close++;
-            else
-                close--;
+          int open=0;
+          int close=0;
+          int n=s.size();
 
-            if (open < 0 || close < 0)
-                return false;
-        }
+          for(int i=0;i<n;i++)
+          {
+              if(s[i]=='(' || s[i]=='*')
+              open++;
+              else 
+              open--;
+              if(s[n-i-1]==')' || s[n-i-1]=='*')
+              close++;
+              else 
+              close--;
 
-        return true;
+                if(open<0 || close<0)
+          return false;
+         
+          }
+
+          return true;
+
+        
     }
+
 };
