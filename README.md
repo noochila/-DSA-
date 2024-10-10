@@ -426,6 +426,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [3541-report-spam-message](https://github.com/Noochila/-DSA-/tree/master/3541-report-spam-message) |
 | [3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/Noochila/-DSA-/tree/master/3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/Noochila/-DSA-/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
+| [3583-sorted-gcd-pair-queries](https://github.com/Noochila/-DSA-/tree/master/3583-sorted-gcd-pair-queries) |
 ## String
 |  |
 | ------- |
@@ -544,6 +545,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Noochila/-DSA-/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Noochila/-DSA-/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/Noochila/-DSA-/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
+| [3583-sorted-gcd-pair-queries](https://github.com/Noochila/-DSA-/tree/master/3583-sorted-gcd-pair-queries) |
 ## Array
 |  |
 | ------- |
@@ -665,6 +667,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [3464-maximize-total-cost-of-alternating-subarrays](https://github.com/Noochila/-DSA-/tree/master/3464-maximize-total-cost-of-alternating-subarrays) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Noochila/-DSA-/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3541-report-spam-message](https://github.com/Noochila/-DSA-/tree/master/3541-report-spam-message) |
+| [3583-sorted-gcd-pair-queries](https://github.com/Noochila/-DSA-/tree/master/3583-sorted-gcd-pair-queries) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -916,6 +919,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Noochila/-DSA-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Noochila/-DSA-/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Noochila/-DSA-/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3583-sorted-gcd-pair-queries](https://github.com/Noochila/-DSA-/tree/master/3583-sorted-gcd-pair-queries) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -928,6 +932,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Noochila/-DSA-/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/Noochila/-DSA-/tree/master/1694-make-sum-divisible-by-p) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Noochila/-DSA-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [3583-sorted-gcd-pair-queries](https://github.com/Noochila/-DSA-/tree/master/3583-sorted-gcd-pair-queries) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -972,6 +977,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [2155-find-missing-observations](https://github.com/Noochila/-DSA-/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/Noochila/-DSA-/tree/master/2645-pass-the-pillow) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Noochila/-DSA-/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3583-sorted-gcd-pair-queries](https://github.com/Noochila/-DSA-/tree/master/3583-sorted-gcd-pair-queries) |
 ## Matrix
 |  |
 | ------- |
@@ -1173,4 +1179,12 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Noochila/-DSA-/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Noochila/-DSA-/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Noochila/-DSA-/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+## Combinatorics
+|  |
+| ------- |
+| [3583-sorted-gcd-pair-queries](https://github.com/Noochila/-DSA-/tree/master/3583-sorted-gcd-pair-queries) |
+## Number Theory
+|  |
+| ------- |
+| [3583-sorted-gcd-pair-queries](https://github.com/Noochila/-DSA-/tree/master/3583-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
