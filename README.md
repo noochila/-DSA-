@@ -655,6 +655,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Noochila/-DSA-/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Noochila/-DSA-/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2411-spiral-matrix-iv](https://github.com/Noochila/-DSA-/tree/master/2411-spiral-matrix-iv) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Noochila/-DSA-/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Noochila/-DSA-/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Noochila/-DSA-/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/Noochila/-DSA-/tree/master/2502-sort-the-people) |
@@ -701,6 +702,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Noochila/-DSA-/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Noochila/-DSA-/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Noochila/-DSA-/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Noochila/-DSA-/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Noochila/-DSA-/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/Noochila/-DSA-/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Noochila/-DSA-/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -717,6 +719,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0948-sort-an-array](https://github.com/Noochila/-DSA-/tree/master/0948-sort-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/Noochila/-DSA-/tree/master/1325-path-with-maximum-probability) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Noochila/-DSA-/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Noochila/-DSA-/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Merge Sort
 |  |
 | ------- |
@@ -867,6 +870,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Noochila/-DSA-/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Noochila/-DSA-/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Noochila/-DSA-/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Noochila/-DSA-/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Noochila/-DSA-/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Noochila/-DSA-/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Noochila/-DSA-/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
@@ -894,6 +898,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1923-sentence-similarity-iii](https://github.com/Noochila/-DSA-/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Noochila/-DSA-/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Noochila/-DSA-/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Noochila/-DSA-/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Noochila/-DSA-/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Noochila/-DSA-/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Noochila/-DSA-/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
@@ -935,6 +940,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Noochila/-DSA-/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/Noochila/-DSA-/tree/master/1694-make-sum-divisible-by-p) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Noochila/-DSA-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Noochila/-DSA-/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3583-sorted-gcd-pair-queries](https://github.com/Noochila/-DSA-/tree/master/3583-sorted-gcd-pair-queries) |
 ## Bit Manipulation
 |  |
