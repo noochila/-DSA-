@@ -1,43 +1,42 @@
 class Solution {
 public:
-    vector<int> smallestRange(vector<vector<int>>& nums) {
+   vector<int> smallestRange(vector<vector<int>>& nums) {
         int k = nums.size();
 
-        vector<int> vec(k, 0);
-        vector<int> range{-100000, 100000};
+        //{element, listIdx, idx} //vector<int>{a, b, c}
+        priority_queue<vector<int>, vector<vector<int>>, greater<vector<int>>> pq;
 
-        while (true) {
-            int mini = INT_MAX;
-            int maxi = INT_MIN;
-            int minInd = 0;
-            for (int i = 0; i < k; i++) {
-                int listInd = i;
-                int vecInd = vec[i];
-                int ele = nums[listInd][vecInd];
-                if (ele < mini) {
-                    mini = ele;
-                    minInd = i;
-                }
-                maxi = max(maxi, ele);
-            }
-
-            if (maxi - mini < range[1] - range[0]) {
-                range[0] = mini;
-                range[1] = maxi;
-            } else if (maxi - mini == range[1] - range[0]) {
-                if (mini < range[0]) {
-                    range[0] = mini;
-                    range[1] = maxi;
-                }
-            }
-
-            int nextInd = vec[minInd] + 1;
-            if (nextInd >= nums[minInd].size())
-                break;
-
-            vec[minInd] = nextInd;
+        int maxEl = INT_MIN;
+        for(int i = 0; i < k; i++) {
+            pq.push({nums[i][0], i, 0});
+            maxEl = max(maxEl, nums[i][0]);
         }
 
-        return range;
+        vector<int> resultRange = {-1000000, 1000000};
+
+        while(!pq.empty()) {
+            vector<int> curr = pq.top();
+            pq.pop();
+
+            int minEl = curr[0];
+            int listIdx = curr[1];
+            int idx     = curr[2];
+
+            if(maxEl - minEl < resultRange[1] -  resultRange[0]) {
+                resultRange[0] = minEl;
+                resultRange[1] = maxEl;
+            }
+
+            //decrease the rangen fro minimums ide
+            if(idx+1 < nums[listIdx].size()) {
+                int nextElement = nums[listIdx][idx+1];
+                pq.push({nextElement, listIdx, idx+1});
+                maxEl = max(maxEl, nextElement);
+            } else {
+                break;
+            }
+        }
+
+        return resultRange;
     }
 };
