@@ -482,6 +482,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [3541-report-spam-message](https://github.com/Noochila/-DSA-/tree/master/3541-report-spam-message) |
 | [3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/Noochila/-DSA-/tree/master/3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/Noochila/-DSA-/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
+| [3580-find-the-occurrence-of-first-almost-equal-substring](https://github.com/Noochila/-DSA-/tree/master/3580-find-the-occurrence-of-first-almost-equal-substring) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Noochila/-DSA-/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
@@ -1177,6 +1178,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Noochila/-DSA-/tree/master/0214-shortest-palindrome) |
+| [3580-find-the-occurrence-of-first-almost-equal-substring](https://github.com/Noochila/-DSA-/tree/master/3580-find-the-occurrence-of-first-almost-equal-substring) |
 ## Hash Function
 |  |
 | ------- |
