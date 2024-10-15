@@ -717,6 +717,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Noochila/-DSA-/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2846-robot-collisions](https://github.com/Noochila/-DSA-/tree/master/2846-robot-collisions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Noochila/-DSA-/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Noochila/-DSA-/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1061,6 +1062,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Noochila/-DSA-/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Noochila/-DSA-/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/Noochila/-DSA-/tree/master/2035-count-sub-islands) |
+| [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Noochila/-DSA-/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1100,6 +1102,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1207-delete-nodes-and-return-forest](https://github.com/Noochila/-DSA-/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Noochila/-DSA-/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Noochila/-DSA-/tree/master/2306-create-binary-tree-from-descriptions) |
+| [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Noochila/-DSA-/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1108,6 +1111,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1207-delete-nodes-and-return-forest](https://github.com/Noochila/-DSA-/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Noochila/-DSA-/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Noochila/-DSA-/tree/master/2306-create-binary-tree-from-descriptions) |
+| [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Noochila/-DSA-/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
