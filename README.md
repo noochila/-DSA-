@@ -486,6 +486,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/Noochila/-DSA-/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 | [3580-find-the-occurrence-of-first-almost-equal-substring](https://github.com/Noochila/-DSA-/tree/master/3580-find-the-occurrence-of-first-almost-equal-substring) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Noochila/-DSA-/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
+| [3588-count-the-number-of-winning-sequences](https://github.com/Noochila/-DSA-/tree/master/3588-count-the-number-of-winning-sequences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -534,6 +535,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Noochila/-DSA-/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3464-maximize-total-cost-of-alternating-subarrays](https://github.com/Noochila/-DSA-/tree/master/3464-maximize-total-cost-of-alternating-subarrays) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Noochila/-DSA-/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
+| [3588-count-the-number-of-winning-sequences](https://github.com/Noochila/-DSA-/tree/master/3588-count-the-number-of-winning-sequences) |
 ## Backtracking
 |  |
 | ------- |
