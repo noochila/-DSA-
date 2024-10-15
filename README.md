@@ -478,6 +478,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [2755-extra-characters-in-a-string](https://github.com/Noochila/-DSA-/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Noochila/-DSA-/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/Noochila/-DSA-/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
+| [3195-separate-black-and-white-balls](https://github.com/Noochila/-DSA-/tree/master/3195-separate-black-and-white-balls) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Noochila/-DSA-/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Noochila/-DSA-/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Noochila/-DSA-/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -893,6 +894,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Noochila/-DSA-/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Noochila/-DSA-/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Noochila/-DSA-/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3195-separate-black-and-white-balls](https://github.com/Noochila/-DSA-/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Noochila/-DSA-/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Noochila/-DSA-/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 ## Two Pointers
@@ -922,6 +924,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Noochila/-DSA-/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Noochila/-DSA-/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Noochila/-DSA-/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3195-separate-black-and-white-balls](https://github.com/Noochila/-DSA-/tree/master/3195-separate-black-and-white-balls) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Noochila/-DSA-/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search
 |  |
