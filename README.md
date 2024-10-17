@@ -386,6 +386,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | ------- |
 | [0041-first-missing-positive](https://github.com/Noochila/-DSA-/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Noochila/-DSA-/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Noochila/-DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Noochila/-DSA-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/Noochila/-DSA-/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/Noochila/-DSA-/tree/master/0141-linked-list-cycle) |
@@ -578,6 +579,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Noochila/-DSA-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Noochila/-DSA-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Noochila/-DSA-/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Noochila/-DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Noochila/-DSA-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/Noochila/-DSA-/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Noochila/-DSA-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -696,6 +698,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Noochila/-DSA-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Noochila/-DSA-/tree/master/0023-merge-k-sorted-lists) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Noochila/-DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Noochila/-DSA-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/Noochila/-DSA-/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/Noochila/-DSA-/tree/master/0493-reverse-pairs) |
@@ -1120,6 +1123,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Noochila/-DSA-/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Noochila/-DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Noochila/-DSA-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Noochila/-DSA-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Noochila/-DSA-/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -1132,6 +1136,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Noochila/-DSA-/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Noochila/-DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Noochila/-DSA-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Noochila/-DSA-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Noochila/-DSA-/tree/master/0789-kth-largest-element-in-a-stream) |
