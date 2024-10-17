@@ -389,6 +389,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Noochila/-DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Noochila/-DSA-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/Noochila/-DSA-/tree/master/0127-word-ladder) |
+| [0138-copy-list-with-random-pointer](https://github.com/Noochila/-DSA-/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Noochila/-DSA-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Noochila/-DSA-/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Noochila/-DSA-/tree/master/0160-intersection-of-two-linked-lists) |
@@ -801,6 +802,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0021-merge-two-sorted-lists](https://github.com/Noochila/-DSA-/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Noochila/-DSA-/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/Noochila/-DSA-/tree/master/0061-rotate-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/Noochila/-DSA-/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Noochila/-DSA-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Noochila/-DSA-/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Noochila/-DSA-/tree/master/0148-sort-list) |
