@@ -441,6 +441,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Noochila/-DSA-/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Noochila/-DSA-/tree/master/0044-wildcard-matching) |
+| [0079-word-search](https://github.com/Noochila/-DSA-/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Noochila/-DSA-/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Noochila/-DSA-/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Noochila/-DSA-/tree/master/0131-palindrome-partitioning) |
@@ -551,6 +552,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Noochila/-DSA-/tree/master/0040-combination-sum-ii) |
+| [0079-word-search](https://github.com/Noochila/-DSA-/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Noochila/-DSA-/tree/master/0131-palindrome-partitioning) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/Noochila/-DSA-/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 ## Counting
@@ -580,6 +582,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0057-insert-interval](https://github.com/Noochila/-DSA-/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/Noochila/-DSA-/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Noochila/-DSA-/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Noochila/-DSA-/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Noochila/-DSA-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Noochila/-DSA-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Noochila/-DSA-/tree/master/0088-merge-sorted-array) |
@@ -1040,6 +1043,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Noochila/-DSA-/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Noochila/-DSA-/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Noochila/-DSA-/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Noochila/-DSA-/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Noochila/-DSA-/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Noochila/-DSA-/tree/master/0733-flood-fill) |
