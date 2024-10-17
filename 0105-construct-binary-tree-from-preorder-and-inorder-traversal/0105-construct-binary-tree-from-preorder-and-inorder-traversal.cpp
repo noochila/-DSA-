@@ -12,36 +12,32 @@
 class Solution {
 public:
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
-        if(preorder.size() == 0)
-            return nullptr;
-
-        unordered_map<int, int> inorderIndexMap;
-        for (int i = 0; i < inorder.size(); ++i) {
-            inorderIndexMap[inorder[i]] = i;
-        }
-
-        return buildTreeHelper(preorder, 0, preorder.size() - 1, inorder, 0, inorder.size() - 1, inorderIndexMap);
+        return buildTreeHelper(preorder, 0, preorder.size() - 1, inorder, 0, inorder.size() - 1);
     }
 
 private:
-    TreeNode* buildTreeHelper(vector<int>& preorder, int preStart, int preEnd,
-                              vector<int>& inorder, int inStart, int inEnd,
-                              unordered_map<int, int>& inorderIndexMap) {
+    TreeNode* buildTreeHelper(vector<int>& preorder, int preStart, int preEnd, 
+                              vector<int>& inorder, int inStart, int inEnd) {
         if (preStart > preEnd || inStart > inEnd) {
             return nullptr;
         }
 
-        int rootVal = preorder[preStart];
-        TreeNode* root = new TreeNode(rootVal);
+        int nodeval = preorder[preStart];
+        TreeNode* node = new TreeNode(nodeval);
 
-        int rootIndex = inorderIndexMap[rootVal];
-        int leftSubtreeSize = rootIndex - inStart;
+        int inorderIndex = inStart;
+        while (inorderIndex <= inEnd && inorder[inorderIndex] != nodeval) {
+            inorderIndex++;
+        }
 
-        root->left = buildTreeHelper(preorder, preStart + 1, preStart + leftSubtreeSize,
-                                     inorder, inStart, rootIndex - 1, inorderIndexMap);
-        root->right = buildTreeHelper(preorder, preStart + leftSubtreeSize + 1, preEnd,
-                                      inorder, rootIndex + 1, inEnd, inorderIndexMap);
+        int leftTreeSize = inorderIndex - inStart;
 
-        return root;
+        node->left = buildTreeHelper(preorder, preStart + 1, preStart + leftTreeSize, 
+                                     inorder, inStart, inorderIndex - 1);
+
+        node->right = buildTreeHelper(preorder, preStart + leftTreeSize + 1, preEnd, 
+                                      inorder, inorderIndex + 1, inEnd);
+
+        return node;
     }
 };
