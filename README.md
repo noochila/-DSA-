@@ -554,6 +554,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0040-combination-sum-ii](https://github.com/Noochila/-DSA-/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/Noochila/-DSA-/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Noochila/-DSA-/tree/master/0131-palindrome-partitioning) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Noochila/-DSA-/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/Noochila/-DSA-/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 ## Counting
 |  |
@@ -675,6 +676,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [2155-find-missing-observations](https://github.com/Noochila/-DSA-/tree/master/2155-find-missing-observations) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Noochila/-DSA-/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Noochila/-DSA-/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Noochila/-DSA-/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2227-sum-of-subarray-ranges](https://github.com/Noochila/-DSA-/tree/master/2227-sum-of-subarray-ranges) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Noochila/-DSA-/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Noochila/-DSA-/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -1001,6 +1003,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1786-count-the-number-of-consistent-strings](https://github.com/Noochila/-DSA-/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Noochila/-DSA-/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Noochila/-DSA-/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Noochila/-DSA-/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Noochila/-DSA-/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Noochila/-DSA-/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Sliding Window
@@ -1260,4 +1263,8 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [3583-sorted-gcd-pair-queries](https://github.com/Noochila/-DSA-/tree/master/3583-sorted-gcd-pair-queries) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Noochila/-DSA-/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
