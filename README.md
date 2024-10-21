@@ -417,6 +417,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Noochila/-DSA-/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Noochila/-DSA-/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1694-make-sum-divisible-by-p](https://github.com/Noochila/-DSA-/tree/master/1694-make-sum-divisible-by-p) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Noochila/-DSA-/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Noochila/-DSA-/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Noochila/-DSA-/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Noochila/-DSA-/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -472,6 +473,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Noochila/-DSA-/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Noochila/-DSA-/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/Noochila/-DSA-/tree/master/1530-check-if-a-string-can-break-another-string) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Noochila/-DSA-/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1720-crawler-log-folder](https://github.com/Noochila/-DSA-/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Noochila/-DSA-/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Noochila/-DSA-/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -555,6 +557,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0040-combination-sum-ii](https://github.com/Noochila/-DSA-/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/Noochila/-DSA-/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Noochila/-DSA-/tree/master/0131-palindrome-partitioning) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Noochila/-DSA-/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Noochila/-DSA-/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/Noochila/-DSA-/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 ## Counting
