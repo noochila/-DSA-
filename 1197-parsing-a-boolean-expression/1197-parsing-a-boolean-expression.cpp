@@ -35,10 +35,10 @@ public:
                     s.pop();
                 }
                 
-                // Pop the opening parenthesis '('
+                
                 if (!s.empty()) s.pop();
 
-                // Get the operator before '('
+              
                 if (!s.empty()) {
                     char ch = s.top();
                     s.pop();
@@ -46,7 +46,7 @@ public:
                     s.push(val);
                 }
             } else {
-                // Push characters to the stack
+             
                 s.push(it);
             }
         }
