@@ -17,8 +17,7 @@ public:
 
         q.push(root);
 
-        vector<long long> ans;
-
+        priority_queue<long long,vector<long long>,greater<long long>>pq;
 
         while(!q.empty())
         {
@@ -40,16 +39,13 @@ public:
                 
             }
 
-            ans.push_back(count);
+            pq.push(count);
+            if(pq.size()>k)
+            pq.pop();
         }
 
-        sort(ans.begin(),ans.end(),greater<>());
-        // cout<<ans.size()<<endl;
-
-        if(ans.size()<(k))
-        return -1;
-
-        return ans[k-1];
-        
+          if(pq.size()<k)
+          return -1;
+          return pq.top();
     }
 };
