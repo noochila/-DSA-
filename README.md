@@ -468,6 +468,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0920-uncommon-words-from-two-sentences](https://github.com/Noochila/-DSA-/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0926-find-and-replace-pattern](https://github.com/Noochila/-DSA-/tree/master/0926-find-and-replace-pattern) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Noochila/-DSA-/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1078-remove-outermost-parentheses](https://github.com/Noochila/-DSA-/tree/master/1078-remove-outermost-parentheses) |
 | [1129-longest-string-chain](https://github.com/Noochila/-DSA-/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/Noochila/-DSA-/tree/master/1170-shortest-common-supersequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/Noochila/-DSA-/tree/master/1197-parsing-a-boolean-expression) |
@@ -865,6 +866,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Noochila/-DSA-/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Noochila/-DSA-/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Noochila/-DSA-/tree/master/1002-maximum-width-ramp) |
+| [1078-remove-outermost-parentheses](https://github.com/Noochila/-DSA-/tree/master/1078-remove-outermost-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/Noochila/-DSA-/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Noochila/-DSA-/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Noochila/-DSA-/tree/master/1497-design-a-stack-with-increment-operation) |
