@@ -551,6 +551,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1511-count-number-of-teams](https://github.com/Noochila/-DSA-/tree/master/1511-count-number-of-teams) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Noochila/-DSA-/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Noochila/-DSA-/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Noochila/-DSA-/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Noochila/-DSA-/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Noochila/-DSA-/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Noochila/-DSA-/tree/master/2586-longest-square-streak-in-an-array) |
@@ -683,6 +684,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1694-make-sum-divisible-by-p](https://github.com/Noochila/-DSA-/tree/master/1694-make-sum-divisible-by-p) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Noochila/-DSA-/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/Noochila/-DSA-/tree/master/1720-crawler-log-folder) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Noochila/-DSA-/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Noochila/-DSA-/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/Noochila/-DSA-/tree/master/1803-average-waiting-time) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Noochila/-DSA-/tree/master/1826-maximum-xor-with-an-element-from-array) |
@@ -944,6 +946,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1530-check-if-a-string-can-break-another-string](https://github.com/Noochila/-DSA-/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Noochila/-DSA-/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Noochila/-DSA-/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Noochila/-DSA-/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Noochila/-DSA-/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Noochila/-DSA-/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Noochila/-DSA-/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -1005,6 +1008,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Noochila/-DSA-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Noochila/-DSA-/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1646-kth-missing-positive-number](https://github.com/Noochila/-DSA-/tree/master/1646-kth-missing-positive-number) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Noochila/-DSA-/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Noochila/-DSA-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Noochila/-DSA-/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Noochila/-DSA-/tree/master/2586-longest-square-streak-in-an-array) |
