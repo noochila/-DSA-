@@ -394,6 +394,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0142-linked-list-cycle-ii](https://github.com/Noochila/-DSA-/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Noochila/-DSA-/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Noochila/-DSA-/tree/master/0160-intersection-of-two-linked-lists) |
+| [0205-isomorphic-strings](https://github.com/Noochila/-DSA-/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Noochila/-DSA-/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/Noochila/-DSA-/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/Noochila/-DSA-/tree/master/0264-ugly-number-ii) |
@@ -452,6 +453,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0131-palindrome-partitioning](https://github.com/Noochila/-DSA-/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Noochila/-DSA-/tree/master/0132-palindrome-partitioning-ii) |
 | [0179-largest-number](https://github.com/Noochila/-DSA-/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/Noochila/-DSA-/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Noochila/-DSA-/tree/master/0208-implement-trie-prefix-tree) |
 | [0214-shortest-palindrome](https://github.com/Noochila/-DSA-/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Noochila/-DSA-/tree/master/0241-different-ways-to-add-parentheses) |
