@@ -438,6 +438,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [3541-report-spam-message](https://github.com/Noochila/-DSA-/tree/master/3541-report-spam-message) |
 | [3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/Noochila/-DSA-/tree/master/3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/Noochila/-DSA-/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
+| [3576-find-subtree-sizes-after-changes](https://github.com/Noochila/-DSA-/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3578-construct-2d-grid-matching-graph-layout](https://github.com/Noochila/-DSA-/tree/master/3578-construct-2d-grid-matching-graph-layout) |
 | [3583-sorted-gcd-pair-queries](https://github.com/Noochila/-DSA-/tree/master/3583-sorted-gcd-pair-queries) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Noochila/-DSA-/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -506,6 +507,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [3541-report-spam-message](https://github.com/Noochila/-DSA-/tree/master/3541-report-spam-message) |
 | [3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/Noochila/-DSA-/tree/master/3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/Noochila/-DSA-/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
+| [3576-find-subtree-sizes-after-changes](https://github.com/Noochila/-DSA-/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3580-find-the-occurrence-of-first-almost-equal-substring](https://github.com/Noochila/-DSA-/tree/master/3580-find-the-occurrence-of-first-almost-equal-substring) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Noochila/-DSA-/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3588-count-the-number-of-winning-sequences](https://github.com/Noochila/-DSA-/tree/master/3588-count-the-number-of-winning-sequences) |
@@ -723,6 +725,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [3487-find-maximum-removals-from-source-string](https://github.com/Noochila/-DSA-/tree/master/3487-find-maximum-removals-from-source-string) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Noochila/-DSA-/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3541-report-spam-message](https://github.com/Noochila/-DSA-/tree/master/3541-report-spam-message) |
+| [3576-find-subtree-sizes-after-changes](https://github.com/Noochila/-DSA-/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3578-construct-2d-grid-matching-graph-layout](https://github.com/Noochila/-DSA-/tree/master/3578-construct-2d-grid-matching-graph-layout) |
 | [3583-sorted-gcd-pair-queries](https://github.com/Noochila/-DSA-/tree/master/3583-sorted-gcd-pair-queries) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Noochila/-DSA-/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -1145,6 +1148,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Noochila/-DSA-/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Noochila/-DSA-/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Noochila/-DSA-/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
+| [3576-find-subtree-sizes-after-changes](https://github.com/Noochila/-DSA-/tree/master/3576-find-subtree-sizes-after-changes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1195,6 +1199,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Noochila/-DSA-/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Noochila/-DSA-/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Noochila/-DSA-/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
+| [3576-find-subtree-sizes-after-changes](https://github.com/Noochila/-DSA-/tree/master/3576-find-subtree-sizes-after-changes) |
 ## Binary Tree
 |  |
 | ------- |
