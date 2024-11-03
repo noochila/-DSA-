@@ -468,6 +468,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0583-delete-operation-for-two-strings](https://github.com/Noochila/-DSA-/tree/master/0583-delete-operation-for-two-strings) |
 | [0664-strange-printer](https://github.com/Noochila/-DSA-/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/Noochila/-DSA-/tree/master/0678-valid-parenthesis-string) |
+| [0812-rotate-string](https://github.com/Noochila/-DSA-/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Noochila/-DSA-/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0926-find-and-replace-pattern](https://github.com/Noochila/-DSA-/tree/master/0926-find-and-replace-pattern) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Noochila/-DSA-/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -1304,6 +1305,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Noochila/-DSA-/tree/master/0214-shortest-palindrome) |
+| [0812-rotate-string](https://github.com/Noochila/-DSA-/tree/master/0812-rotate-string) |
 | [3580-find-the-occurrence-of-first-almost-equal-substring](https://github.com/Noochila/-DSA-/tree/master/3580-find-the-occurrence-of-first-almost-equal-substring) |
 ## Hash Function
 |  |
