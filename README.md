@@ -447,6 +447,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Noochila/-DSA-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Noochila/-DSA-/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Noochila/-DSA-/tree/master/0044-wildcard-matching) |
 | [0079-word-search](https://github.com/Noochila/-DSA-/tree/master/0079-word-search) |
@@ -978,6 +979,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0015-3sum](https://github.com/Noochila/-DSA-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Noochila/-DSA-/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Noochila/-DSA-/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Noochila/-DSA-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Noochila/-DSA-/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Noochila/-DSA-/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Noochila/-DSA-/tree/master/0088-merge-sorted-array) |
@@ -1313,6 +1315,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Noochila/-DSA-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/Noochila/-DSA-/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/Noochila/-DSA-/tree/master/0812-rotate-string) |
 | [3580-find-the-occurrence-of-first-almost-equal-substring](https://github.com/Noochila/-DSA-/tree/master/3580-find-the-occurrence-of-first-almost-equal-substring) |
