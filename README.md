@@ -734,6 +734,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Noochila/-DSA-/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Noochila/-DSA-/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Noochila/-DSA-/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Noochila/-DSA-/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Noochila/-DSA-/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3464-maximize-total-cost-of-alternating-subarrays](https://github.com/Noochila/-DSA-/tree/master/3464-maximize-total-cost-of-alternating-subarrays) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/Noochila/-DSA-/tree/master/3487-find-maximum-removals-from-source-string) |
@@ -1067,6 +1068,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Noochila/-DSA-/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Noochila/-DSA-/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Noochila/-DSA-/tree/master/3291-find-if-array-can-be-sorted) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Noochila/-DSA-/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1074,6 +1076,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Noochila/-DSA-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0713-subarray-product-less-than-k](https://github.com/Noochila/-DSA-/tree/master/0713-subarray-product-less-than-k) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Noochila/-DSA-/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Noochila/-DSA-/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/Noochila/-DSA-/tree/master/3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/Noochila/-DSA-/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Noochila/-DSA-/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
