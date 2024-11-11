@@ -60,8 +60,8 @@ public:
             }
         }
 
-        for(auto it:nums)
-        cout<<it<<" ";
+        // for(auto it:nums)
+        // cout<<it<<" ";
 
         
 
