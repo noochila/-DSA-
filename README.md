@@ -660,6 +660,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0859-design-circular-deque](https://github.com/Noochila/-DSA-/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/Noochila/-DSA-/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/Noochila/-DSA-/tree/master/0876-hand-of-straights) |
+| [0881-loud-and-rich](https://github.com/Noochila/-DSA-/tree/master/0881-loud-and-rich) |
 | [0890-lemonade-change](https://github.com/Noochila/-DSA-/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/Noochila/-DSA-/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/Noochila/-DSA-/tree/master/0907-koko-eating-bananas) |
@@ -846,6 +847,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0210-course-schedule-ii](https://github.com/Noochila/-DSA-/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Noochila/-DSA-/tree/master/0547-number-of-provinces) |
 | [0820-find-eventual-safe-states](https://github.com/Noochila/-DSA-/tree/master/0820-find-eventual-safe-states) |
+| [0881-loud-and-rich](https://github.com/Noochila/-DSA-/tree/master/0881-loud-and-rich) |
 | [1325-path-with-maximum-probability](https://github.com/Noochila/-DSA-/tree/master/1325-path-with-maximum-probability) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Noochila/-DSA-/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Noochila/-DSA-/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -1170,6 +1172,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Noochila/-DSA-/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0794-swim-in-rising-water](https://github.com/Noochila/-DSA-/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/Noochila/-DSA-/tree/master/0820-find-eventual-safe-states) |
+| [0881-loud-and-rich](https://github.com/Noochila/-DSA-/tree/master/0881-loud-and-rich) |
 | [0999-regions-cut-by-slashes](https://github.com/Noochila/-DSA-/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Noochila/-DSA-/tree/master/1207-delete-nodes-and-return-forest) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Noochila/-DSA-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -1208,6 +1211,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Noochila/-DSA-/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/Noochila/-DSA-/tree/master/0820-find-eventual-safe-states) |
+| [0881-loud-and-rich](https://github.com/Noochila/-DSA-/tree/master/0881-loud-and-rich) |
 ## Shortest Path
 |  |
 | ------- |
