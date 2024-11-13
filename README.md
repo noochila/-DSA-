@@ -551,6 +551,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Noochila/-DSA-/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Noochila/-DSA-/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Noochila/-DSA-/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0836-race-car](https://github.com/Noochila/-DSA-/tree/master/0836-race-car) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Noochila/-DSA-/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/Noochila/-DSA-/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/Noochila/-DSA-/tree/master/1170-shortest-common-supersequence) |
