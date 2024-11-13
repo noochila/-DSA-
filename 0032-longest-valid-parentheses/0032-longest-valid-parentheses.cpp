@@ -2,26 +2,27 @@ class Solution {
 public:
     int longestValidParentheses(string s) {
 
-      stack<char> st;
-      st.push(-1);
-      int maxlen=0;
+        stack<int>st;
+        st.push(-1); //considering that after that index valid paranthesis starts
+        int maxi=0;
 
+        for(int i=0;i<s.size();i++)
+        {
+            if(s[i]=='(')
+            st.push(i);
+            else
+            st.pop();
 
-      for(int i=0;i<s.size();i++)
-      {
-        if(s[i]=='(')
-        st.push(i);
-        else
-        st.pop();
+            if(st.empty())
+            st.push(i);//consdering the string till i is invalid
+            else
+            {
+                maxi=max(maxi,i-st.top());
 
-        if(st.empty())
-        st.push(i);
-        else
-        maxlen=max(maxlen,i-st.top());
+            }
+        }
 
-
-      }
-      return maxlen;
+        return maxi;
         
     }
 };
