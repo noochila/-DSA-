@@ -447,6 +447,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Noochila/-DSA-/tree/master/0010-regular-expression-matching) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Noochila/-DSA-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Noochila/-DSA-/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Noochila/-DSA-/tree/master/0044-wildcard-matching) |
@@ -522,6 +523,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Noochila/-DSA-/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/Noochila/-DSA-/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Noochila/-DSA-/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Noochila/-DSA-/tree/master/0045-jump-game-ii) |
@@ -1140,6 +1142,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Noochila/-DSA-/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/Noochila/-DSA-/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Noochila/-DSA-/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/Noochila/-DSA-/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/Noochila/-DSA-/tree/master/0060-permutation-sequence) |
