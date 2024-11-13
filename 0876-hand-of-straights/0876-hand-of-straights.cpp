@@ -1,85 +1,36 @@
-#include <iostream>
-#include <vector>
-#include <algorithm>
-
-class Solution
-{
+class Solution {
 public:
-    bool isNStraightHand(std::vector<int> &arr, int g)
-    {
-        // sort(hand.begin(), hand.end());
+    bool isNStraightHand(vector<int>& hand, int groupSize) {
+        int handSize = hand.size();
 
-        // while (!hand.empty()) {
-        //     std::vector<int> demo;
-        //     demo.push_back(hand.front());
-        //     hand.erase(hand.begin());
-
-        //     for (int j = 0; j < groupSize - 1; ++j) {
-        //         auto it = std::find(hand.begin(), hand.end(), demo.back() + 1);
-        //         if (it != hand.end()) {
-        //             demo.push_back(*it);
-        //             hand.erase(it);
-        //         } else {
-        //             return false; // Sequence cannot be formed
-        //         }
-        //     }
-
-        // }
-
-        // return true;
-
-        if (arr.size() % g != 0)
+        if (handSize % groupSize != 0) {
             return false;
+        }
 
-        unordered_map<int, int> mp;
-        for (int i = 0; i < arr.size(); i++)
-            mp[arr[i]]++;
+        // Map to store the count of each card value
+        map<int, int> cardCount;
+        for (int i = 0; i < handSize; i++) {
+            cardCount[hand[i]]++;
+        }
 
-        priority_queue<int, vector<int>, greater<int>> pq;
-
-        for (auto it : mp)
-            pq.push(it.first);
-
-        while (!pq.empty())
-        {
-
-            vector<int> demo;
-            cout << pq.top() << endl;
-            demo.push_back(pq.top());
-            mp[pq.top()]--;
-            pq.pop();
-
-            if (pq.empty() && g!=1)
-                return false;
-
-            for (int i = 0; i < g - 1 && !pq.empty(); i++)
-            {
-
-                if (demo.back() + 1 == pq.top())
-                {
-                    if (mp[pq.top()] != 0)
-                    {
-                        cout << pq.top() << endl;
-                        mp[pq.top()]--;
-                        demo.push_back(pq.top());
-                        pq.pop();
-                    }
-                    else
-                        return false;
-                }
-                else
-
-                {
+        // Process the cards until the map is empty
+        while (!cardCount.empty()) {
+            // Get the smallest card value
+            int currentCard = cardCount.begin()->first;
+            // Check each consecutive sequence of groupSize cards
+            for (int i = 0; i < groupSize; i++) {
+                // If a card is missing or has exhausted its occurrences
+                if (cardCount[currentCard + i] == 0) {
                     return false;
                 }
-            }
-
-            for (auto it : demo)
-            {
-                if (mp[it] > 0)
-                    pq.push(it);
+                cardCount[currentCard + i]--;
+                if (cardCount[currentCard + i] < 1) {
+                    // Remove the card value if its occurrences are exhausted
+                    cardCount.erase(currentCard + i);
+                }
             }
         }
+
         return true;
     }
 };
