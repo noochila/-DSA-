@@ -9,7 +9,7 @@ public:
         int stores = 0;
 
         for (int i = 0; i < a.size(); i++) {
-            stores += std::ceil((double)a[i] / (double)k);
+            stores += ceil((double)a[i] / (double)k);
 
             if (stores > n)
                 return false;
