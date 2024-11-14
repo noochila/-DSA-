@@ -1,7 +1,3 @@
-#include <vector>
-#include <numeric>
-#include <cmath>
-#include <algorithm>
 
 class Solution {
 public:
