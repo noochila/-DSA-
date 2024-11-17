@@ -663,6 +663,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0876-hand-of-straights](https://github.com/Noochila/-DSA-/tree/master/0876-hand-of-straights) |
 | [0881-loud-and-rich](https://github.com/Noochila/-DSA-/tree/master/0881-loud-and-rich) |
 | [0890-lemonade-change](https://github.com/Noochila/-DSA-/tree/master/0890-lemonade-change) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Noochila/-DSA-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0906-walking-robot-simulation](https://github.com/Noochila/-DSA-/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/Noochila/-DSA-/tree/master/0907-koko-eating-bananas) |
 | [0921-spiral-matrix-iii](https://github.com/Noochila/-DSA-/tree/master/0921-spiral-matrix-iii) |
@@ -811,6 +812,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Noochila/-DSA-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Noochila/-DSA-/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0794-swim-in-rising-water](https://github.com/Noochila/-DSA-/tree/master/0794-swim-in-rising-water) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Noochila/-DSA-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/Noochila/-DSA-/tree/master/0948-sort-an-array) |
 | [1304-longest-happy-string](https://github.com/Noochila/-DSA-/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/Noochila/-DSA-/tree/master/1325-path-with-maximum-probability) |
@@ -1041,6 +1043,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0731-my-calendar-ii](https://github.com/Noochila/-DSA-/tree/master/0731-my-calendar-ii) |
 | [0792-binary-search](https://github.com/Noochila/-DSA-/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Noochila/-DSA-/tree/master/0794-swim-in-rising-water) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Noochila/-DSA-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/Noochila/-DSA-/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Noochila/-DSA-/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Noochila/-DSA-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -1063,6 +1066,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0410-split-array-largest-sum](https://github.com/Noochila/-DSA-/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Noochila/-DSA-/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/Noochila/-DSA-/tree/master/0731-my-calendar-ii) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Noochila/-DSA-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Noochila/-DSA-/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1240-stone-game-ii](https://github.com/Noochila/-DSA-/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Noochila/-DSA-/tree/master/1435-xor-queries-of-a-subarray) |
@@ -1098,6 +1102,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/Noochila/-DSA-/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Noochila/-DSA-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0713-subarray-product-less-than-k](https://github.com/Noochila/-DSA-/tree/master/0713-subarray-product-less-than-k) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Noochila/-DSA-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Noochila/-DSA-/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Noochila/-DSA-/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Noochila/-DSA-/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -1175,6 +1180,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/Noochila/-DSA-/tree/master/0859-design-circular-deque) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Noochila/-DSA-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Noochila/-DSA-/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Depth-First Search
 |  |
@@ -1387,4 +1393,8 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Noochila/-DSA-/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Noochila/-DSA-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
