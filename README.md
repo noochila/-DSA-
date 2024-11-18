@@ -444,6 +444,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [3583-sorted-gcd-pair-queries](https://github.com/Noochila/-DSA-/tree/master/3583-sorted-gcd-pair-queries) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Noochila/-DSA-/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Noochila/-DSA-/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3646-sum-of-good-subsequences](https://github.com/Noochila/-DSA-/tree/master/3646-sum-of-good-subsequences) |
 ## String
 |  |
 | ------- |
@@ -578,6 +579,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [3487-find-maximum-removals-from-source-string](https://github.com/Noochila/-DSA-/tree/master/3487-find-maximum-removals-from-source-string) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Noochila/-DSA-/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3588-count-the-number-of-winning-sequences](https://github.com/Noochila/-DSA-/tree/master/3588-count-the-number-of-winning-sequences) |
+| [3646-sum-of-good-subsequences](https://github.com/Noochila/-DSA-/tree/master/3646-sum-of-good-subsequences) |
 ## Backtracking
 |  |
 | ------- |
@@ -760,6 +762,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Noochila/-DSA-/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Noochila/-DSA-/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Noochila/-DSA-/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3646-sum-of-good-subsequences](https://github.com/Noochila/-DSA-/tree/master/3646-sum-of-good-subsequences) |
 ## Divide and Conquer
 |  |
 | ------- |
