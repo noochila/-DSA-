@@ -767,6 +767,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Noochila/-DSA-/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Noochila/-DSA-/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3646-sum-of-good-subsequences](https://github.com/Noochila/-DSA-/tree/master/3646-sum-of-good-subsequences) |
+| [3658-minimize-the-maximum-adjacent-element-difference](https://github.com/Noochila/-DSA-/tree/master/3658-minimize-the-maximum-adjacent-element-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1003,6 +1004,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Noochila/-DSA-/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Noochila/-DSA-/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Noochila/-DSA-/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
+| [3658-minimize-the-maximum-adjacent-element-difference](https://github.com/Noochila/-DSA-/tree/master/3658-minimize-the-maximum-adjacent-element-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1071,6 +1073,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Noochila/-DSA-/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3583-sorted-gcd-pair-queries](https://github.com/Noochila/-DSA-/tree/master/3583-sorted-gcd-pair-queries) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Noochila/-DSA-/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3658-minimize-the-maximum-adjacent-element-difference](https://github.com/Noochila/-DSA-/tree/master/3658-minimize-the-maximum-adjacent-element-difference) |
 ## Prefix Sum
 |  |
 | ------- |
