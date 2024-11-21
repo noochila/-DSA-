@@ -450,6 +450,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Noochila/-DSA-/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Noochila/-DSA-/tree/master/0010-regular-expression-matching) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Noochila/-DSA-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Noochila/-DSA-/tree/master/0032-longest-valid-parentheses) |
@@ -527,6 +528,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Noochila/-DSA-/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Noochila/-DSA-/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/Noochila/-DSA-/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Noochila/-DSA-/tree/master/0044-wildcard-matching) |
@@ -1010,6 +1012,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Noochila/-DSA-/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Noochila/-DSA-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Noochila/-DSA-/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Noochila/-DSA-/tree/master/0019-remove-nth-node-from-end-of-list) |
