@@ -28,9 +28,9 @@ public:
             auto [time, x, y, status] = pq.top();
             pq.pop();
 
-            // if (x == n - 1 && y == m - 1) {
-            //     return time; // Reached the destination
-            // }
+            if (x == n - 1 && y == m - 1) {
+                return time; // Reached the destination
+            }
 
             for (int k = 0; k < 4; k++) {
                 int nx = x + dx[k];
@@ -53,7 +53,7 @@ public:
                 }
             }
         }
-        return final_ans[n-1][m-1];
+        // return final_ans[n-1][m-1];
         return -1;
     }
 };
