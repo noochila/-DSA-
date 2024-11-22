@@ -771,6 +771,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Noochila/-DSA-/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Noochila/-DSA-/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Noochila/-DSA-/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Noochila/-DSA-/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3646-sum-of-good-subsequences](https://github.com/Noochila/-DSA-/tree/master/3646-sum-of-good-subsequences) |
 | [3658-minimize-the-maximum-adjacent-element-difference](https://github.com/Noochila/-DSA-/tree/master/3658-minimize-the-maximum-adjacent-element-difference) |
 ## Divide and Conquer
@@ -837,6 +838,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Noochila/-DSA-/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Noochila/-DSA-/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Noochila/-DSA-/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Noochila/-DSA-/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -880,6 +882,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Noochila/-DSA-/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Noochila/-DSA-/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3578-construct-2d-grid-matching-graph-layout](https://github.com/Noochila/-DSA-/tree/master/3578-construct-2d-grid-matching-graph-layout) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Noochila/-DSA-/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Linked List
 |  |
 | ------- |
@@ -1188,6 +1191,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [2411-spiral-matrix-iv](https://github.com/Noochila/-DSA-/tree/master/2411-spiral-matrix-iv) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Noochila/-DSA-/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3578-construct-2d-grid-matching-graph-layout](https://github.com/Noochila/-DSA-/tree/master/3578-construct-2d-grid-matching-graph-layout) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Noochila/-DSA-/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Recursion
 |  |
 | ------- |
@@ -1269,6 +1273,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Noochila/-DSA-/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Noochila/-DSA-/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Noochila/-DSA-/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Noochila/-DSA-/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Tree
 |  |
 | ------- |
