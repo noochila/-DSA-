@@ -6,7 +6,7 @@ public:
         if (i == n - 1 && j == n - 1)
             return 0;
 
-        if (i >= n || i < 0 || j >= n || j < 0)
+        if (i >= n || i < 0 || j >= n || j < 0 || i>=j)
             return -1e9;
 
         if (dp1[i][j] != -1)
@@ -25,7 +25,7 @@ public:
         if (i == n - 1 && j == n - 1)
             return 0;
 
-        if (i >= n || i < 0 || j >= n || j < 0)
+        if (i >= n || i < 0 || j >= n || j < 0 || i<=j )
             return -1e9;
 
         if (dp2[i][j] != -1)
@@ -46,11 +46,12 @@ public:
         int ans1 = 0;
         for (int i = 0; i < n; i++) {
             ans1 += fruits[i][i];
-            fruits[i][i] = 0;
+            // fruits[i][i] = 0;
         }
 
         int ans2 = solve1(0, n - 1, fruits, dp1);
         int ans3 = solve2(n - 1, 0, fruits, dp2);
+
 
         return ans1 + max(0, ans2) + max(0, ans3);
     }
