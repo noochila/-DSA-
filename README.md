@@ -663,6 +663,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0731-my-calendar-ii](https://github.com/Noochila/-DSA-/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/Noochila/-DSA-/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Noochila/-DSA-/tree/master/0735-asteroid-collision) |
+| [0787-sliding-puzzle](https://github.com/Noochila/-DSA-/tree/master/0787-sliding-puzzle) |
 | [0790-global-and-local-inversions](https://github.com/Noochila/-DSA-/tree/master/0790-global-and-local-inversions) |
 | [0792-binary-search](https://github.com/Noochila/-DSA-/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Noochila/-DSA-/tree/master/0794-swim-in-rising-water) |
@@ -1180,6 +1181,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/Noochila/-DSA-/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Noochila/-DSA-/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Noochila/-DSA-/tree/master/0733-flood-fill) |
+| [0787-sliding-puzzle](https://github.com/Noochila/-DSA-/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/Noochila/-DSA-/tree/master/0794-swim-in-rising-water) |
 | [0870-magic-squares-in-grid](https://github.com/Noochila/-DSA-/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Noochila/-DSA-/tree/master/0921-spiral-matrix-iii) |
@@ -1258,6 +1260,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0542-01-matrix](https://github.com/Noochila/-DSA-/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Noochila/-DSA-/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Noochila/-DSA-/tree/master/0733-flood-fill) |
+| [0787-sliding-puzzle](https://github.com/Noochila/-DSA-/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/Noochila/-DSA-/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/Noochila/-DSA-/tree/master/0820-find-eventual-safe-states) |
 | [0999-regions-cut-by-slashes](https://github.com/Noochila/-DSA-/tree/master/0999-regions-cut-by-slashes) |
