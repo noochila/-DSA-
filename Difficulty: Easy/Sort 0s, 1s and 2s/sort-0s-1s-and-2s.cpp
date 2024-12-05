@@ -13,7 +13,7 @@ class Solution {
         int k=arr.size()-1;
         
         
-        while(j<=k)
+        while(j<=k && i<=j)
         {
             if(arr[j]==0)
             {
@@ -42,6 +42,7 @@ class Solution {
     }
 };
 
+
 //{ Driver Code Starts.
 int main() {
 
@@ -68,6 +69,7 @@ int main() {
         }
 
         cout << endl;
+        cout << "~" << endl;
     }
     return 0;
 }
