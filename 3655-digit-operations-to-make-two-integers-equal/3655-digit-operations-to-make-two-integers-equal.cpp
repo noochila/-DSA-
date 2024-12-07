@@ -20,7 +20,7 @@ public:
     }
 
     int minOperations(int n, int m) {
-        // If either n or m is initially prime, return -1
+        
         calc();
         if (prime_map.find(n) != prime_map.end() || prime_map.find(m) != prime_map.end())
             return -1;
