@@ -609,6 +609,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0920-uncommon-words-from-two-sentences](https://github.com/Noochila/-DSA-/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Noochila/-DSA-/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Noochila/-DSA-/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1983-maximum-population-year](https://github.com/Noochila/-DSA-/tree/master/1983-maximum-population-year) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Noochila/-DSA-/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Noochila/-DSA-/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Noochila/-DSA-/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -730,6 +731,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1940-maximum-xor-for-each-query](https://github.com/Noochila/-DSA-/tree/master/1940-maximum-xor-for-each-query) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Noochila/-DSA-/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1972-rotating-the-box](https://github.com/Noochila/-DSA-/tree/master/1972-rotating-the-box) |
+| [1983-maximum-population-year](https://github.com/Noochila/-DSA-/tree/master/1983-maximum-population-year) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Noochila/-DSA-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/Noochila/-DSA-/tree/master/2035-count-sub-islands) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Noochila/-DSA-/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -1138,6 +1140,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Noochila/-DSA-/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/Noochila/-DSA-/tree/master/1694-make-sum-divisible-by-p) |
 | [1940-maximum-xor-for-each-query](https://github.com/Noochila/-DSA-/tree/master/1940-maximum-xor-for-each-query) |
+| [1983-maximum-population-year](https://github.com/Noochila/-DSA-/tree/master/1983-maximum-population-year) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Noochila/-DSA-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Noochila/-DSA-/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3583-sorted-gcd-pair-queries](https://github.com/Noochila/-DSA-/tree/master/3583-sorted-gcd-pair-queries) |
