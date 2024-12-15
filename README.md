@@ -1460,6 +1460,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1908-recyclable-and-low-fat-products](https://github.com/Noochila/-DSA-/tree/master/1908-recyclable-and-low-fat-products) |
 | [1942-primary-department-for-each-employee](https://github.com/Noochila/-DSA-/tree/master/1942-primary-department-for-each-employee) |
 | [2057-count-salary-categories](https://github.com/Noochila/-DSA-/tree/master/2057-count-salary-categories) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/Noochila/-DSA-/tree/master/2127-employees-whose-manager-left-the-company) |
 ## Strongly Connected Component
 |  |
 | ------- |
