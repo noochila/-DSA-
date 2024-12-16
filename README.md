@@ -793,6 +793,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Noochila/-DSA-/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Noochila/-DSA-/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3541-report-spam-message](https://github.com/Noochila/-DSA-/tree/master/3541-report-spam-message) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Noochila/-DSA-/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/Noochila/-DSA-/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3578-construct-2d-grid-matching-graph-layout](https://github.com/Noochila/-DSA-/tree/master/3578-construct-2d-grid-matching-graph-layout) |
 | [3583-sorted-gcd-pair-queries](https://github.com/Noochila/-DSA-/tree/master/3583-sorted-gcd-pair-queries) |
@@ -879,6 +880,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Noochila/-DSA-/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Noochila/-DSA-/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/Noochila/-DSA-/tree/master/2868-continuous-subarrays) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Noochila/-DSA-/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Noochila/-DSA-/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Noochila/-DSA-/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Noochila/-DSA-/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -1020,6 +1022,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Noochila/-DSA-/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Noochila/-DSA-/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/Noochila/-DSA-/tree/master/2846-robot-collisions) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Noochila/-DSA-/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Design
 |  |
 | ------- |
@@ -1236,6 +1239,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [2645-pass-the-pillow](https://github.com/Noochila/-DSA-/tree/master/2645-pass-the-pillow) |
 | [2716-prime-subtraction-operation](https://github.com/Noochila/-DSA-/tree/master/2716-prime-subtraction-operation) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Noochila/-DSA-/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Noochila/-DSA-/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3583-sorted-gcd-pair-queries](https://github.com/Noochila/-DSA-/tree/master/3583-sorted-gcd-pair-queries) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Noochila/-DSA-/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 ## Matrix
