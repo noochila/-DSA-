@@ -1,18 +1,35 @@
 class Solution {
 public:
     int maxChunksToSorted(vector<int>& arr) {
-        
 
-        int curr=0;
-        int ans=0;
-        int val=0;
+        vector<int>prefixmax;
+        vector<int>suffixmin;
+
         for(int i=0;i<arr.size();i++)
         {
-            curr+=arr[i];
-            val+=i;
-            if(curr==val)
-            ans++;
+            if(prefixmax.empty() || prefixmax.back()<arr[i])
+            prefixmax.push_back(arr[i]);
+            else
+            prefixmax.push_back(prefixmax.back());
         }
-        return ans;
+        
+
+        for(int j=arr.size()-1;j>=0;j--)
+        {
+             if(suffixmin.empty() || suffixmin.back()>arr[j])
+             suffixmin.push_back(arr[j]);
+             else
+             suffixmin.push_back(suffixmin.back());
+        }
+        reverse(suffixmin.begin(),suffixmin.end());
+        int count=0;
+
+        for(int i=0;i<arr.size()-1;i++)
+        {
+
+           if(prefixmax[i]<suffixmin[i+1])
+           count++;
+        }
+        return count+1;
     }
 };
