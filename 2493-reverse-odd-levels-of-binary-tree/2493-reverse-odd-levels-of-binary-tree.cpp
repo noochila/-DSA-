@@ -19,12 +19,10 @@ public:
         return ;
 
         if(level%2 )
-        {
-
+        
             swap(left->val,right->val);
 
-
-        }
+        
 
         solve(left->left,level+1,right->right);
         solve(left->right,level+1,right->left);
