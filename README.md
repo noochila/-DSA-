@@ -1333,6 +1333,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Noochila/-DSA-/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/Noochila/-DSA-/tree/master/2035-count-sub-islands) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Noochila/-DSA-/tree/master/2201-valid-arrangement-of-pairs) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Noochila/-DSA-/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Noochila/-DSA-/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Noochila/-DSA-/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Noochila/-DSA-/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
@@ -1358,6 +1359,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [2035-count-sub-islands](https://github.com/Noochila/-DSA-/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Noochila/-DSA-/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Noochila/-DSA-/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Noochila/-DSA-/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Noochila/-DSA-/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Noochila/-DSA-/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Noochila/-DSA-/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -1392,6 +1394,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1207-delete-nodes-and-return-forest](https://github.com/Noochila/-DSA-/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Noochila/-DSA-/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Noochila/-DSA-/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Noochila/-DSA-/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Noochila/-DSA-/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Noochila/-DSA-/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Noochila/-DSA-/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -1408,6 +1411,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1207-delete-nodes-and-return-forest](https://github.com/Noochila/-DSA-/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Noochila/-DSA-/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Noochila/-DSA-/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Noochila/-DSA-/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Noochila/-DSA-/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Noochila/-DSA-/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Noochila/-DSA-/tree/master/2677-cousins-in-binary-tree-ii) |
