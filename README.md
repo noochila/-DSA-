@@ -1320,6 +1320,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/Noochila/-DSA-/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/Noochila/-DSA-/tree/master/0210-course-schedule-ii) |
 | [0386-lexicographical-numbers](https://github.com/Noochila/-DSA-/tree/master/0386-lexicographical-numbers) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Noochila/-DSA-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/Noochila/-DSA-/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Noochila/-DSA-/tree/master/0733-flood-fill) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Noochila/-DSA-/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -1347,6 +1348,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0127-word-ladder](https://github.com/Noochila/-DSA-/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/Noochila/-DSA-/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/Noochila/-DSA-/tree/master/0210-course-schedule-ii) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Noochila/-DSA-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/Noochila/-DSA-/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Noochila/-DSA-/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Noochila/-DSA-/tree/master/0733-flood-fill) |
@@ -1393,6 +1395,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Noochila/-DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Noochila/-DSA-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Noochila/-DSA-/tree/master/0145-binary-tree-postorder-traversal) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Noochila/-DSA-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Noochila/-DSA-/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Noochila/-DSA-/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Noochila/-DSA-/tree/master/1207-delete-nodes-and-return-forest) |
@@ -1413,6 +1416,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Noochila/-DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Noochila/-DSA-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Noochila/-DSA-/tree/master/0145-binary-tree-postorder-traversal) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Noochila/-DSA-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Noochila/-DSA-/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Noochila/-DSA-/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Noochila/-DSA-/tree/master/1653-number-of-good-leaf-nodes-pairs) |
