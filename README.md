@@ -569,6 +569,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0664-strange-printer](https://github.com/Noochila/-DSA-/tree/master/0664-strange-printer) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Noochila/-DSA-/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Noochila/-DSA-/tree/master/0678-valid-parenthesis-string) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Noochila/-DSA-/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Noochila/-DSA-/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0836-race-car](https://github.com/Noochila/-DSA-/tree/master/0836-race-car) |
 | [1063-best-sightseeing-pair](https://github.com/Noochila/-DSA-/tree/master/1063-best-sightseeing-pair) |
@@ -676,6 +677,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0624-maximum-distance-in-arrays](https://github.com/Noochila/-DSA-/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Noochila/-DSA-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Noochila/-DSA-/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Noochila/-DSA-/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0713-subarray-product-less-than-k](https://github.com/Noochila/-DSA-/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Noochila/-DSA-/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0729-my-calendar-i](https://github.com/Noochila/-DSA-/tree/master/0729-my-calendar-i) |
