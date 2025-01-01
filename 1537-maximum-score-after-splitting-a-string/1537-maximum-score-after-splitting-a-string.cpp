@@ -15,11 +15,11 @@ public:
         for(int i=s.size()-2;i>=0;i--)
         suffix[i]=suffix[i+1]+(s[i]=='1');
 
-        if(prefix[s.size()-1]==s.size())
-        return s.size()-1;
+        // if(prefix[s.size()-1]==s.size())
+        // return s.size()-1;
 
-        if(suffix[0]==s.size())
-        return s.size()-1;
+        // if(suffix[0]==s.size())
+        // return s.size()-1;
 
         int ans=0;
         for(int i=0;i<s.size()-1;i++)
