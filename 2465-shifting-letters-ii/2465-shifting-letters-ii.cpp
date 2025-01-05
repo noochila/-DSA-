@@ -28,8 +28,7 @@ public:
         {
             int currval=s[i]-'a';
             int t=(currval+(temp[i]%26+26)%26);
-            if(t<0)
-            t+=26;
+          
             int newval=(t)%26;
             
             s[i]=(newval+'a');
