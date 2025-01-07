@@ -424,6 +424,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Noochila/-DSA-/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Noochila/-DSA-/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Noochila/-DSA-/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2055-describe-the-painting](https://github.com/Noochila/-DSA-/tree/master/2055-describe-the-painting) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Noochila/-DSA-/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Noochila/-DSA-/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Noochila/-DSA-/tree/master/2300-construct-string-with-repeat-limit) |
@@ -766,6 +767,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Noochila/-DSA-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/Noochila/-DSA-/tree/master/2035-count-sub-islands) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Noochila/-DSA-/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2055-describe-the-painting](https://github.com/Noochila/-DSA-/tree/master/2055-describe-the-painting) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Noochila/-DSA-/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2089-maximum-matrix-sum](https://github.com/Noochila/-DSA-/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Noochila/-DSA-/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -870,6 +872,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Noochila/-DSA-/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Noochila/-DSA-/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Noochila/-DSA-/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [2055-describe-the-painting](https://github.com/Noochila/-DSA-/tree/master/2055-describe-the-painting) |
 | [2164-two-best-non-overlapping-events](https://github.com/Noochila/-DSA-/tree/master/2164-two-best-non-overlapping-events) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Noochila/-DSA-/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Noochila/-DSA-/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -1211,6 +1214,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1940-maximum-xor-for-each-query](https://github.com/Noochila/-DSA-/tree/master/1940-maximum-xor-for-each-query) |
 | [1983-maximum-population-year](https://github.com/Noochila/-DSA-/tree/master/1983-maximum-population-year) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Noochila/-DSA-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2055-describe-the-painting](https://github.com/Noochila/-DSA-/tree/master/2055-describe-the-painting) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Noochila/-DSA-/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/Noochila/-DSA-/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Noochila/-DSA-/tree/master/2465-shifting-letters-ii) |
