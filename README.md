@@ -498,6 +498,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Noochila/-DSA-/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Noochila/-DSA-/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1508-longest-happy-prefix](https://github.com/Noochila/-DSA-/tree/master/1508-longest-happy-prefix) |
+| [1524-string-matching-in-an-array](https://github.com/Noochila/-DSA-/tree/master/1524-string-matching-in-an-array) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/Noochila/-DSA-/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Noochila/-DSA-/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Noochila/-DSA-/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -733,6 +734,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Noochila/-DSA-/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Noochila/-DSA-/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1511-count-number-of-teams](https://github.com/Noochila/-DSA-/tree/master/1511-count-number-of-teams) |
+| [1524-string-matching-in-an-array](https://github.com/Noochila/-DSA-/tree/master/1524-string-matching-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Noochila/-DSA-/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Noochila/-DSA-/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-design-browser-history](https://github.com/Noochila/-DSA-/tree/master/1582-design-browser-history) |
@@ -1561,6 +1563,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0214-shortest-palindrome](https://github.com/Noochila/-DSA-/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/Noochila/-DSA-/tree/master/0812-rotate-string) |
 | [1508-longest-happy-prefix](https://github.com/Noochila/-DSA-/tree/master/1508-longest-happy-prefix) |
+| [1524-string-matching-in-an-array](https://github.com/Noochila/-DSA-/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Noochila/-DSA-/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [3580-find-the-occurrence-of-first-almost-equal-substring](https://github.com/Noochila/-DSA-/tree/master/3580-find-the-occurrence-of-first-almost-equal-substring) |
 ## Hash Function
