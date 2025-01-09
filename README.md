@@ -516,6 +516,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Noochila/-DSA-/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Noochila/-DSA-/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Noochila/-DSA-/tree/master/2232-adding-spaces-to-a-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Noochila/-DSA-/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Noochila/-DSA-/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Noochila/-DSA-/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2465-shifting-letters-ii](https://github.com/Noochila/-DSA-/tree/master/2465-shifting-letters-ii) |
@@ -781,6 +782,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [2227-sum-of-subarray-ranges](https://github.com/Noochila/-DSA-/tree/master/2227-sum-of-subarray-ranges) |
 | [2232-adding-spaces-to-a-string](https://github.com/Noochila/-DSA-/tree/master/2232-adding-spaces-to-a-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Noochila/-DSA-/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Noochila/-DSA-/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Noochila/-DSA-/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Noochila/-DSA-/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Noochila/-DSA-/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -1572,6 +1574,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1508-longest-happy-prefix](https://github.com/Noochila/-DSA-/tree/master/1508-longest-happy-prefix) |
 | [1524-string-matching-in-an-array](https://github.com/Noochila/-DSA-/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Noochila/-DSA-/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Noochila/-DSA-/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Noochila/-DSA-/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3580-find-the-occurrence-of-first-almost-equal-substring](https://github.com/Noochila/-DSA-/tree/master/3580-find-the-occurrence-of-first-almost-equal-substring) |
 ## Hash Function
