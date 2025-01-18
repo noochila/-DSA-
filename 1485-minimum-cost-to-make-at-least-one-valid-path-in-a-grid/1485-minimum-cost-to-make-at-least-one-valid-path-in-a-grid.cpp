@@ -6,8 +6,8 @@ public:
         int n = grid.size();
         int m = grid[0].size();
 
-        priority_queue<P, vector<P>, greater<P>> pq; // Min-heap
-        vector<vector<int>> visited(n, vector<int>(m, 0)); // Visited grid
+        priority_queue<P, vector<P>, greater<P>> pq;
+        vector<vector<int>> visited(n, vector<int>(m, 0)); 
         pq.push({0, {0, 0}});
 
         int dx[] = {0, 0, 1, -1};
@@ -21,13 +21,13 @@ public:
             int y = temp.second.second;
             int cost = temp.first;
 
-            if (x == n - 1 && y == m - 1) // Destination reached
+            if (x == n - 1 && y == m - 1) 
                 return cost;
 
-            if (visited[x][y]) // Skip if already visited
+            if (visited[x][y]) 
                 continue;
 
-            visited[x][y] = 1; // Mark as visited
+            visited[x][y] = 1; 
 
             for (int k = 0; k < 4; k++) {
                 int nx = x + dx[k];
@@ -39,6 +39,6 @@ public:
                 }
             }
         }
-        return 0; // Unreachable case (shouldn't happen with valid input)
+        return 0; 
     }
 };
