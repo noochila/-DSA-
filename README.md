@@ -685,6 +685,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Noochila/-DSA-/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Noochila/-DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Noochila/-DSA-/tree/master/0368-largest-divisible-subset) |
+| [0407-trapping-rain-water-ii](https://github.com/Noochila/-DSA-/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/Noochila/-DSA-/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Noochila/-DSA-/tree/master/0413-arithmetic-slices) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Noochila/-DSA-/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -913,6 +914,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Noochila/-DSA-/tree/master/0023-merge-k-sorted-lists) |
 | [0264-ugly-number-ii](https://github.com/Noochila/-DSA-/tree/master/0264-ugly-number-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/Noochila/-DSA-/tree/master/0407-trapping-rain-water-ii) |
 | [0621-task-scheduler](https://github.com/Noochila/-DSA-/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Noochila/-DSA-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Noochila/-DSA-/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -1326,6 +1328,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/Noochila/-DSA-/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Noochila/-DSA-/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Noochila/-DSA-/tree/master/0200-number-of-islands) |
+| [0407-trapping-rain-water-ii](https://github.com/Noochila/-DSA-/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/Noochila/-DSA-/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Noochila/-DSA-/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/Noochila/-DSA-/tree/master/0787-sliding-puzzle) |
@@ -1412,6 +1415,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0127-word-ladder](https://github.com/Noochila/-DSA-/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/Noochila/-DSA-/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/Noochila/-DSA-/tree/master/0210-course-schedule-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/Noochila/-DSA-/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Noochila/-DSA-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/Noochila/-DSA-/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Noochila/-DSA-/tree/master/0547-number-of-provinces) |
