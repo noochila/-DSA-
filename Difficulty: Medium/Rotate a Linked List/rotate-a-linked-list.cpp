@@ -85,6 +85,7 @@ class Solution {
 };
 
 
+
 //{ Driver Code Starts.
 
 int main() {
@@ -122,6 +123,7 @@ int main() {
         Solution ob;
         head = ob.rotate(head, k);
         printList(head);
+        cout << "~\n";
     }
     return 1;
 }
