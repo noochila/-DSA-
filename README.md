@@ -972,6 +972,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | ------- |
 | [0200-number-of-islands](https://github.com/Noochila/-DSA-/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Noochila/-DSA-/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Noochila/-DSA-/tree/master/0684-redundant-connection) |
 | [0794-swim-in-rising-water](https://github.com/Noochila/-DSA-/tree/master/0794-swim-in-rising-water) |
 | [0999-regions-cut-by-slashes](https://github.com/Noochila/-DSA-/tree/master/0999-regions-cut-by-slashes) |
 | [1396-count-servers-that-communicate](https://github.com/Noochila/-DSA-/tree/master/1396-count-servers-that-communicate) |
@@ -985,6 +986,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Noochila/-DSA-/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Noochila/-DSA-/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Noochila/-DSA-/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Noochila/-DSA-/tree/master/0820-find-eventual-safe-states) |
 | [0881-loud-and-rich](https://github.com/Noochila/-DSA-/tree/master/0881-loud-and-rich) |
 | [1325-path-with-maximum-probability](https://github.com/Noochila/-DSA-/tree/master/1325-path-with-maximum-probability) |
@@ -1407,6 +1409,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0386-lexicographical-numbers](https://github.com/Noochila/-DSA-/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Noochila/-DSA-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/Noochila/-DSA-/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Noochila/-DSA-/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Noochila/-DSA-/tree/master/0733-flood-fill) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Noochila/-DSA-/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0794-swim-in-rising-water](https://github.com/Noochila/-DSA-/tree/master/0794-swim-in-rising-water) |
@@ -1441,6 +1444,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Noochila/-DSA-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/Noochila/-DSA-/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Noochila/-DSA-/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Noochila/-DSA-/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Noochila/-DSA-/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/Noochila/-DSA-/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/Noochila/-DSA-/tree/master/0794-swim-in-rising-water) |
