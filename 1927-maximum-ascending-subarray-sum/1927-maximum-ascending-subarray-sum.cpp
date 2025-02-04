@@ -2,25 +2,22 @@ class Solution {
 public:
     int maxAscendingSum(vector<int>& nums) {
 
-        int ans=0;
+         int currentSum = nums[0]; 
+        int maxSum = nums[0];    
 
-        for(int i=0;i<nums.size();i++)
-        {
-            int curr=nums[i];
-            for(int j=i;j<nums.size()-1;j++)
-            {
-                if(nums[j]<nums[j+1])
-                {
-                    curr+=nums[j+1];
-                }else
-                {
-                    break;
-                }
+        for (int i = 1; i < nums.size(); i++) {
+            if (nums[i] > nums[i - 1]) {
+                currentSum += nums[i]; 
+            } else {
+                maxSum = max(maxSum, currentSum); 
+                currentSum = nums[i]; 
             }
-            ans=max(ans,curr);
         }
 
-        return ans;
+     
+        maxSum = max(maxSum, currentSum);
+
+        return maxSum;
         
     }
 };
