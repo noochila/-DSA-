@@ -435,6 +435,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [2306-create-binary-tree-from-descriptions](https://github.com/Noochila/-DSA-/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Noochila/-DSA-/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2434-design-a-number-container-system](https://github.com/Noochila/-DSA-/tree/master/2434-design-a-number-container-system) |
+| [2448-count-number-of-bad-pairs](https://github.com/Noochila/-DSA-/tree/master/2448-count-number-of-bad-pairs) |
 | [2502-sort-the-people](https://github.com/Noochila/-DSA-/tree/master/2502-sort-the-people) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Noochila/-DSA-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Noochila/-DSA-/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -654,6 +655,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [2163-kth-distinct-string-in-an-array](https://github.com/Noochila/-DSA-/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Noochila/-DSA-/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Noochila/-DSA-/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2448-count-number-of-bad-pairs](https://github.com/Noochila/-DSA-/tree/master/2448-count-number-of-bad-pairs) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Noochila/-DSA-/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Noochila/-DSA-/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Noochila/-DSA-/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -817,6 +819,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [2358-number-of-ways-to-split-array](https://github.com/Noochila/-DSA-/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Noochila/-DSA-/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/Noochila/-DSA-/tree/master/2411-spiral-matrix-iv) |
+| [2448-count-number-of-bad-pairs](https://github.com/Noochila/-DSA-/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/Noochila/-DSA-/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Noochila/-DSA-/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Noochila/-DSA-/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -1350,6 +1353,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1642-water-bottles](https://github.com/Noochila/-DSA-/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Noochila/-DSA-/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/Noochila/-DSA-/tree/master/2155-find-missing-observations) |
+| [2448-count-number-of-bad-pairs](https://github.com/Noochila/-DSA-/tree/master/2448-count-number-of-bad-pairs) |
 | [2645-pass-the-pillow](https://github.com/Noochila/-DSA-/tree/master/2645-pass-the-pillow) |
 | [2716-prime-subtraction-operation](https://github.com/Noochila/-DSA-/tree/master/2716-prime-subtraction-operation) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Noochila/-DSA-/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
