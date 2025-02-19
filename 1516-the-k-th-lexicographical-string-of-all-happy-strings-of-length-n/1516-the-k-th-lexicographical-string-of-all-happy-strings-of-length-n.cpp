@@ -1,30 +1,32 @@
 class Solution {
 public:
-    int count = 0;
-    string result = "";
+    set<string> st;  // Stores happy strings in lexicographical order
 
-    void solve(string &temp, int n, int k) {
-        if (temp.size() == n) {
-            count++;
-            if (count == k) {
-                result = temp;
-            }
+    void solve(string temp, int n, int ind) {
+        if (ind >= n) {
+            st.insert(temp);
             return;
         }
 
         for (char ch = 'a'; ch <= 'c'; ch++) {
-            if (temp.empty() || temp.back() != ch) {
+            if (temp.back() != ch) {
                 temp.push_back(ch);
-                solve(temp, n, k);
+                solve(temp, n, ind + 1);
                 temp.pop_back();
-                if (!result.empty()) return;  // Stop recursion once result is found
             }
         }
     }
 
     string getHappyString(int n, int k) {
-        string temp = "";
-        solve(temp, n, k);
-        return result;
+        for (char ch = 'a'; ch <= 'c'; ch++) {
+            string temp = "";
+            temp.push_back(ch);
+            solve(temp, n, 1);
+        }
+
+        if (st.size() < k)
+            return "";
+
+        return *next(st.begin(), k - 1);  // Corrected k-th element retrieval
     }
 };
