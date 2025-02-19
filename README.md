@@ -514,6 +514,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Noochila/-DSA-/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/Noochila/-DSA-/tree/master/1502-construct-k-palindrome-strings) |
 | [1508-longest-happy-prefix](https://github.com/Noochila/-DSA-/tree/master/1508-longest-happy-prefix) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Noochila/-DSA-/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/Noochila/-DSA-/tree/master/1524-string-matching-in-an-array) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/Noochila/-DSA-/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Noochila/-DSA-/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -643,6 +644,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0131-palindrome-partitioning](https://github.com/Noochila/-DSA-/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/Noochila/-DSA-/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/Noochila/-DSA-/tree/master/1160-letter-tile-possibilities) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Noochila/-DSA-/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Noochila/-DSA-/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Noochila/-DSA-/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Noochila/-DSA-/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
