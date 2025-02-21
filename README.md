@@ -419,6 +419,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1207-delete-nodes-and-return-forest](https://github.com/Noochila/-DSA-/tree/master/1207-delete-nodes-and-return-forest) |
 | [1256-rank-transform-of-an-array](https://github.com/Noochila/-DSA-/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/Noochila/-DSA-/tree/master/1364-tuple-with-same-product) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Noochila/-DSA-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Noochila/-DSA-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Noochila/-DSA-/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/Noochila/-DSA-/tree/master/1502-construct-k-palindrome-strings) |
@@ -1162,6 +1163,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0731-my-calendar-ii](https://github.com/Noochila/-DSA-/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Noochila/-DSA-/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/Noochila/-DSA-/tree/master/0859-design-circular-deque) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Noochila/-DSA-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Noochila/-DSA-/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Noochila/-DSA-/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1582-design-browser-history](https://github.com/Noochila/-DSA-/tree/master/1582-design-browser-history) |
@@ -1478,6 +1480,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0999-regions-cut-by-slashes](https://github.com/Noochila/-DSA-/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Noochila/-DSA-/tree/master/1207-delete-nodes-and-return-forest) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Noochila/-DSA-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Noochila/-DSA-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Noochila/-DSA-/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Noochila/-DSA-/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1558-course-schedule-iv](https://github.com/Noochila/-DSA-/tree/master/1558-course-schedule-iv) |
@@ -1513,6 +1516,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0999-regions-cut-by-slashes](https://github.com/Noochila/-DSA-/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/Noochila/-DSA-/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Noochila/-DSA-/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Noochila/-DSA-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Noochila/-DSA-/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Noochila/-DSA-/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Noochila/-DSA-/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -1562,6 +1566,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Noochila/-DSA-/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Noochila/-DSA-/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Noochila/-DSA-/tree/master/1207-delete-nodes-and-return-forest) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Noochila/-DSA-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Noochila/-DSA-/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Noochila/-DSA-/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Noochila/-DSA-/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -1582,6 +1587,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Noochila/-DSA-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Noochila/-DSA-/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Noochila/-DSA-/tree/master/1207-delete-nodes-and-return-forest) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Noochila/-DSA-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Noochila/-DSA-/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Noochila/-DSA-/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Noochila/-DSA-/tree/master/2493-reverse-odd-levels-of-binary-tree) |
