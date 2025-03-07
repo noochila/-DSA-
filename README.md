@@ -1409,6 +1409,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Noochila/-DSA-/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/Noochila/-DSA-/tree/master/2155-find-missing-observations) |
 | [2448-count-number-of-bad-pairs](https://github.com/Noochila/-DSA-/tree/master/2448-count-number-of-bad-pairs) |
+| [2610-closest-prime-numbers-in-range](https://github.com/Noochila/-DSA-/tree/master/2610-closest-prime-numbers-in-range) |
 | [2645-pass-the-pillow](https://github.com/Noochila/-DSA-/tree/master/2645-pass-the-pillow) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Noochila/-DSA-/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/Noochila/-DSA-/tree/master/2716-prime-subtraction-operation) |
@@ -1765,6 +1766,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 ## Number Theory
 |  |
 | ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/Noochila/-DSA-/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/Noochila/-DSA-/tree/master/2716-prime-subtraction-operation) |
 | [3583-sorted-gcd-pair-queries](https://github.com/Noochila/-DSA-/tree/master/3583-sorted-gcd-pair-queries) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Noochila/-DSA-/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
