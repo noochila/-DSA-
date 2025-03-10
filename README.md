@@ -463,6 +463,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [3455-minimum-length-of-string-after-operations](https://github.com/Noochila/-DSA-/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/Noochila/-DSA-/tree/master/3487-find-maximum-removals-from-source-string) |
 | [3541-report-spam-message](https://github.com/Noochila/-DSA-/tree/master/3541-report-spam-message) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Noochila/-DSA-/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/Noochila/-DSA-/tree/master/3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/Noochila/-DSA-/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/Noochila/-DSA-/tree/master/3576-find-subtree-sizes-after-changes) |
@@ -570,6 +571,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [3455-minimum-length-of-string-after-operations](https://github.com/Noochila/-DSA-/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/Noochila/-DSA-/tree/master/3487-find-maximum-removals-from-source-string) |
 | [3541-report-spam-message](https://github.com/Noochila/-DSA-/tree/master/3541-report-spam-message) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Noochila/-DSA-/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/Noochila/-DSA-/tree/master/3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/Noochila/-DSA-/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/Noochila/-DSA-/tree/master/3576-find-subtree-sizes-after-changes) |
@@ -1382,6 +1384,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Noochila/-DSA-/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3483-alternating-groups-ii](https://github.com/Noochila/-DSA-/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Noochila/-DSA-/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Noochila/-DSA-/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/Noochila/-DSA-/tree/master/3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/Noochila/-DSA-/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Noochila/-DSA-/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
