@@ -422,6 +422,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1256-rank-transform-of-an-array](https://github.com/Noochila/-DSA-/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/Noochila/-DSA-/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Noochila/-DSA-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Noochila/-DSA-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Noochila/-DSA-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Noochila/-DSA-/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/Noochila/-DSA-/tree/master/1502-construct-k-palindrome-strings) |
@@ -517,6 +518,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1304-longest-happy-string](https://github.com/Noochila/-DSA-/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Noochila/-DSA-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Noochila/-DSA-/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Noochila/-DSA-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Noochila/-DSA-/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/Noochila/-DSA-/tree/master/1502-construct-k-palindrome-strings) |
 | [1508-longest-happy-prefix](https://github.com/Noochila/-DSA-/tree/master/1508-longest-happy-prefix) |
@@ -1374,6 +1376,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Noochila/-DSA-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0713-subarray-product-less-than-k](https://github.com/Noochila/-DSA-/tree/master/0713-subarray-product-less-than-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Noochila/-DSA-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Noochila/-DSA-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/Noochila/-DSA-/tree/master/1755-defuse-the-bomb) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Noochila/-DSA-/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Noochila/-DSA-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
