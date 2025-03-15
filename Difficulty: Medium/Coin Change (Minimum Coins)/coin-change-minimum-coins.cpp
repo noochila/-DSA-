@@ -4,40 +4,62 @@ using namespace std;
 
 
 // } Driver Code Ends
-class Solution {
 
+class Solution {
   public:
-    int minCoins(vector<int> &coins, int v) {
-        // Your code goes here
-        int m=coins.size();
-        vector<int> dp(v+1,INT_MAX);
-        dp[0]= 0;
-        for(int i = 0;i<m;i++){
-           for(int j = coins[i];j<=v;j++){
-               if(dp[j-coins[i]]!=INT_MAX){
-                   dp[j] = min(dp[j],dp[j-coins[i]]+1);
-               }
-           } 
+    int minCoins(vector<int> &coins, int sum) {
+        // code here
+        
+        sort(coins.begin(),coins.end());
+        
+        vector<int> dp(sum+3,1e9); //mini no of coins to make sum 0;
+        dp[0]=0;  // 0 coins to make sum 0
+        // 
+        
+     
+        
+        for(int i=1;i<=sum;i++)
+        {
+            for(int j=0;j<coins.size();j++)
+            {
+                if(i-coins[j]>=0)
+                dp[i]=min(dp[i],1+dp[i-coins[j]]);
+                
+            }
+            // cout<<i<< " "<<dp[i]<<endl;
         }
-        return dp[v]>=INT_MAX?-1:dp[v];
+        
+        if(dp[sum]==1e9)
+        return -1;
+        else
+        return dp[sum];
+        
     }
 };
 
+
 //{ Driver Code Starts.
+
 int main() {
-
-    int t;
-    cin >> t;
+    string ts;
+    getline(cin, ts);
+    int t = stoi(ts);
     while (t--) {
-        int v, m;
-        cin >> v >> m;
-
-        vector<int> coins(m);
-        for (int i = 0; i < m; i++)
-            cin >> coins[i];
-
-        Solution ob;
-        cout << ob.minCoins(coins, v) << "\n";
+        string ks;
+        getline(cin, ks);
+        int k = stoi(ks);
+        vector<int> arr;
+        string input;
+        getline(cin, input);
+        stringstream ss(input);
+        int number;
+        while (ss >> number) {
+            arr.push_back(number);
+        }
+        Solution obj;
+        int res = obj.minCoins(arr, k);
+        cout << res << endl;
+        cout << "~" << endl;
     }
     return 0;
 }
