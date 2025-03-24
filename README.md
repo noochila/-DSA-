@@ -899,6 +899,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Noochila/-DSA-/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/Noochila/-DSA-/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/Noochila/-DSA-/tree/master/3429-special-array-i) |
+| [3430-count-days-without-meetings](https://github.com/Noochila/-DSA-/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Noochila/-DSA-/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Noochila/-DSA-/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3464-maximize-total-cost-of-alternating-subarrays](https://github.com/Noochila/-DSA-/tree/master/3464-maximize-total-cost-of-alternating-subarrays) |
@@ -977,6 +978,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Noochila/-DSA-/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Noochila/-DSA-/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Noochila/-DSA-/tree/master/3291-find-if-array-can-be-sorted) |
+| [3430-count-days-without-meetings](https://github.com/Noochila/-DSA-/tree/master/3430-count-days-without-meetings) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Noochila/-DSA-/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Heap (Priority Queue)
 |  |
