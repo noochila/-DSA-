@@ -1,16 +1,14 @@
 //{ Driver Code Starts
-// Initial Template for C++
-
 #include <bits/stdc++.h>
 using namespace std;
 
+
 // } Driver Code Ends
+
 // User function Template for C++
-
-class Solution{
-public:
-
-int mod=1003;
+class Solution {
+  public:
+  
   
    int solve(int i,int j,string s,bool istrue,  vector<vector<vector<int>>> &dp)
    {
@@ -42,58 +40,57 @@ int mod=1003;
            if(s[k]=='|')
            {
                if(istrue)
-               c=(c+(lt*rf)%mod+(lf*rt)%mod+(lt*rt)%mod)%mod;
+               c=(c+(lt*rf)+(lf*rt)+(lt*rt));
                else
-               c=(c+(lf*rf)%mod)%mod;
+               c=(c+(lf*rf));
            }
            
            
            if(s[k]=='&')
            {
                if(istrue)
-               c=(c+(lt*rt)%mod)%mod;
+               c=(c+(lt*rt));
                else
-               c=(c+(lf*rt)%mod+(lt*rf)%mod+(lf*rf)%mod)%mod;
+               c=(c+(lf*rt)+(lt*rf)+(lf*rf));
            }
            
            if(s[k]=='^')
            {
                if(istrue)
-               c=(c+(lt*rf)%mod+(lf*rt)%mod)%mod;
+               c=(c+(lt*rf)+(lf*rt));
                else
-               c=(c+(lt*rt)%mod+(lf*rf)%mod)%mod;
+               c=(c+(lt*rt)+(lf*rf));
            }
            
           
        }
        
-         return dp[i][j][istrue]= c%mod;
+         return dp[i][j][istrue]= c;
    }
-
-  
-    int countWays(int n, string s){
+    int countWays(string &s) {
         // code here
-         vector<vector<vector<int>>> dp(n, vector<vector<int>>(n, vector<int>(2, -1)));
+        
+        int n=s.size();
+            vector<vector<vector<int>>> dp(n, vector<vector<int>>(n, vector<int>(2, -1)));
 
         
         return solve(0,n-1,s,true,dp);
+        
     }
 };
 
-//{ Driver Code Starts.
 
-int main(){
+//{ Driver Code Starts.
+int main() {
     int t;
-    cin>>t;
-    while(t--){
-        int n;
-        cin>>n;
+    cin >> t;
+    while (t--) {
         string s;
-        cin>>s;
-        
+        cin >> s;
         Solution ob;
-        cout<<ob.countWays(n, s)<<"\n";
+        int ans = ob.countWays(s);
+        cout << ans << endl;
+        cout << "~" << endl;
     }
-    return 0;
 }
 // } Driver Code Ends
