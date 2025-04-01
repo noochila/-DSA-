@@ -638,6 +638,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Noochila/-DSA-/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Noochila/-DSA-/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2164-two-best-non-overlapping-events](https://github.com/Noochila/-DSA-/tree/master/2164-two-best-non-overlapping-events) |
+| [2262-solving-questions-with-brainpower](https://github.com/Noochila/-DSA-/tree/master/2262-solving-questions-with-brainpower) |
 | [2554-minimum-total-distance-traveled](https://github.com/Noochila/-DSA-/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Noochila/-DSA-/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Noochila/-DSA-/tree/master/2586-longest-square-streak-in-an-array) |
@@ -848,6 +849,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [2227-sum-of-subarray-ranges](https://github.com/Noochila/-DSA-/tree/master/2227-sum-of-subarray-ranges) |
 | [2232-adding-spaces-to-a-string](https://github.com/Noochila/-DSA-/tree/master/2232-adding-spaces-to-a-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Noochila/-DSA-/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2262-solving-questions-with-brainpower](https://github.com/Noochila/-DSA-/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Noochila/-DSA-/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Noochila/-DSA-/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Noochila/-DSA-/tree/master/2306-create-binary-tree-from-descriptions) |
