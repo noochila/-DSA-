@@ -2,7 +2,9 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+
 // } Driver Code Ends
+
 class Solution {
   public:
     // Function to find the number of islands.
@@ -12,46 +14,7 @@ class Solution {
     
      visited[i][j]=1;
      
-    //  if(i-1>=0 && visited[i-1][j]==0 &&  roads[i-1][j]=='1')
-    //  {
-    //      dfs(i-1,j,roads,visited,n,m);
-    //  }
-     
-    //  if(i+1<n && visited[i+1][j]==0 &&  roads[i+1][j]=='1')
-    //  {
-    //      dfs(i+1,j,roads,visited,n,m);
-    //  }
-     
-    //  if(j+1<m && visited[i][j+1]==0 &&  roads[i][j+1]=='1') 
-    //  {
-    //      dfs(i,j+1,roads,visited,n,m);
-    //  }
-     
-     
-    //  if(j-1>=0 && visited[i][j-1]==0 &&  roads[i][j-1]=='1')
-    //  {
-    //      dfs(i,j-1,roads,visited,n,m);
-    //  }
-     
-     
-    //  if(j-1>=0 && i-1>=0 && visited[i-1][j-1]==0 &&  roads[i-1][j-1]=='1')
-    //  {
-    //      dfs(i-1,j-1,roads,visited,n,m);
-    //  }
-    //  if(j+1<m && i+1<n&&  visited[i+1][j+1]==0 &&  roads[i+1][j+1]=='1')
-    //  {
-    //      dfs(i+1,j+1,roads,visited,n,m);
-    //  }
-     
-    //  if(j-1>=0 && i+1<n && visited[i+1][j-1]==0 &&  roads[i+1][j-1]=='1')
-    //  {
-    //      dfs(i+1,j-1,roads,visited,n,m);
-    //  }
-     
-    //  if(j+1<m && i-1>=0 && visited[i-1][j+1]==0 &&  roads[i-1][j+1]=='1')
-    //  {
-    //      dfs(i-1,j+1,roads,visited,n,m);
-    //  }
+    
      
        for(int drow=-1;drow<=1;drow++)
        {
@@ -60,17 +23,12 @@ class Solution {
                int nrow=drow+i;
                int ncol=dcol+j;
                
-               if(nrow<n && nrow>=0 && ncol<m && ncol>=0 && roads[nrow][ncol]=='1' && visited[nrow][ncol]==0)
+               if(nrow<n && nrow>=0 && ncol<m && ncol>=0 && roads[nrow][ncol]=='L' && visited[nrow][ncol]==0)
                dfs(nrow,ncol,roads,visited,n,m);
            }
        }
      
-     
-     
-     
-     
-     
-   
+
     
 }
 
@@ -87,7 +45,7 @@ int findNumOfProvinces(vector<vector<char>>& roads, int n,int m) {
     {
         for(int j=0;j<m;j++)
         {
-            if(visited[i][j]==0 && roads[i][j]=='1')
+            if(visited[i][j]==0 && roads[i][j]=='L')
             {
         
                 dfs(i,j,roads,visited,n,m);
@@ -100,13 +58,15 @@ int findNumOfProvinces(vector<vector<char>>& roads, int n,int m) {
     return count;
     
 }
-    int numIslands(vector<vector<char>>& grid) {
+    int countIslands(vector<vector<char>>& grid) {
         // Code here
         
         return findNumOfProvinces(grid,grid.size(),grid[0].size());
         
     }
 };
+
+
 
 
 //{ Driver Code Starts.
@@ -123,8 +83,11 @@ int main() {
             }
         }
         Solution obj;
-        int ans = obj.numIslands(grid);
+        int ans = obj.countIslands(grid);
         cout << ans << '\n';
+
+        cout << "~"
+             << "\n";
     }
     return 0;
 }
