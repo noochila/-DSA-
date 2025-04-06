@@ -1,36 +1,38 @@
 class Solution {
 public:
     vector<int> largestDivisibleSubset(vector<int>& nums) {
-        if (nums.empty()) return {};
 
-        // Sort the input array
-        sort(nums.begin(), nums.end());
+        int n=nums.size();
+        vector<int> track(n,-1);
+        vector<int> dp(n,1);
+        sort(nums.begin(),nums.end());
 
-        int n = nums.size();
-        vector<int> dp(n, 1);  // dp[i] will be the length of the largest divisible subset ending with nums[i]
-        vector<int> prev(n, -1);  // prev[i] will track the previous element in the subset ending with nums[i]
-        int maxSize = 1, maxIndex = 0;
-
-        for (int i = 1; i < n; ++i) {
-            for (int j = 0; j < i; ++j) {
-                if (nums[i] % nums[j] == 0 && dp[j] + 1 > dp[i]) {
-                    dp[i] = dp[j] + 1;
-                    prev[i] = j;
+        for(int i=0;i<n;i++)
+        {
+            for(int j=i-1;j>=0;j--)
+            {
+                if(nums[i]%nums[j]==0 && dp[i]<1+dp[j])
+                {
+                    
+                    dp[i]=1+dp[j];
+                    track[i]=j;
                 }
             }
-            if (dp[i] > maxSize) {
-                maxSize = dp[i];
-                maxIndex = i;
-            }
         }
 
-        // Reconstruct the largest divisible subset
-        vector<int> result;
-        for (int i = maxIndex; i != -1; i = prev[i]) {
-            result.push_back(nums[i]);
-        }
-        reverse(result.begin(), result.end());
+        vector<int>ans;
 
-        return result;
+        int  ind=max_element(dp.begin(),dp.end())-dp.begin();
+    
+        for(int i=ind;i!=-1;i=track[i])
+        {
+
+            ans.push_back(nums[i]);
+
+        }
+
+        reverse(ans.begin(),ans.end());
+        return ans;
+        
     }
 };
