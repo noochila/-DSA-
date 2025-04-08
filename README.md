@@ -475,6 +475,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Noochila/-DSA-/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Noochila/-DSA-/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3646-sum-of-good-subsequences](https://github.com/Noochila/-DSA-/tree/master/3646-sum-of-good-subsequences) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Noochila/-DSA-/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## String
 |  |
 | ------- |
@@ -930,6 +931,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Noochila/-DSA-/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Noochila/-DSA-/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3646-sum-of-good-subsequences](https://github.com/Noochila/-DSA-/tree/master/3646-sum-of-good-subsequences) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Noochila/-DSA-/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3658-minimize-the-maximum-adjacent-element-difference](https://github.com/Noochila/-DSA-/tree/master/3658-minimize-the-maximum-adjacent-element-difference) |
 ## Divide and Conquer
 |  |
