@@ -939,6 +939,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [3646-sum-of-good-subsequences](https://github.com/Noochila/-DSA-/tree/master/3646-sum-of-good-subsequences) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Noochila/-DSA-/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3658-minimize-the-maximum-adjacent-element-difference](https://github.com/Noochila/-DSA-/tree/master/3658-minimize-the-maximum-adjacent-element-difference) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/noochila/-DSA-/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Divide and Conquer
 |  |
 | ------- |
