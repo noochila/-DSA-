@@ -865,6 +865,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Noochila/-DSA-/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/Noochila/-DSA-/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Noochila/-DSA-/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/noochila/-DSA-/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2411-spiral-matrix-iv](https://github.com/Noochila/-DSA-/tree/master/2411-spiral-matrix-iv) |
 | [2448-count-number-of-bad-pairs](https://github.com/Noochila/-DSA-/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/Noochila/-DSA-/tree/master/2465-shifting-letters-ii) |
@@ -1335,6 +1336,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [2164-two-best-non-overlapping-events](https://github.com/Noochila/-DSA-/tree/master/2164-two-best-non-overlapping-events) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Noochila/-DSA-/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Noochila/-DSA-/tree/master/2280-count-good-triplets-in-an-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/noochila/-DSA-/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Noochila/-DSA-/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Noochila/-DSA-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2690-house-robber-iv](https://github.com/Noochila/-DSA-/tree/master/2690-house-robber-iv) |
@@ -1370,6 +1372,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Noochila/-DSA-/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/Noochila/-DSA-/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/Noochila/-DSA-/tree/master/2358-number-of-ways-to-split-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/noochila/-DSA-/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/Noochila/-DSA-/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Noochila/-DSA-/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Noochila/-DSA-/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -1415,6 +1418,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Noochila/-DSA-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/Noochila/-DSA-/tree/master/1755-defuse-the-bomb) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Noochila/-DSA-/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/noochila/-DSA-/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/Noochila/-DSA-/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Noochila/-DSA-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Noochila/-DSA-/tree/master/2599-take-k-of-each-character-from-left-and-right) |
