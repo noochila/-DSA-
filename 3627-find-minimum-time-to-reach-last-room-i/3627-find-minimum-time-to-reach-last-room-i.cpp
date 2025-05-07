@@ -1,50 +1,59 @@
-#include <iostream>
-#include <vector>
-#include <queue>
-#include <algorithm>
-using namespace std;
-
 class Solution {
 public:
-    int minTimeToReach(vector<vector<int>>& moveTime) {
-        int n = moveTime.size();
-        int m = moveTime[0].size();
+    int minTimeToReach(vector<vector<int>>& a) {
 
-        // Corrected the declaration of the priority queue
-        priority_queue<pair<int, pair<int, int>>, vector<pair<int, pair<int, int>>>, greater<>> pq;
-        pq.push({0, {0, 0}});
 
-        int dx[] = {-1, 0, 1, 0};
-        int dy[] = {0, 1, 0, -1};
 
-        vector<vector<int>> final_ans(n, vector<int>(m, INT_MAX));
-        final_ans[0][0]=0;
+        int n=a.size();
+        int m=a[0].size();
 
-        while (!pq.empty()) {
-            auto temp = pq.top();
-            pq.pop();
-            int time = temp.first;
-            int x = temp.second.first;
-            int y = temp.second.second;
+       priority_queue<pair<int, pair<int, int>>, vector<pair<int, pair<int, int>>>, greater<>> q;
 
-            // cout << time << " " << x << " " << y << endl;
+        q.push({0,{0,0}});
 
-            if (x == n - 1 && y == m - 1) {
-                return time;
+        vector<vector<int>>vis(n,vector<int>(m,INT_MAX));
+        int dx[]={-1,0,1,0};
+        int dy[]={0,1,0,-1};
+
+        vis[0][0]=0;
+        while(!q.empty())
+        {
+            auto temp=q.top();
+            q.pop();
+
+            int t=temp.first;
+            int x=temp.second.first;
+            int y=temp.second.second;
+
+           
+
+            if(x==n-1 && y==m-1)
+            {
+                return t;
             }
 
-            for (int k = 0; k < 4; k++) {
-                int nx = x + dx[k];
-                int ny = y + dy[k];
-                if (nx >= 0 && nx < n && ny >= 0 && ny < m) {
-                    int nextTime = max(time, moveTime[nx][ny] )+1;
-                    if (nextTime < final_ans[nx][ny]) {
-                        final_ans[nx][ny] = nextTime;
-                        pq.push({nextTime, {nx, ny}});
+
+            for(int k=0;k<4;k++)
+            {
+                int  nx=dx[k]+x;
+                int ny=dy[k]+y;
+                if(nx>=0 && nx<n && ny>=0 && ny<m )
+                {
+                    int nextTime = max(t, a[nx][ny] )+1;
+
+                    if(nextTime<vis[nx][ny])
+                    {
+                        vis[nx][ny]=nextTime;
+                        q.push({nextTime,{nx,ny}});
                     }
+
+
                 }
             }
+
         }
+
         return -1;
+            
     }
 };
