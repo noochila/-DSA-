@@ -476,6 +476,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [3583-sorted-gcd-pair-queries](https://github.com/Noochila/-DSA-/tree/master/3583-sorted-gcd-pair-queries) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Noochila/-DSA-/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Noochila/-DSA-/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/noochila/-DSA-/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3646-sum-of-good-subsequences](https://github.com/Noochila/-DSA-/tree/master/3646-sum-of-good-subsequences) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Noochila/-DSA-/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## String
@@ -585,6 +586,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [3580-find-the-occurrence-of-first-almost-equal-substring](https://github.com/Noochila/-DSA-/tree/master/3580-find-the-occurrence-of-first-almost-equal-substring) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Noochila/-DSA-/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3588-count-the-number-of-winning-sequences](https://github.com/Noochila/-DSA-/tree/master/3588-count-the-number-of-winning-sequences) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/noochila/-DSA-/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -655,6 +657,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [3487-find-maximum-removals-from-source-string](https://github.com/Noochila/-DSA-/tree/master/3487-find-maximum-removals-from-source-string) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Noochila/-DSA-/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3588-count-the-number-of-winning-sequences](https://github.com/Noochila/-DSA-/tree/master/3588-count-the-number-of-winning-sequences) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/noochila/-DSA-/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3646-sum-of-good-subsequences](https://github.com/Noochila/-DSA-/tree/master/3646-sum-of-good-subsequences) |
 ## Backtracking
 |  |
@@ -697,6 +700,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/Noochila/-DSA-/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Noochila/-DSA-/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3583-sorted-gcd-pair-queries](https://github.com/Noochila/-DSA-/tree/master/3583-sorted-gcd-pair-queries) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/noochila/-DSA-/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Array
 |  |
 | ------- |
@@ -1475,6 +1479,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Noochila/-DSA-/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3583-sorted-gcd-pair-queries](https://github.com/Noochila/-DSA-/tree/master/3583-sorted-gcd-pair-queries) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Noochila/-DSA-/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/noochila/-DSA-/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Matrix
 |  |
 | ------- |
