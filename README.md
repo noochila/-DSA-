@@ -566,6 +566,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Noochila/-DSA-/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/Noochila/-DSA-/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Noochila/-DSA-/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/noochila/-DSA-/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Noochila/-DSA-/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/Noochila/-DSA-/tree/master/3195-separate-black-and-white-balls) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Noochila/-DSA-/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -651,6 +652,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [2755-extra-characters-in-a-string](https://github.com/Noochila/-DSA-/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Noochila/-DSA-/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/Noochila/-DSA-/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/noochila/-DSA-/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/Noochila/-DSA-/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 | [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Noochila/-DSA-/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3464-maximize-total-cost-of-alternating-subarrays](https://github.com/Noochila/-DSA-/tree/master/3464-maximize-total-cost-of-alternating-subarrays) |
@@ -910,6 +912,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [2888-minimum-index-of-a-valid-split](https://github.com/Noochila/-DSA-/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Noochila/-DSA-/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2915-count-of-interesting-subarrays](https://github.com/Noochila/-DSA-/tree/master/2915-count-of-interesting-subarrays) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/noochila/-DSA-/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Noochila/-DSA-/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/noochila/-DSA-/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/noochila/-DSA-/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -1264,6 +1267,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Noochila/-DSA-/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Noochila/-DSA-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/Noochila/-DSA-/tree/master/2716-prime-subtraction-operation) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/noochila/-DSA-/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/noochila/-DSA-/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/Noochila/-DSA-/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Noochila/-DSA-/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
