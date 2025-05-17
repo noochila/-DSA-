@@ -720,6 +720,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0057-insert-interval](https://github.com/Noochila/-DSA-/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/Noochila/-DSA-/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Noochila/-DSA-/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/noochila/-DSA-/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Noochila/-DSA-/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Noochila/-DSA-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Noochila/-DSA-/tree/master/0084-largest-rectangle-in-histogram) |
@@ -971,6 +972,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | ------- |
 | [0015-3sum](https://github.com/Noochila/-DSA-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Noochila/-DSA-/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/noochila/-DSA-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Noochila/-DSA-/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Noochila/-DSA-/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/Noochila/-DSA-/tree/master/0179-largest-number) |
@@ -1287,6 +1289,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Noochila/-DSA-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Noochila/-DSA-/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Noochila/-DSA-/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/noochila/-DSA-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Noochila/-DSA-/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Noochila/-DSA-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Noochila/-DSA-/tree/master/0142-linked-list-cycle-ii) |
