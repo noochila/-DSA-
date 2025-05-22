@@ -954,6 +954,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Noochila/-DSA-/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/noochila/-DSA-/tree/master/3639-zero-array-transformation-i) |
 | [3646-sum-of-good-subsequences](https://github.com/Noochila/-DSA-/tree/master/3646-sum-of-good-subsequences) |
+| [3647-zero-array-transformation-iii](https://github.com/noochila/-DSA-/tree/master/3647-zero-array-transformation-iii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Noochila/-DSA-/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3658-minimize-the-maximum-adjacent-element-difference](https://github.com/Noochila/-DSA-/tree/master/3658-minimize-the-maximum-adjacent-element-difference) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/noochila/-DSA-/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -1018,6 +1019,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [3321-type-of-triangle](https://github.com/noochila/-DSA-/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/Noochila/-DSA-/tree/master/3430-count-days-without-meetings) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Noochila/-DSA-/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
+| [3647-zero-array-transformation-iii](https://github.com/noochila/-DSA-/tree/master/3647-zero-array-transformation-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1052,6 +1054,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Noochila/-DSA-/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Noochila/-DSA-/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Noochila/-DSA-/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/noochila/-DSA-/tree/master/3647-zero-array-transformation-iii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1281,6 +1284,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Noochila/-DSA-/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Noochila/-DSA-/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Noochila/-DSA-/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
+| [3647-zero-array-transformation-iii](https://github.com/noochila/-DSA-/tree/master/3647-zero-array-transformation-iii) |
 | [3658-minimize-the-maximum-adjacent-element-difference](https://github.com/Noochila/-DSA-/tree/master/3658-minimize-the-maximum-adjacent-element-difference) |
 ## Two Pointers
 |  |
@@ -1402,6 +1406,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Noochila/-DSA-/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3583-sorted-gcd-pair-queries](https://github.com/Noochila/-DSA-/tree/master/3583-sorted-gcd-pair-queries) |
 | [3639-zero-array-transformation-i](https://github.com/noochila/-DSA-/tree/master/3639-zero-array-transformation-i) |
+| [3647-zero-array-transformation-iii](https://github.com/noochila/-DSA-/tree/master/3647-zero-array-transformation-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
