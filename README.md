@@ -433,6 +433,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Noochila/-DSA-/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Noochila/-DSA-/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Noochila/-DSA-/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/noochila/-DSA-/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Noochila/-DSA-/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2055-describe-the-painting](https://github.com/Noochila/-DSA-/tree/master/2055-describe-the-painting) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Noochila/-DSA-/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -644,6 +645,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Noochila/-DSA-/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Noochila/-DSA-/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Noochila/-DSA-/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/noochila/-DSA-/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Noochila/-DSA-/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Noochila/-DSA-/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Noochila/-DSA-/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -696,6 +698,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1786-count-the-number-of-consistent-strings](https://github.com/Noochila/-DSA-/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Noochila/-DSA-/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1983-maximum-population-year](https://github.com/Noochila/-DSA-/tree/master/1983-maximum-population-year) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/noochila/-DSA-/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Noochila/-DSA-/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/noochila/-DSA-/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Noochila/-DSA-/tree/master/2300-construct-string-with-repeat-limit) |
@@ -1110,6 +1113,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Noochila/-DSA-/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/Noochila/-DSA-/tree/master/1558-course-schedule-iv) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Noochila/-DSA-/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/noochila/-DSA-/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Noochila/-DSA-/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Noochila/-DSA-/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Noochila/-DSA-/tree/master/2201-valid-arrangement-of-pairs) |
@@ -1658,6 +1662,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [0820-find-eventual-safe-states](https://github.com/Noochila/-DSA-/tree/master/0820-find-eventual-safe-states) |
 | [0881-loud-and-rich](https://github.com/Noochila/-DSA-/tree/master/0881-loud-and-rich) |
 | [1558-course-schedule-iv](https://github.com/Noochila/-DSA-/tree/master/1558-course-schedule-iv) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/noochila/-DSA-/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Noochila/-DSA-/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Noochila/-DSA-/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Shortest Path
@@ -1821,6 +1826,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Noochila/-DSA-/tree/master/0241-different-ways-to-add-parentheses) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/noochila/-DSA-/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Rolling Hash
 |  |
 | ------- |
