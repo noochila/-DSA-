@@ -885,6 +885,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Noochila/-DSA-/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/Noochila/-DSA-/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Noochila/-DSA-/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/noochila/-DSA-/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/noochila/-DSA-/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2411-spiral-matrix-iv](https://github.com/Noochila/-DSA-/tree/master/2411-spiral-matrix-iv) |
 | [2448-count-number-of-bad-pairs](https://github.com/Noochila/-DSA-/tree/master/2448-count-number-of-bad-pairs) |
@@ -1009,6 +1010,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Noochila/-DSA-/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2055-describe-the-painting](https://github.com/Noochila/-DSA-/tree/master/2055-describe-the-painting) |
 | [2164-two-best-non-overlapping-events](https://github.com/Noochila/-DSA-/tree/master/2164-two-best-non-overlapping-events) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/noochila/-DSA-/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Noochila/-DSA-/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Noochila/-DSA-/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Noochila/-DSA-/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -1285,6 +1287,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Noochila/-DSA-/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/noochila/-DSA-/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Noochila/-DSA-/tree/master/2300-construct-string-with-repeat-limit) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/noochila/-DSA-/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Noochila/-DSA-/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Noochila/-DSA-/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Noochila/-DSA-/tree/master/2497-maximum-matching-of-players-with-trainers) |
