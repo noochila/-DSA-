@@ -434,6 +434,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1786-count-the-number-of-consistent-strings](https://github.com/Noochila/-DSA-/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Noochila/-DSA-/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/noochila/-DSA-/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Noochila/-DSA-/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Noochila/-DSA-/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2055-describe-the-painting](https://github.com/Noochila/-DSA-/tree/master/2055-describe-the-painting) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Noochila/-DSA-/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -856,6 +857,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1972-rotating-the-box](https://github.com/Noochila/-DSA-/tree/master/1972-rotating-the-box) |
 | [1983-maximum-population-year](https://github.com/Noochila/-DSA-/tree/master/1983-maximum-population-year) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Noochila/-DSA-/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Noochila/-DSA-/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Noochila/-DSA-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/Noochila/-DSA-/tree/master/2035-count-sub-islands) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Noochila/-DSA-/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -1253,6 +1255,7 @@ Collection of LeetCode/GFG questions to ace the coding interview!
 | [1477-product-of-the-last-k-numbers](https://github.com/Noochila/-DSA-/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Noochila/-DSA-/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1582-design-browser-history](https://github.com/Noochila/-DSA-/tree/master/1582-design-browser-history) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Noochila/-DSA-/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2434-design-a-number-container-system](https://github.com/Noochila/-DSA-/tree/master/2434-design-a-number-container-system) |
 ## Greedy
 |  |
